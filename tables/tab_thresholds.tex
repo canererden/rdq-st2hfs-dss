@@ -1,0 +1,21 @@
+\begin{table}[!htbp]
+\centering
+\scriptsize
+\caption{Sensitivity to the classification thresholds and the number of yearly scenarios $K$ on the hold-out period (30 annual decisions; outlier stability over two windows with 40 replications each). Best value per row and measure in bold.}\label{tab:thresholds}
+\begin{adjustbox}{max width=\textwidth}
+\begin{tabular}{llrrrrrrrrrrrr}
+\toprule
+ & & \multicolumn{6}{c}{$\rho_U$} & \multicolumn{6}{c}{Outlier stability (Kendall's $\tau$)}\\
+\cmidrule(lr){3-8}\cmidrule(lr){9-14}
+Classes & $K$ & Prop. & SF & HF & TOP & RA & RT & Prop. & SF & HF & TOP & RA & RT \\
+\midrule
+Terciles & 3 & 0.547 & 0.513 & 0.461 & 0.063 & 0.546 & \textbf{0.557} & 0.895 & 0.902 & 0.901 & 0.569 & \textbf{0.922} & 0.908 \\
+Terciles & 5 & 0.561 & 0.531 & 0.479 & 0.103 & 0.560 & \textbf{0.563} & 0.911 & 0.910 & 0.903 & 0.558 & \textbf{0.925} & 0.919 \\
+Quartiles & 3 & 0.379 & 0.419 & 0.351 & 0.063 & 0.546 & \textbf{0.557} & 0.803 & 0.850 & 0.868 & 0.569 & \textbf{0.922} & 0.908 \\
+Quartiles & 5 & 0.382 & 0.453 & 0.370 & 0.103 & 0.560 & \textbf{0.563} & 0.809 & 0.866 & 0.870 & 0.558 & \textbf{0.925} & 0.919 \\
+Quintiles & 3 & 0.143 & 0.328 & 0.265 & 0.063 & 0.546 & \textbf{0.557} & 0.787 & 0.816 & 0.836 & 0.569 & \textbf{0.922} & 0.908 \\
+Quintiles & 5 & 0.118 & 0.344 & 0.269 & 0.103 & 0.560 & \textbf{0.563} & 0.801 & 0.843 & 0.849 & 0.558 & \textbf{0.925} & 0.919 \\
+\bottomrule
+\end{tabular}
+\end{adjustbox}
+\end{table}

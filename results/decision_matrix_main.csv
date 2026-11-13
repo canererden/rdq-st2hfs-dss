@@ -1,0 +1,3088 @@
+criterion,industry,component,element,primary,secondary,primary_rescaled
+C1 Monthly return,Agric,T,1,0.2667,0.5566,0.2222
+C1 Monthly return,Agric,T,2,0.3333,0.5287,0.2778
+C1 Monthly return,Agric,T,3,0.4000,0.5128,0.3333
+C1 Monthly return,Agric,I,1,0.2000,0.5989,0.1667
+C1 Monthly return,Agric,I,2,0.2000,0.5989,0.1667
+C1 Monthly return,Agric,I,3,0.2667,0.5566,0.2222
+C1 Monthly return,Agric,F,1,0.4000,0.5128,0.3333
+C1 Monthly return,Agric,F,2,0.4000,0.5128,0.3333
+C1 Monthly return,Agric,F,3,0.5333,0.5128,0.4444
+C1 Monthly return,Food,T,1,0.1333,0.6610,0.1111
+C1 Monthly return,Food,T,2,0.2000,0.5989,0.1667
+C1 Monthly return,Food,T,3,0.2667,0.5566,0.2222
+C1 Monthly return,Food,I,1,0.2667,0.5566,0.2222
+C1 Monthly return,Food,I,2,0.4000,0.5128,0.3333
+C1 Monthly return,Food,I,3,0.4000,0.5128,0.3333
+C1 Monthly return,Food,F,1,0.3333,0.5287,0.2778
+C1 Monthly return,Food,F,2,0.4667,0.5076,0.3889
+C1 Monthly return,Food,F,3,0.5333,0.5128,0.4444
+C1 Monthly return,Soda,T,1,0.2667,0.5566,0.1739
+C1 Monthly return,Soda,T,2,0.4000,0.5128,0.2609
+C1 Monthly return,Soda,T,3,0.6000,0.5287,0.3913
+C1 Monthly return,Soda,I,1,0.1333,0.6610,0.0870
+C1 Monthly return,Soda,I,2,0.1333,0.6610,0.0870
+C1 Monthly return,Soda,I,3,0.4667,0.5076,0.3043
+C1 Monthly return,Soda,F,1,0.2667,0.5566,0.1739
+C1 Monthly return,Soda,F,2,0.2667,0.5566,0.1739
+C1 Monthly return,Soda,F,3,0.4667,0.5076,0.3043
+C1 Monthly return,Beer,T,1,0.3333,0.5287,0.2632
+C1 Monthly return,Beer,T,2,0.3333,0.5287,0.2632
+C1 Monthly return,Beer,T,3,0.3333,0.5287,0.2632
+C1 Monthly return,Beer,I,1,0.1333,0.6610,0.1053
+C1 Monthly return,Beer,I,2,0.2667,0.5566,0.2105
+C1 Monthly return,Beer,I,3,0.4000,0.5128,0.3158
+C1 Monthly return,Beer,F,1,0.2667,0.5566,0.2105
+C1 Monthly return,Beer,F,2,0.4000,0.5128,0.3158
+C1 Monthly return,Beer,F,3,0.5333,0.5128,0.4211
+C1 Monthly return,Smoke,T,1,0.3333,0.5287,0.2778
+C1 Monthly return,Smoke,T,2,0.3333,0.5287,0.2778
+C1 Monthly return,Smoke,T,3,0.4000,0.5128,0.3333
+C1 Monthly return,Smoke,I,1,0.1333,0.6610,0.1111
+C1 Monthly return,Smoke,I,2,0.1333,0.6610,0.1111
+C1 Monthly return,Smoke,I,3,0.2667,0.5566,0.2222
+C1 Monthly return,Smoke,F,1,0.3333,0.5287,0.2778
+C1 Monthly return,Smoke,F,2,0.5333,0.5128,0.4444
+C1 Monthly return,Smoke,F,3,0.5333,0.5128,0.4444
+C1 Monthly return,Toys,T,1,0.4000,0.5128,0.3333
+C1 Monthly return,Toys,T,2,0.5333,0.5128,0.4444
+C1 Monthly return,Toys,T,3,0.6000,0.5287,0.5000
+C1 Monthly return,Toys,I,1,0.1333,0.6610,0.1111
+C1 Monthly return,Toys,I,2,0.2000,0.5989,0.1667
+C1 Monthly return,Toys,I,3,0.2667,0.5566,0.2222
+C1 Monthly return,Toys,F,1,0.2667,0.5566,0.2222
+C1 Monthly return,Toys,F,2,0.2667,0.5566,0.2222
+C1 Monthly return,Toys,F,3,0.3333,0.5287,0.2778
+C1 Monthly return,Fun,T,1,0.4000,0.5128,0.3529
+C1 Monthly return,Fun,T,2,0.4000,0.5128,0.3529
+C1 Monthly return,Fun,T,3,0.5333,0.5128,0.4706
+C1 Monthly return,Fun,I,1,0.2000,0.5989,0.1765
+C1 Monthly return,Fun,I,2,0.3333,0.5287,0.2941
+C1 Monthly return,Fun,I,3,0.3333,0.5287,0.2941
+C1 Monthly return,Fun,F,1,0.2667,0.5566,0.2353
+C1 Monthly return,Fun,F,2,0.2667,0.5566,0.2353
+C1 Monthly return,Fun,F,3,0.2667,0.5566,0.2353
+C1 Monthly return,Books,T,1,0.2667,0.5566,0.2222
+C1 Monthly return,Books,T,2,0.2667,0.5566,0.2222
+C1 Monthly return,Books,T,3,0.3333,0.5287,0.2778
+C1 Monthly return,Books,I,1,0.2000,0.5989,0.1667
+C1 Monthly return,Books,I,2,0.4000,0.5128,0.3333
+C1 Monthly return,Books,I,3,0.4000,0.5128,0.3333
+C1 Monthly return,Books,F,1,0.3333,0.5287,0.2778
+C1 Monthly return,Books,F,2,0.3333,0.5287,0.2778
+C1 Monthly return,Books,F,3,0.4667,0.5076,0.3889
+C1 Monthly return,Hshld,T,1,0.3333,0.5287,0.2941
+C1 Monthly return,Hshld,T,2,0.4000,0.5128,0.3529
+C1 Monthly return,Hshld,T,3,0.4667,0.5076,0.4118
+C1 Monthly return,Hshld,I,1,0.2000,0.5989,0.1765
+C1 Monthly return,Hshld,I,2,0.3333,0.5287,0.2941
+C1 Monthly return,Hshld,I,3,0.3333,0.5287,0.2941
+C1 Monthly return,Hshld,F,1,0.2667,0.5566,0.2353
+C1 Monthly return,Hshld,F,2,0.3333,0.5287,0.2941
+C1 Monthly return,Hshld,F,3,0.3333,0.5287,0.2941
+C1 Monthly return,Clths,T,1,0.2667,0.5566,0.2000
+C1 Monthly return,Clths,T,2,0.4000,0.5128,0.3000
+C1 Monthly return,Clths,T,3,0.6000,0.5287,0.4500
+C1 Monthly return,Clths,I,1,0.2000,0.5989,0.1500
+C1 Monthly return,Clths,I,2,0.3333,0.5287,0.2500
+C1 Monthly return,Clths,I,3,0.4000,0.5128,0.3000
+C1 Monthly return,Clths,F,1,0.2000,0.5989,0.1500
+C1 Monthly return,Clths,F,2,0.2667,0.5566,0.2000
+C1 Monthly return,Clths,F,3,0.3333,0.5287,0.2500
+C1 Monthly return,Hlth,T,1,0.4000,0.5128,0.3158
+C1 Monthly return,Hlth,T,2,0.4000,0.5128,0.3158
+C1 Monthly return,Hlth,T,3,0.4667,0.5076,0.3684
+C1 Monthly return,Hlth,I,1,0.2667,0.5566,0.2105
+C1 Monthly return,Hlth,I,2,0.3333,0.5287,0.2632
+C1 Monthly return,Hlth,I,3,0.4667,0.5076,0.3684
+C1 Monthly return,Hlth,F,1,0.1333,0.6610,0.1053
+C1 Monthly return,Hlth,F,2,0.2000,0.5989,0.1579
+C1 Monthly return,Hlth,F,3,0.3333,0.5287,0.2632
+C1 Monthly return,MedEq,T,1,0.2000,0.5989,0.1250
+C1 Monthly return,MedEq,T,2,0.2000,0.5989,0.1250
+C1 Monthly return,MedEq,T,3,0.6667,0.5566,0.4167
+C1 Monthly return,MedEq,I,1,0.2000,0.5989,0.1250
+C1 Monthly return,MedEq,I,2,0.4667,0.5076,0.2917
+C1 Monthly return,MedEq,I,3,0.6000,0.5287,0.3750
+C1 Monthly return,MedEq,F,1,0.1333,0.6610,0.0833
+C1 Monthly return,MedEq,F,2,0.2000,0.5989,0.1250
+C1 Monthly return,MedEq,F,3,0.3333,0.5287,0.2083
+C1 Monthly return,Drugs,T,1,0.2000,0.5989,0.1500
+C1 Monthly return,Drugs,T,2,0.4000,0.5128,0.3000
+C1 Monthly return,Drugs,T,3,0.4667,0.5076,0.3500
+C1 Monthly return,Drugs,I,1,0.2000,0.5989,0.1500
+C1 Monthly return,Drugs,I,2,0.3333,0.5287,0.2500
+C1 Monthly return,Drugs,I,3,0.4000,0.5128,0.3000
+C1 Monthly return,Drugs,F,1,0.1333,0.6610,0.1000
+C1 Monthly return,Drugs,F,2,0.4000,0.5128,0.3000
+C1 Monthly return,Drugs,F,3,0.4667,0.5076,0.3500
+C1 Monthly return,Chems,T,1,0.2000,0.5989,0.1579
+C1 Monthly return,Chems,T,2,0.2667,0.5566,0.2105
+C1 Monthly return,Chems,T,3,0.4000,0.5128,0.3158
+C1 Monthly return,Chems,I,1,0.4000,0.5128,0.3158
+C1 Monthly return,Chems,I,2,0.4000,0.5128,0.3158
+C1 Monthly return,Chems,I,3,0.4667,0.5076,0.3684
+C1 Monthly return,Chems,F,1,0.2000,0.5989,0.1579
+C1 Monthly return,Chems,F,2,0.2667,0.5566,0.2105
+C1 Monthly return,Chems,F,3,0.4000,0.5128,0.3158
+C1 Monthly return,Rubbr,T,1,0.2000,0.5989,0.1429
+C1 Monthly return,Rubbr,T,2,0.3333,0.5287,0.2381
+C1 Monthly return,Rubbr,T,3,0.5333,0.5128,0.3810
+C1 Monthly return,Rubbr,I,1,0.3333,0.5287,0.2381
+C1 Monthly return,Rubbr,I,2,0.3333,0.5287,0.2381
+C1 Monthly return,Rubbr,I,3,0.5333,0.5128,0.3810
+C1 Monthly return,Rubbr,F,1,0.1333,0.6610,0.0952
+C1 Monthly return,Rubbr,F,2,0.2667,0.5566,0.1905
+C1 Monthly return,Rubbr,F,3,0.3333,0.5287,0.2381
+C1 Monthly return,Txtls,T,1,0.2000,0.5989,0.1500
+C1 Monthly return,Txtls,T,2,0.4667,0.5076,0.3500
+C1 Monthly return,Txtls,T,3,0.5333,0.5128,0.4000
+C1 Monthly return,Txtls,I,1,0.1333,0.6610,0.1000
+C1 Monthly return,Txtls,I,2,0.2000,0.5989,0.1500
+C1 Monthly return,Txtls,I,3,0.2667,0.5566,0.2000
+C1 Monthly return,Txtls,F,1,0.2667,0.5566,0.2000
+C1 Monthly return,Txtls,F,2,0.4000,0.5128,0.3000
+C1 Monthly return,Txtls,F,3,0.5333,0.5128,0.4000
+C1 Monthly return,BldMt,T,1,0.2667,0.5566,0.1739
+C1 Monthly return,BldMt,T,2,0.2667,0.5566,0.1739
+C1 Monthly return,BldMt,T,3,0.4667,0.5076,0.3043
+C1 Monthly return,BldMt,I,1,0.2667,0.5566,0.1739
+C1 Monthly return,BldMt,I,2,0.4000,0.5128,0.2609
+C1 Monthly return,BldMt,I,3,0.6000,0.5287,0.3913
+C1 Monthly return,BldMt,F,1,0.1333,0.6610,0.0870
+C1 Monthly return,BldMt,F,2,0.1333,0.6610,0.0870
+C1 Monthly return,BldMt,F,3,0.4667,0.5076,0.3043
+C1 Monthly return,Cnstr,T,1,0.1333,0.6610,0.1000
+C1 Monthly return,Cnstr,T,2,0.4000,0.5128,0.3000
+C1 Monthly return,Cnstr,T,3,0.4667,0.5076,0.3500
+C1 Monthly return,Cnstr,I,1,0.2000,0.5989,0.1500
+C1 Monthly return,Cnstr,I,2,0.3333,0.5287,0.2500
+C1 Monthly return,Cnstr,I,3,0.4000,0.5128,0.3000
+C1 Monthly return,Cnstr,F,1,0.2667,0.5566,0.2000
+C1 Monthly return,Cnstr,F,2,0.3333,0.5287,0.2500
+C1 Monthly return,Cnstr,F,3,0.4667,0.5076,0.3500
+C1 Monthly return,Steel,T,1,0.2667,0.5566,0.2222
+C1 Monthly return,Steel,T,2,0.3333,0.5287,0.2778
+C1 Monthly return,Steel,T,3,0.4000,0.5128,0.3333
+C1 Monthly return,Steel,I,1,0.0667,0.7575,0.0556
+C1 Monthly return,Steel,I,2,0.2667,0.5566,0.2222
+C1 Monthly return,Steel,I,3,0.2667,0.5566,0.2222
+C1 Monthly return,Steel,F,1,0.4000,0.5128,0.3333
+C1 Monthly return,Steel,F,2,0.4667,0.5076,0.3889
+C1 Monthly return,Steel,F,3,0.5333,0.5128,0.4444
+C1 Monthly return,FabPr,T,1,0.2000,0.5989,0.1500
+C1 Monthly return,FabPr,T,2,0.4667,0.5076,0.3500
+C1 Monthly return,FabPr,T,3,0.4667,0.5076,0.3500
+C1 Monthly return,FabPr,I,1,0.2000,0.5989,0.1500
+C1 Monthly return,FabPr,I,2,0.2000,0.5989,0.1500
+C1 Monthly return,FabPr,I,3,0.2667,0.5566,0.2000
+C1 Monthly return,FabPr,F,1,0.2667,0.5566,0.2000
+C1 Monthly return,FabPr,F,2,0.3333,0.5287,0.2500
+C1 Monthly return,FabPr,F,3,0.6000,0.5287,0.4500
+C1 Monthly return,Mach,T,1,0.2000,0.5989,0.1579
+C1 Monthly return,Mach,T,2,0.4667,0.5076,0.3684
+C1 Monthly return,Mach,T,3,0.4667,0.5076,0.3684
+C1 Monthly return,Mach,I,1,0.2667,0.5566,0.2105
+C1 Monthly return,Mach,I,2,0.3333,0.5287,0.2632
+C1 Monthly return,Mach,I,3,0.4667,0.5076,0.3684
+C1 Monthly return,Mach,F,1,0.2000,0.5989,0.1579
+C1 Monthly return,Mach,F,2,0.2667,0.5566,0.2105
+C1 Monthly return,Mach,F,3,0.3333,0.5287,0.2632
+C1 Monthly return,ElcEq,T,1,0.2667,0.5566,0.2105
+C1 Monthly return,ElcEq,T,2,0.4667,0.5076,0.3684
+C1 Monthly return,ElcEq,T,3,0.5333,0.5128,0.4211
+C1 Monthly return,ElcEq,I,1,0.2667,0.5566,0.2105
+C1 Monthly return,ElcEq,I,2,0.3333,0.5287,0.2632
+C1 Monthly return,ElcEq,I,3,0.4000,0.5128,0.3158
+C1 Monthly return,ElcEq,F,1,0.1333,0.6610,0.1053
+C1 Monthly return,ElcEq,F,2,0.2667,0.5566,0.2105
+C1 Monthly return,ElcEq,F,3,0.3333,0.5287,0.2632
+C1 Monthly return,Autos,T,1,0.2000,0.5989,0.1364
+C1 Monthly return,Autos,T,2,0.3333,0.5287,0.2273
+C1 Monthly return,Autos,T,3,0.6667,0.5566,0.4545
+C1 Monthly return,Autos,I,1,0.0667,0.7575,0.0455
+C1 Monthly return,Autos,I,2,0.3333,0.5287,0.2273
+C1 Monthly return,Autos,I,3,0.4000,0.5128,0.2727
+C1 Monthly return,Autos,F,1,0.2667,0.5566,0.1818
+C1 Monthly return,Autos,F,2,0.3333,0.5287,0.2273
+C1 Monthly return,Autos,F,3,0.4000,0.5128,0.2727
+C1 Monthly return,Aero,T,1,0.2667,0.5566,0.2105
+C1 Monthly return,Aero,T,2,0.3333,0.5287,0.2632
+C1 Monthly return,Aero,T,3,0.4000,0.5128,0.3158
+C1 Monthly return,Aero,I,1,0.2000,0.5989,0.1579
+C1 Monthly return,Aero,I,2,0.2000,0.5989,0.1579
+C1 Monthly return,Aero,I,3,0.3333,0.5287,0.2632
+C1 Monthly return,Aero,F,1,0.3333,0.5287,0.2632
+C1 Monthly return,Aero,F,2,0.4000,0.5128,0.3158
+C1 Monthly return,Aero,F,3,0.5333,0.5128,0.4211
+C1 Monthly return,Ships,T,1,0.2000,0.5989,0.1667
+C1 Monthly return,Ships,T,2,0.3333,0.5287,0.2778
+C1 Monthly return,Ships,T,3,0.3333,0.5287,0.2778
+C1 Monthly return,Ships,I,1,0.2667,0.5566,0.2222
+C1 Monthly return,Ships,I,2,0.3333,0.5287,0.2778
+C1 Monthly return,Ships,I,3,0.4000,0.5128,0.3333
+C1 Monthly return,Ships,F,1,0.2667,0.5566,0.2222
+C1 Monthly return,Ships,F,2,0.4000,0.5128,0.3333
+C1 Monthly return,Ships,F,3,0.4667,0.5076,0.3889
+C1 Monthly return,Guns,T,1,0.2667,0.5566,0.2000
+C1 Monthly return,Guns,T,2,0.3333,0.5287,0.2500
+C1 Monthly return,Guns,T,3,0.4000,0.5128,0.3000
+C1 Monthly return,Guns,I,1,0.1333,0.6610,0.1000
+C1 Monthly return,Guns,I,2,0.2000,0.5989,0.1500
+C1 Monthly return,Guns,I,3,0.3333,0.5287,0.2500
+C1 Monthly return,Guns,F,1,0.2667,0.5566,0.2000
+C1 Monthly return,Guns,F,2,0.4667,0.5076,0.3500
+C1 Monthly return,Guns,F,3,0.6000,0.5287,0.4500
+C1 Monthly return,Gold,T,1,0.3333,0.5287,0.2778
+C1 Monthly return,Gold,T,2,0.4667,0.5076,0.3889
+C1 Monthly return,Gold,T,3,0.4667,0.5076,0.3889
+C1 Monthly return,Gold,I,1,0.0667,0.7575,0.0556
+C1 Monthly return,Gold,I,2,0.2000,0.5989,0.1667
+C1 Monthly return,Gold,I,3,0.2667,0.5566,0.2222
+C1 Monthly return,Gold,F,1,0.3333,0.5287,0.2778
+C1 Monthly return,Gold,F,2,0.4000,0.5128,0.3333
+C1 Monthly return,Gold,F,3,0.4667,0.5076,0.3889
+C1 Monthly return,Mines,T,1,0.1333,0.6610,0.0909
+C1 Monthly return,Mines,T,2,0.4000,0.5128,0.2727
+C1 Monthly return,Mines,T,3,0.4667,0.5076,0.3182
+C1 Monthly return,Mines,I,1,0.1333,0.6610,0.0909
+C1 Monthly return,Mines,I,2,0.2667,0.5566,0.1818
+C1 Monthly return,Mines,I,3,0.4000,0.5128,0.2727
+C1 Monthly return,Mines,F,1,0.2000,0.5989,0.1364
+C1 Monthly return,Mines,F,2,0.4000,0.5128,0.2727
+C1 Monthly return,Mines,F,3,0.6000,0.5287,0.4091
+C1 Monthly return,Coal,T,1,0.1333,0.6610,0.0952
+C1 Monthly return,Coal,T,2,0.2667,0.5566,0.1905
+C1 Monthly return,Coal,T,3,0.4000,0.5128,0.2857
+C1 Monthly return,Coal,I,1,0.0667,0.7575,0.0476
+C1 Monthly return,Coal,I,2,0.1333,0.6610,0.0952
+C1 Monthly return,Coal,I,3,0.2667,0.5566,0.1905
+C1 Monthly return,Coal,F,1,0.4667,0.5076,0.3333
+C1 Monthly return,Coal,F,2,0.5333,0.5128,0.3810
+C1 Monthly return,Coal,F,3,0.7333,0.5989,0.5238
+C1 Monthly return,Oil,T,1,0.2000,0.5989,0.1667
+C1 Monthly return,Oil,T,2,0.2000,0.5989,0.1667
+C1 Monthly return,Oil,T,3,0.3333,0.5287,0.2778
+C1 Monthly return,Oil,I,1,0.1333,0.6610,0.1111
+C1 Monthly return,Oil,I,2,0.2000,0.5989,0.1667
+C1 Monthly return,Oil,I,3,0.2667,0.5566,0.2222
+C1 Monthly return,Oil,F,1,0.5333,0.5128,0.4444
+C1 Monthly return,Oil,F,2,0.5333,0.5128,0.4444
+C1 Monthly return,Oil,F,3,0.6000,0.5287,0.5000
+C1 Monthly return,Util,T,1,0.2667,0.5566,0.2105
+C1 Monthly return,Util,T,2,0.4000,0.5128,0.3158
+C1 Monthly return,Util,T,3,0.4000,0.5128,0.3158
+C1 Monthly return,Util,I,1,0.1333,0.6610,0.1053
+C1 Monthly return,Util,I,2,0.2667,0.5566,0.2105
+C1 Monthly return,Util,I,3,0.4000,0.5128,0.3158
+C1 Monthly return,Util,F,1,0.2000,0.5989,0.1579
+C1 Monthly return,Util,F,2,0.4667,0.5076,0.3684
+C1 Monthly return,Util,F,3,0.4667,0.5076,0.3684
+C1 Monthly return,Telcm,T,1,0.1333,0.6610,0.1000
+C1 Monthly return,Telcm,T,2,0.2667,0.5566,0.2000
+C1 Monthly return,Telcm,T,3,0.4000,0.5128,0.3000
+C1 Monthly return,Telcm,I,1,0.2667,0.5566,0.2000
+C1 Monthly return,Telcm,I,2,0.4667,0.5076,0.3500
+C1 Monthly return,Telcm,I,3,0.6000,0.5287,0.4500
+C1 Monthly return,Telcm,F,1,0.2667,0.5566,0.2000
+C1 Monthly return,Telcm,F,2,0.2667,0.5566,0.2000
+C1 Monthly return,Telcm,F,3,0.3333,0.5287,0.2500
+C1 Monthly return,PerSv,T,1,0.2000,0.5989,0.1667
+C1 Monthly return,PerSv,T,2,0.2667,0.5566,0.2222
+C1 Monthly return,PerSv,T,3,0.3333,0.5287,0.2778
+C1 Monthly return,PerSv,I,1,0.3333,0.5287,0.2778
+C1 Monthly return,PerSv,I,2,0.4000,0.5128,0.3333
+C1 Monthly return,PerSv,I,3,0.4667,0.5076,0.3889
+C1 Monthly return,PerSv,F,1,0.2667,0.5566,0.2222
+C1 Monthly return,PerSv,F,2,0.3333,0.5287,0.2778
+C1 Monthly return,PerSv,F,3,0.4000,0.5128,0.3333
+C1 Monthly return,BusSv,T,1,0.3333,0.5287,0.2778
+C1 Monthly return,BusSv,T,2,0.3333,0.5287,0.2778
+C1 Monthly return,BusSv,T,3,0.4000,0.5128,0.3333
+C1 Monthly return,BusSv,I,1,0.4000,0.5128,0.3333
+C1 Monthly return,BusSv,I,2,0.4667,0.5076,0.3889
+C1 Monthly return,BusSv,I,3,0.5333,0.5128,0.4444
+C1 Monthly return,BusSv,F,1,0.1333,0.6610,0.1111
+C1 Monthly return,BusSv,F,2,0.1333,0.6610,0.1111
+C1 Monthly return,BusSv,F,3,0.2667,0.5566,0.2222
+C1 Monthly return,Hardw,T,1,0.3333,0.5287,0.2500
+C1 Monthly return,Hardw,T,2,0.3333,0.5287,0.2500
+C1 Monthly return,Hardw,T,3,0.4667,0.5076,0.3500
+C1 Monthly return,Hardw,I,1,0.2000,0.5989,0.1500
+C1 Monthly return,Hardw,I,2,0.2667,0.5566,0.2000
+C1 Monthly return,Hardw,I,3,0.4000,0.5128,0.3000
+C1 Monthly return,Hardw,F,1,0.2667,0.5566,0.2000
+C1 Monthly return,Hardw,F,2,0.2667,0.5566,0.2000
+C1 Monthly return,Hardw,F,3,0.4667,0.5076,0.3500
+C1 Monthly return,Softw,T,1,0.3333,0.5287,0.2632
+C1 Monthly return,Softw,T,2,0.4667,0.5076,0.3684
+C1 Monthly return,Softw,T,3,0.6000,0.5287,0.4737
+C1 Monthly return,Softw,I,1,0.2000,0.5989,0.1579
+C1 Monthly return,Softw,I,2,0.3333,0.5287,0.2632
+C1 Monthly return,Softw,I,3,0.4667,0.5076,0.3684
+C1 Monthly return,Softw,F,1,0.2000,0.5989,0.1579
+C1 Monthly return,Softw,F,2,0.2000,0.5989,0.1579
+C1 Monthly return,Softw,F,3,0.2000,0.5989,0.1579
+C1 Monthly return,Chips,T,1,0.3333,0.5287,0.2500
+C1 Monthly return,Chips,T,2,0.6000,0.5287,0.4500
+C1 Monthly return,Chips,T,3,0.6667,0.5566,0.5000
+C1 Monthly return,Chips,I,1,0.1333,0.6610,0.1000
+C1 Monthly return,Chips,I,2,0.2000,0.5989,0.1500
+C1 Monthly return,Chips,I,3,0.3333,0.5287,0.2500
+C1 Monthly return,Chips,F,1,0.2000,0.5989,0.1500
+C1 Monthly return,Chips,F,2,0.2000,0.5989,0.1500
+C1 Monthly return,Chips,F,3,0.3333,0.5287,0.2500
+C1 Monthly return,LabEq,T,1,0.4000,0.5128,0.3529
+C1 Monthly return,LabEq,T,2,0.4000,0.5128,0.3529
+C1 Monthly return,LabEq,T,3,0.4000,0.5128,0.3529
+C1 Monthly return,LabEq,I,1,0.3333,0.5287,0.2941
+C1 Monthly return,LabEq,I,2,0.4000,0.5128,0.3529
+C1 Monthly return,LabEq,I,3,0.4667,0.5076,0.4118
+C1 Monthly return,LabEq,F,1,0.1333,0.6610,0.1176
+C1 Monthly return,LabEq,F,2,0.2000,0.5989,0.1765
+C1 Monthly return,LabEq,F,3,0.2667,0.5566,0.2353
+C1 Monthly return,Paper,T,1,0.0667,0.7575,0.0476
+C1 Monthly return,Paper,T,2,0.1333,0.6610,0.0952
+C1 Monthly return,Paper,T,3,0.2667,0.5566,0.1905
+C1 Monthly return,Paper,I,1,0.4000,0.5128,0.2857
+C1 Monthly return,Paper,I,2,0.4667,0.5076,0.3333
+C1 Monthly return,Paper,I,3,0.6667,0.5566,0.4762
+C1 Monthly return,Paper,F,1,0.2667,0.5566,0.1905
+C1 Monthly return,Paper,F,2,0.2667,0.5566,0.1905
+C1 Monthly return,Paper,F,3,0.4667,0.5076,0.3333
+C1 Monthly return,Boxes,T,1,0.2000,0.5989,0.1667
+C1 Monthly return,Boxes,T,2,0.3333,0.5287,0.2778
+C1 Monthly return,Boxes,T,3,0.3333,0.5287,0.2778
+C1 Monthly return,Boxes,I,1,0.2000,0.5989,0.1667
+C1 Monthly return,Boxes,I,2,0.3333,0.5287,0.2778
+C1 Monthly return,Boxes,I,3,0.4000,0.5128,0.3333
+C1 Monthly return,Boxes,F,1,0.3333,0.5287,0.2778
+C1 Monthly return,Boxes,F,2,0.4000,0.5128,0.3333
+C1 Monthly return,Boxes,F,3,0.4667,0.5076,0.3889
+C1 Monthly return,Trans,T,1,0.0667,0.7575,0.0476
+C1 Monthly return,Trans,T,2,0.3333,0.5287,0.2381
+C1 Monthly return,Trans,T,3,0.4667,0.5076,0.3333
+C1 Monthly return,Trans,I,1,0.2000,0.5989,0.1429
+C1 Monthly return,Trans,I,2,0.4000,0.5128,0.2857
+C1 Monthly return,Trans,I,3,0.6000,0.5287,0.4286
+C1 Monthly return,Trans,F,1,0.2667,0.5566,0.1905
+C1 Monthly return,Trans,F,2,0.3333,0.5287,0.2381
+C1 Monthly return,Trans,F,3,0.3333,0.5287,0.2381
+C1 Monthly return,Whlsl,T,1,0.2000,0.5989,0.1765
+C1 Monthly return,Whlsl,T,2,0.2000,0.5989,0.1765
+C1 Monthly return,Whlsl,T,3,0.2000,0.5989,0.1765
+C1 Monthly return,Whlsl,I,1,0.6000,0.5287,0.5294
+C1 Monthly return,Whlsl,I,2,0.6667,0.5566,0.5882
+C1 Monthly return,Whlsl,I,3,0.7333,0.5989,0.6471
+C1 Monthly return,Whlsl,F,1,0.0667,0.7575,0.0588
+C1 Monthly return,Whlsl,F,2,0.1333,0.6610,0.1176
+C1 Monthly return,Whlsl,F,3,0.2000,0.5989,0.1765
+C1 Monthly return,Rtail,T,1,0.2000,0.5989,0.1500
+C1 Monthly return,Rtail,T,2,0.3333,0.5287,0.2500
+C1 Monthly return,Rtail,T,3,0.5333,0.5128,0.4000
+C1 Monthly return,Rtail,I,1,0.2000,0.5989,0.1500
+C1 Monthly return,Rtail,I,2,0.5333,0.5128,0.4000
+C1 Monthly return,Rtail,I,3,0.5333,0.5128,0.4000
+C1 Monthly return,Rtail,F,1,0.1333,0.6610,0.1000
+C1 Monthly return,Rtail,F,2,0.2667,0.5566,0.2000
+C1 Monthly return,Rtail,F,3,0.2667,0.5566,0.2000
+C1 Monthly return,Meals,T,1,0.2667,0.5566,0.2000
+C1 Monthly return,Meals,T,2,0.3333,0.5287,0.2500
+C1 Monthly return,Meals,T,3,0.5333,0.5128,0.4000
+C1 Monthly return,Meals,I,1,0.1333,0.6610,0.1000
+C1 Monthly return,Meals,I,2,0.4000,0.5128,0.3000
+C1 Monthly return,Meals,I,3,0.4667,0.5076,0.3500
+C1 Monthly return,Meals,F,1,0.2667,0.5566,0.2000
+C1 Monthly return,Meals,F,2,0.2667,0.5566,0.2000
+C1 Monthly return,Meals,F,3,0.3333,0.5287,0.2500
+C1 Monthly return,Banks,T,1,0.2000,0.5989,0.1429
+C1 Monthly return,Banks,T,2,0.2667,0.5566,0.1905
+C1 Monthly return,Banks,T,3,0.4667,0.5076,0.3333
+C1 Monthly return,Banks,I,1,0.3333,0.5287,0.2381
+C1 Monthly return,Banks,I,2,0.4000,0.5128,0.2857
+C1 Monthly return,Banks,I,3,0.4667,0.5076,0.3333
+C1 Monthly return,Banks,F,1,0.1333,0.6610,0.0952
+C1 Monthly return,Banks,F,2,0.2667,0.5566,0.1905
+C1 Monthly return,Banks,F,3,0.4667,0.5076,0.3333
+C1 Monthly return,Insur,T,1,0.0667,0.7575,0.0476
+C1 Monthly return,Insur,T,2,0.3333,0.5287,0.2381
+C1 Monthly return,Insur,T,3,0.4000,0.5128,0.2857
+C1 Monthly return,Insur,I,1,0.3333,0.5287,0.2381
+C1 Monthly return,Insur,I,2,0.4667,0.5076,0.3333
+C1 Monthly return,Insur,I,3,0.6667,0.5566,0.4762
+C1 Monthly return,Insur,F,1,0.1333,0.6610,0.0952
+C1 Monthly return,Insur,F,2,0.2667,0.5566,0.1905
+C1 Monthly return,Insur,F,3,0.3333,0.5287,0.2381
+C1 Monthly return,RlEst,T,1,0.2667,0.5566,0.2105
+C1 Monthly return,RlEst,T,2,0.4000,0.5128,0.3158
+C1 Monthly return,RlEst,T,3,0.5333,0.5128,0.4211
+C1 Monthly return,RlEst,I,1,0.2667,0.5566,0.2105
+C1 Monthly return,RlEst,I,2,0.3333,0.5287,0.2632
+C1 Monthly return,RlEst,I,3,0.3333,0.5287,0.2632
+C1 Monthly return,RlEst,F,1,0.2000,0.5989,0.1579
+C1 Monthly return,RlEst,F,2,0.2667,0.5566,0.2105
+C1 Monthly return,RlEst,F,3,0.4000,0.5128,0.3158
+C1 Monthly return,Fin,T,1,0.2667,0.5566,0.2500
+C1 Monthly return,Fin,T,2,0.2667,0.5566,0.2500
+C1 Monthly return,Fin,T,3,0.3333,0.5287,0.3125
+C1 Monthly return,Fin,I,1,0.4000,0.5128,0.3750
+C1 Monthly return,Fin,I,2,0.4667,0.5076,0.4375
+C1 Monthly return,Fin,I,3,0.4667,0.5076,0.4375
+C1 Monthly return,Fin,F,1,0.2667,0.5566,0.2500
+C1 Monthly return,Fin,F,2,0.2667,0.5566,0.2500
+C1 Monthly return,Fin,F,3,0.2667,0.5566,0.2500
+C1 Monthly return,Other,T,1,0.1333,0.6610,0.1000
+C1 Monthly return,Other,T,2,0.2667,0.5566,0.2000
+C1 Monthly return,Other,T,3,0.2667,0.5566,0.2000
+C1 Monthly return,Other,I,1,0.2667,0.5566,0.2000
+C1 Monthly return,Other,I,2,0.4667,0.5076,0.3500
+C1 Monthly return,Other,I,3,0.6000,0.5287,0.4500
+C1 Monthly return,Other,F,1,0.2667,0.5566,0.2000
+C1 Monthly return,Other,F,2,0.2667,0.5566,0.2000
+C1 Monthly return,Other,F,3,0.4667,0.5076,0.3500
+C2 Reward-to-risk,Agric,T,1,0.3333,0.5287,0.2632
+C2 Reward-to-risk,Agric,T,2,0.3333,0.5287,0.2632
+C2 Reward-to-risk,Agric,T,3,0.4000,0.5128,0.3158
+C2 Reward-to-risk,Agric,I,1,0.0667,0.7575,0.0526
+C2 Reward-to-risk,Agric,I,2,0.2667,0.5566,0.2105
+C2 Reward-to-risk,Agric,I,3,0.3333,0.5287,0.2632
+C2 Reward-to-risk,Agric,F,1,0.3333,0.5287,0.2632
+C2 Reward-to-risk,Agric,F,2,0.4000,0.5128,0.3158
+C2 Reward-to-risk,Agric,F,3,0.5333,0.5128,0.4211
+C2 Reward-to-risk,Food,T,1,0.2000,0.5989,0.1364
+C2 Reward-to-risk,Food,T,2,0.3333,0.5287,0.2273
+C2 Reward-to-risk,Food,T,3,0.4667,0.5076,0.3182
+C2 Reward-to-risk,Food,I,1,0.1333,0.6610,0.0909
+C2 Reward-to-risk,Food,I,2,0.2667,0.5566,0.1818
+C2 Reward-to-risk,Food,I,3,0.3333,0.5287,0.2273
+C2 Reward-to-risk,Food,F,1,0.2667,0.5566,0.1818
+C2 Reward-to-risk,Food,F,2,0.3333,0.5287,0.2273
+C2 Reward-to-risk,Food,F,3,0.6667,0.5566,0.4545
+C2 Reward-to-risk,Soda,T,1,0.3333,0.5287,0.2778
+C2 Reward-to-risk,Soda,T,2,0.3333,0.5287,0.2778
+C2 Reward-to-risk,Soda,T,3,0.4667,0.5076,0.3889
+C2 Reward-to-risk,Soda,I,1,0.2000,0.5989,0.1667
+C2 Reward-to-risk,Soda,I,2,0.2000,0.5989,0.1667
+C2 Reward-to-risk,Soda,I,3,0.2667,0.5566,0.2222
+C2 Reward-to-risk,Soda,F,1,0.3333,0.5287,0.2778
+C2 Reward-to-risk,Soda,F,2,0.4000,0.5128,0.3333
+C2 Reward-to-risk,Soda,F,3,0.4667,0.5076,0.3889
+C2 Reward-to-risk,Beer,T,1,0.2667,0.5566,0.2222
+C2 Reward-to-risk,Beer,T,2,0.3333,0.5287,0.2778
+C2 Reward-to-risk,Beer,T,3,0.4000,0.5128,0.3333
+C2 Reward-to-risk,Beer,I,1,0.2000,0.5989,0.1667
+C2 Reward-to-risk,Beer,I,2,0.2667,0.5566,0.2222
+C2 Reward-to-risk,Beer,I,3,0.3333,0.5287,0.2778
+C2 Reward-to-risk,Beer,F,1,0.2667,0.5566,0.2222
+C2 Reward-to-risk,Beer,F,2,0.4667,0.5076,0.3889
+C2 Reward-to-risk,Beer,F,3,0.4667,0.5076,0.3889
+C2 Reward-to-risk,Smoke,T,1,0.2667,0.5566,0.2353
+C2 Reward-to-risk,Smoke,T,2,0.2667,0.5566,0.2353
+C2 Reward-to-risk,Smoke,T,3,0.2667,0.5566,0.2353
+C2 Reward-to-risk,Smoke,I,1,0.2000,0.5989,0.1765
+C2 Reward-to-risk,Smoke,I,2,0.2000,0.5989,0.1765
+C2 Reward-to-risk,Smoke,I,3,0.3333,0.5287,0.2941
+C2 Reward-to-risk,Smoke,F,1,0.4000,0.5128,0.3529
+C2 Reward-to-risk,Smoke,F,2,0.5333,0.5128,0.4706
+C2 Reward-to-risk,Smoke,F,3,0.5333,0.5128,0.4706
+C2 Reward-to-risk,Toys,T,1,0.2667,0.5566,0.2105
+C2 Reward-to-risk,Toys,T,2,0.4000,0.5128,0.3158
+C2 Reward-to-risk,Toys,T,3,0.4667,0.5076,0.3684
+C2 Reward-to-risk,Toys,I,1,0.2000,0.5989,0.1579
+C2 Reward-to-risk,Toys,I,2,0.2000,0.5989,0.1579
+C2 Reward-to-risk,Toys,I,3,0.4000,0.5128,0.3158
+C2 Reward-to-risk,Toys,F,1,0.3333,0.5287,0.2632
+C2 Reward-to-risk,Toys,F,2,0.3333,0.5287,0.2632
+C2 Reward-to-risk,Toys,F,3,0.4000,0.5128,0.3158
+C2 Reward-to-risk,Fun,T,1,0.2667,0.5566,0.2105
+C2 Reward-to-risk,Fun,T,2,0.4000,0.5128,0.3158
+C2 Reward-to-risk,Fun,T,3,0.5333,0.5128,0.4211
+C2 Reward-to-risk,Fun,I,1,0.2667,0.5566,0.2105
+C2 Reward-to-risk,Fun,I,2,0.4000,0.5128,0.3158
+C2 Reward-to-risk,Fun,I,3,0.4000,0.5128,0.3158
+C2 Reward-to-risk,Fun,F,1,0.2000,0.5989,0.1579
+C2 Reward-to-risk,Fun,F,2,0.2000,0.5989,0.1579
+C2 Reward-to-risk,Fun,F,3,0.3333,0.5287,0.2632
+C2 Reward-to-risk,Books,T,1,0.2667,0.5566,0.2222
+C2 Reward-to-risk,Books,T,2,0.3333,0.5287,0.2778
+C2 Reward-to-risk,Books,T,3,0.3333,0.5287,0.2778
+C2 Reward-to-risk,Books,I,1,0.2000,0.5989,0.1667
+C2 Reward-to-risk,Books,I,2,0.3333,0.5287,0.2778
+C2 Reward-to-risk,Books,I,3,0.4000,0.5128,0.3333
+C2 Reward-to-risk,Books,F,1,0.3333,0.5287,0.2778
+C2 Reward-to-risk,Books,F,2,0.3333,0.5287,0.2778
+C2 Reward-to-risk,Books,F,3,0.4667,0.5076,0.3889
+C2 Reward-to-risk,Hshld,T,1,0.4000,0.5128,0.3529
+C2 Reward-to-risk,Hshld,T,2,0.4667,0.5076,0.4118
+C2 Reward-to-risk,Hshld,T,3,0.4667,0.5076,0.4118
+C2 Reward-to-risk,Hshld,I,1,0.2000,0.5989,0.1765
+C2 Reward-to-risk,Hshld,I,2,0.3333,0.5287,0.2941
+C2 Reward-to-risk,Hshld,I,3,0.3333,0.5287,0.2941
+C2 Reward-to-risk,Hshld,F,1,0.2000,0.5989,0.1765
+C2 Reward-to-risk,Hshld,F,2,0.2667,0.5566,0.2353
+C2 Reward-to-risk,Hshld,F,3,0.3333,0.5287,0.2941
+C2 Reward-to-risk,Clths,T,1,0.3333,0.5287,0.2632
+C2 Reward-to-risk,Clths,T,2,0.4000,0.5128,0.3158
+C2 Reward-to-risk,Clths,T,3,0.6000,0.5287,0.4737
+C2 Reward-to-risk,Clths,I,1,0.2000,0.5989,0.1579
+C2 Reward-to-risk,Clths,I,2,0.4000,0.5128,0.3158
+C2 Reward-to-risk,Clths,I,3,0.4000,0.5128,0.3158
+C2 Reward-to-risk,Clths,F,1,0.2000,0.5989,0.1579
+C2 Reward-to-risk,Clths,F,2,0.2000,0.5989,0.1579
+C2 Reward-to-risk,Clths,F,3,0.2667,0.5566,0.2105
+C2 Reward-to-risk,Hlth,T,1,0.4000,0.5128,0.3158
+C2 Reward-to-risk,Hlth,T,2,0.4667,0.5076,0.3684
+C2 Reward-to-risk,Hlth,T,3,0.5333,0.5128,0.4211
+C2 Reward-to-risk,Hlth,I,1,0.2667,0.5566,0.2105
+C2 Reward-to-risk,Hlth,I,2,0.2667,0.5566,0.2105
+C2 Reward-to-risk,Hlth,I,3,0.4000,0.5128,0.3158
+C2 Reward-to-risk,Hlth,F,1,0.1333,0.6610,0.1053
+C2 Reward-to-risk,Hlth,F,2,0.2000,0.5989,0.1579
+C2 Reward-to-risk,Hlth,F,3,0.3333,0.5287,0.2632
+C2 Reward-to-risk,MedEq,T,1,0.2000,0.5989,0.1429
+C2 Reward-to-risk,MedEq,T,2,0.3333,0.5287,0.2381
+C2 Reward-to-risk,MedEq,T,3,0.6000,0.5287,0.4286
+C2 Reward-to-risk,MedEq,I,1,0.2667,0.5566,0.1905
+C2 Reward-to-risk,MedEq,I,2,0.4000,0.5128,0.2857
+C2 Reward-to-risk,MedEq,I,3,0.5333,0.5128,0.3810
+C2 Reward-to-risk,MedEq,F,1,0.1333,0.6610,0.0952
+C2 Reward-to-risk,MedEq,F,2,0.2667,0.5566,0.1905
+C2 Reward-to-risk,MedEq,F,3,0.2667,0.5566,0.1905
+C2 Reward-to-risk,Drugs,T,1,0.3333,0.5287,0.2500
+C2 Reward-to-risk,Drugs,T,2,0.4000,0.5128,0.3000
+C2 Reward-to-risk,Drugs,T,3,0.4000,0.5128,0.3000
+C2 Reward-to-risk,Drugs,I,1,0.2000,0.5989,0.1500
+C2 Reward-to-risk,Drugs,I,2,0.2667,0.5566,0.2000
+C2 Reward-to-risk,Drugs,I,3,0.5333,0.5128,0.4000
+C2 Reward-to-risk,Drugs,F,1,0.1333,0.6610,0.1000
+C2 Reward-to-risk,Drugs,F,2,0.3333,0.5287,0.2500
+C2 Reward-to-risk,Drugs,F,3,0.4000,0.5128,0.3000
+C2 Reward-to-risk,Chems,T,1,0.1333,0.6610,0.0909
+C2 Reward-to-risk,Chems,T,2,0.2000,0.5989,0.1364
+C2 Reward-to-risk,Chems,T,3,0.3333,0.5287,0.2273
+C2 Reward-to-risk,Chems,I,1,0.2667,0.5566,0.1818
+C2 Reward-to-risk,Chems,I,2,0.5333,0.5128,0.3636
+C2 Reward-to-risk,Chems,I,3,0.6000,0.5287,0.4091
+C2 Reward-to-risk,Chems,F,1,0.1333,0.6610,0.0909
+C2 Reward-to-risk,Chems,F,2,0.2667,0.5566,0.1818
+C2 Reward-to-risk,Chems,F,3,0.5333,0.5128,0.3636
+C2 Reward-to-risk,Rubbr,T,1,0.3333,0.5287,0.2632
+C2 Reward-to-risk,Rubbr,T,2,0.3333,0.5287,0.2632
+C2 Reward-to-risk,Rubbr,T,3,0.5333,0.5128,0.4211
+C2 Reward-to-risk,Rubbr,I,1,0.3333,0.5287,0.2632
+C2 Reward-to-risk,Rubbr,I,2,0.3333,0.5287,0.2632
+C2 Reward-to-risk,Rubbr,I,3,0.4000,0.5128,0.3158
+C2 Reward-to-risk,Rubbr,F,1,0.1333,0.6610,0.1053
+C2 Reward-to-risk,Rubbr,F,2,0.2667,0.5566,0.2105
+C2 Reward-to-risk,Rubbr,F,3,0.3333,0.5287,0.2632
+C2 Reward-to-risk,Txtls,T,1,0.1333,0.6610,0.1053
+C2 Reward-to-risk,Txtls,T,2,0.2667,0.5566,0.2105
+C2 Reward-to-risk,Txtls,T,3,0.4000,0.5128,0.3158
+C2 Reward-to-risk,Txtls,I,1,0.3333,0.5287,0.2632
+C2 Reward-to-risk,Txtls,I,2,0.3333,0.5287,0.2632
+C2 Reward-to-risk,Txtls,I,3,0.3333,0.5287,0.2632
+C2 Reward-to-risk,Txtls,F,1,0.2667,0.5566,0.2105
+C2 Reward-to-risk,Txtls,F,2,0.4000,0.5128,0.3158
+C2 Reward-to-risk,Txtls,F,3,0.5333,0.5128,0.4211
+C2 Reward-to-risk,BldMt,T,1,0.2000,0.5989,0.1304
+C2 Reward-to-risk,BldMt,T,2,0.2667,0.5566,0.1739
+C2 Reward-to-risk,BldMt,T,3,0.4667,0.5076,0.3043
+C2 Reward-to-risk,BldMt,I,1,0.2667,0.5566,0.1739
+C2 Reward-to-risk,BldMt,I,2,0.4000,0.5128,0.2609
+C2 Reward-to-risk,BldMt,I,3,0.5333,0.5128,0.3478
+C2 Reward-to-risk,BldMt,F,1,0.1333,0.6610,0.0870
+C2 Reward-to-risk,BldMt,F,2,0.2000,0.5989,0.1304
+C2 Reward-to-risk,BldMt,F,3,0.5333,0.5128,0.3478
+C2 Reward-to-risk,Cnstr,T,1,0.1333,0.6610,0.1000
+C2 Reward-to-risk,Cnstr,T,2,0.3333,0.5287,0.2500
+C2 Reward-to-risk,Cnstr,T,3,0.4667,0.5076,0.3500
+C2 Reward-to-risk,Cnstr,I,1,0.2000,0.5989,0.1500
+C2 Reward-to-risk,Cnstr,I,2,0.3333,0.5287,0.2500
+C2 Reward-to-risk,Cnstr,I,3,0.4000,0.5128,0.3000
+C2 Reward-to-risk,Cnstr,F,1,0.3333,0.5287,0.2500
+C2 Reward-to-risk,Cnstr,F,2,0.3333,0.5287,0.2500
+C2 Reward-to-risk,Cnstr,F,3,0.4667,0.5076,0.3500
+C2 Reward-to-risk,Steel,T,1,0.2000,0.5989,0.1579
+C2 Reward-to-risk,Steel,T,2,0.2000,0.5989,0.1579
+C2 Reward-to-risk,Steel,T,3,0.2667,0.5566,0.2105
+C2 Reward-to-risk,Steel,I,1,0.2667,0.5566,0.2105
+C2 Reward-to-risk,Steel,I,2,0.2667,0.5566,0.2105
+C2 Reward-to-risk,Steel,I,3,0.4667,0.5076,0.3684
+C2 Reward-to-risk,Steel,F,1,0.3333,0.5287,0.2632
+C2 Reward-to-risk,Steel,F,2,0.4667,0.5076,0.3684
+C2 Reward-to-risk,Steel,F,3,0.5333,0.5128,0.4211
+C2 Reward-to-risk,FabPr,T,1,0.2000,0.5989,0.1500
+C2 Reward-to-risk,FabPr,T,2,0.4000,0.5128,0.3000
+C2 Reward-to-risk,FabPr,T,3,0.5333,0.5128,0.4000
+C2 Reward-to-risk,FabPr,I,1,0.1333,0.6610,0.1000
+C2 Reward-to-risk,FabPr,I,2,0.2000,0.5989,0.1500
+C2 Reward-to-risk,FabPr,I,3,0.3333,0.5287,0.2500
+C2 Reward-to-risk,FabPr,F,1,0.2667,0.5566,0.2000
+C2 Reward-to-risk,FabPr,F,2,0.4667,0.5076,0.3500
+C2 Reward-to-risk,FabPr,F,3,0.4667,0.5076,0.3500
+C2 Reward-to-risk,Mach,T,1,0.2000,0.5989,0.1579
+C2 Reward-to-risk,Mach,T,2,0.3333,0.5287,0.2632
+C2 Reward-to-risk,Mach,T,3,0.4667,0.5076,0.3684
+C2 Reward-to-risk,Mach,I,1,0.2667,0.5566,0.2105
+C2 Reward-to-risk,Mach,I,2,0.4667,0.5076,0.3684
+C2 Reward-to-risk,Mach,I,3,0.4667,0.5076,0.3684
+C2 Reward-to-risk,Mach,F,1,0.2000,0.5989,0.1579
+C2 Reward-to-risk,Mach,F,2,0.2667,0.5566,0.2105
+C2 Reward-to-risk,Mach,F,3,0.3333,0.5287,0.2632
+C2 Reward-to-risk,ElcEq,T,1,0.2667,0.5566,0.2353
+C2 Reward-to-risk,ElcEq,T,2,0.3333,0.5287,0.2941
+C2 Reward-to-risk,ElcEq,T,3,0.4000,0.5128,0.3529
+C2 Reward-to-risk,ElcEq,I,1,0.4000,0.5128,0.3529
+C2 Reward-to-risk,ElcEq,I,2,0.4667,0.5076,0.4118
+C2 Reward-to-risk,ElcEq,I,3,0.4667,0.5076,0.4118
+C2 Reward-to-risk,ElcEq,F,1,0.1333,0.6610,0.1176
+C2 Reward-to-risk,ElcEq,F,2,0.2667,0.5566,0.2353
+C2 Reward-to-risk,ElcEq,F,3,0.2667,0.5566,0.2353
+C2 Reward-to-risk,Autos,T,1,0.1333,0.6610,0.0952
+C2 Reward-to-risk,Autos,T,2,0.3333,0.5287,0.2381
+C2 Reward-to-risk,Autos,T,3,0.5333,0.5128,0.3810
+C2 Reward-to-risk,Autos,I,1,0.3333,0.5287,0.2381
+C2 Reward-to-risk,Autos,I,2,0.3333,0.5287,0.2381
+C2 Reward-to-risk,Autos,I,3,0.4667,0.5076,0.3333
+C2 Reward-to-risk,Autos,F,1,0.1333,0.6610,0.0952
+C2 Reward-to-risk,Autos,F,2,0.3333,0.5287,0.2381
+C2 Reward-to-risk,Autos,F,3,0.4000,0.5128,0.2857
+C2 Reward-to-risk,Aero,T,1,0.2000,0.5989,0.1579
+C2 Reward-to-risk,Aero,T,2,0.3333,0.5287,0.2632
+C2 Reward-to-risk,Aero,T,3,0.4000,0.5128,0.3158
+C2 Reward-to-risk,Aero,I,1,0.2000,0.5989,0.1579
+C2 Reward-to-risk,Aero,I,2,0.2667,0.5566,0.2105
+C2 Reward-to-risk,Aero,I,3,0.2667,0.5566,0.2105
+C2 Reward-to-risk,Aero,F,1,0.3333,0.5287,0.2632
+C2 Reward-to-risk,Aero,F,2,0.4000,0.5128,0.3158
+C2 Reward-to-risk,Aero,F,3,0.6000,0.5287,0.4737
+C2 Reward-to-risk,Ships,T,1,0.0667,0.7575,0.0500
+C2 Reward-to-risk,Ships,T,2,0.1333,0.6610,0.1000
+C2 Reward-to-risk,Ships,T,3,0.3333,0.5287,0.2500
+C2 Reward-to-risk,Ships,I,1,0.3333,0.5287,0.2500
+C2 Reward-to-risk,Ships,I,2,0.4000,0.5128,0.3000
+C2 Reward-to-risk,Ships,I,3,0.4667,0.5076,0.3500
+C2 Reward-to-risk,Ships,F,1,0.2667,0.5566,0.2000
+C2 Reward-to-risk,Ships,F,2,0.4667,0.5076,0.3500
+C2 Reward-to-risk,Ships,F,3,0.5333,0.5128,0.4000
+C2 Reward-to-risk,Guns,T,1,0.2667,0.5566,0.2000
+C2 Reward-to-risk,Guns,T,2,0.3333,0.5287,0.2500
+C2 Reward-to-risk,Guns,T,3,0.4667,0.5076,0.3500
+C2 Reward-to-risk,Guns,I,1,0.2000,0.5989,0.1500
+C2 Reward-to-risk,Guns,I,2,0.2667,0.5566,0.2000
+C2 Reward-to-risk,Guns,I,3,0.3333,0.5287,0.2500
+C2 Reward-to-risk,Guns,F,1,0.2667,0.5566,0.2000
+C2 Reward-to-risk,Guns,F,2,0.3333,0.5287,0.2500
+C2 Reward-to-risk,Guns,F,3,0.5333,0.5128,0.4000
+C2 Reward-to-risk,Gold,T,1,0.2667,0.5566,0.2000
+C2 Reward-to-risk,Gold,T,2,0.4667,0.5076,0.3500
+C2 Reward-to-risk,Gold,T,3,0.4667,0.5076,0.3500
+C2 Reward-to-risk,Gold,I,1,0.0667,0.7575,0.0500
+C2 Reward-to-risk,Gold,I,2,0.1333,0.6610,0.1000
+C2 Reward-to-risk,Gold,I,3,0.4000,0.5128,0.3000
+C2 Reward-to-risk,Gold,F,1,0.3333,0.5287,0.2500
+C2 Reward-to-risk,Gold,F,2,0.4000,0.5128,0.3000
+C2 Reward-to-risk,Gold,F,3,0.4667,0.5076,0.3500
+C2 Reward-to-risk,Mines,T,1,0.2000,0.5989,0.1579
+C2 Reward-to-risk,Mines,T,2,0.3333,0.5287,0.2632
+C2 Reward-to-risk,Mines,T,3,0.4000,0.5128,0.3158
+C2 Reward-to-risk,Mines,I,1,0.2000,0.5989,0.1579
+C2 Reward-to-risk,Mines,I,2,0.3333,0.5287,0.2632
+C2 Reward-to-risk,Mines,I,3,0.4000,0.5128,0.3158
+C2 Reward-to-risk,Mines,F,1,0.2000,0.5989,0.1579
+C2 Reward-to-risk,Mines,F,2,0.4667,0.5076,0.3684
+C2 Reward-to-risk,Mines,F,3,0.4667,0.5076,0.3684
+C2 Reward-to-risk,Coal,T,1,0.0667,0.7575,0.0500
+C2 Reward-to-risk,Coal,T,2,0.2667,0.5566,0.2000
+C2 Reward-to-risk,Coal,T,3,0.4000,0.5128,0.3000
+C2 Reward-to-risk,Coal,I,1,0.0667,0.7575,0.0500
+C2 Reward-to-risk,Coal,I,2,0.1333,0.6610,0.1000
+C2 Reward-to-risk,Coal,I,3,0.2667,0.5566,0.2000
+C2 Reward-to-risk,Coal,F,1,0.5333,0.5128,0.4000
+C2 Reward-to-risk,Coal,F,2,0.6000,0.5287,0.4500
+C2 Reward-to-risk,Coal,F,3,0.6667,0.5566,0.5000
+C2 Reward-to-risk,Oil,T,1,0.1333,0.6610,0.1111
+C2 Reward-to-risk,Oil,T,2,0.2000,0.5989,0.1667
+C2 Reward-to-risk,Oil,T,3,0.2667,0.5566,0.2222
+C2 Reward-to-risk,Oil,I,1,0.2000,0.5989,0.1667
+C2 Reward-to-risk,Oil,I,2,0.2667,0.5566,0.2222
+C2 Reward-to-risk,Oil,I,3,0.2667,0.5566,0.2222
+C2 Reward-to-risk,Oil,F,1,0.4667,0.5076,0.3889
+C2 Reward-to-risk,Oil,F,2,0.5333,0.5128,0.4444
+C2 Reward-to-risk,Oil,F,3,0.6667,0.5566,0.5556
+C2 Reward-to-risk,Util,T,1,0.3333,0.5287,0.2778
+C2 Reward-to-risk,Util,T,2,0.4667,0.5076,0.3889
+C2 Reward-to-risk,Util,T,3,0.4667,0.5076,0.3889
+C2 Reward-to-risk,Util,I,1,0.0667,0.7575,0.0556
+C2 Reward-to-risk,Util,I,2,0.2000,0.5989,0.1667
+C2 Reward-to-risk,Util,I,3,0.2667,0.5566,0.2222
+C2 Reward-to-risk,Util,F,1,0.2667,0.5566,0.2222
+C2 Reward-to-risk,Util,F,2,0.4667,0.5076,0.3889
+C2 Reward-to-risk,Util,F,3,0.4667,0.5076,0.3889
+C2 Reward-to-risk,Telcm,T,1,0.2667,0.5566,0.2222
+C2 Reward-to-risk,Telcm,T,2,0.3333,0.5287,0.2778
+C2 Reward-to-risk,Telcm,T,3,0.4000,0.5128,0.3333
+C2 Reward-to-risk,Telcm,I,1,0.3333,0.5287,0.2778
+C2 Reward-to-risk,Telcm,I,2,0.4000,0.5128,0.3333
+C2 Reward-to-risk,Telcm,I,3,0.4667,0.5076,0.3889
+C2 Reward-to-risk,Telcm,F,1,0.2000,0.5989,0.1667
+C2 Reward-to-risk,Telcm,F,2,0.2667,0.5566,0.2222
+C2 Reward-to-risk,Telcm,F,3,0.3333,0.5287,0.2778
+C2 Reward-to-risk,PerSv,T,1,0.1333,0.6610,0.1000
+C2 Reward-to-risk,PerSv,T,2,0.1333,0.6610,0.1000
+C2 Reward-to-risk,PerSv,T,3,0.4667,0.5076,0.3500
+C2 Reward-to-risk,PerSv,I,1,0.2667,0.5566,0.2000
+C2 Reward-to-risk,PerSv,I,2,0.5333,0.5128,0.4000
+C2 Reward-to-risk,PerSv,I,3,0.5333,0.5128,0.4000
+C2 Reward-to-risk,PerSv,F,1,0.2667,0.5566,0.2000
+C2 Reward-to-risk,PerSv,F,2,0.3333,0.5287,0.2500
+C2 Reward-to-risk,PerSv,F,3,0.3333,0.5287,0.2500
+C2 Reward-to-risk,BusSv,T,1,0.3333,0.5287,0.2632
+C2 Reward-to-risk,BusSv,T,2,0.4000,0.5128,0.3158
+C2 Reward-to-risk,BusSv,T,3,0.4000,0.5128,0.3158
+C2 Reward-to-risk,BusSv,I,1,0.3333,0.5287,0.2632
+C2 Reward-to-risk,BusSv,I,2,0.4667,0.5076,0.3684
+C2 Reward-to-risk,BusSv,I,3,0.6000,0.5287,0.4737
+C2 Reward-to-risk,BusSv,F,1,0.0667,0.7575,0.0526
+C2 Reward-to-risk,BusSv,F,2,0.1333,0.6610,0.1053
+C2 Reward-to-risk,BusSv,F,3,0.2667,0.5566,0.2105
+C2 Reward-to-risk,Hardw,T,1,0.3333,0.5287,0.2632
+C2 Reward-to-risk,Hardw,T,2,0.4000,0.5128,0.3158
+C2 Reward-to-risk,Hardw,T,3,0.4667,0.5076,0.3684
+C2 Reward-to-risk,Hardw,I,1,0.2000,0.5989,0.1579
+C2 Reward-to-risk,Hardw,I,2,0.2000,0.5989,0.1579
+C2 Reward-to-risk,Hardw,I,3,0.3333,0.5287,0.2632
+C2 Reward-to-risk,Hardw,F,1,0.2667,0.5566,0.2105
+C2 Reward-to-risk,Hardw,F,2,0.3333,0.5287,0.2632
+C2 Reward-to-risk,Hardw,F,3,0.4667,0.5076,0.3684
+C2 Reward-to-risk,Softw,T,1,0.3333,0.5287,0.2500
+C2 Reward-to-risk,Softw,T,2,0.4667,0.5076,0.3500
+C2 Reward-to-risk,Softw,T,3,0.6000,0.5287,0.4500
+C2 Reward-to-risk,Softw,I,1,0.2000,0.5989,0.1500
+C2 Reward-to-risk,Softw,I,2,0.2667,0.5566,0.2000
+C2 Reward-to-risk,Softw,I,3,0.4667,0.5076,0.3500
+C2 Reward-to-risk,Softw,F,1,0.2000,0.5989,0.1500
+C2 Reward-to-risk,Softw,F,2,0.2000,0.5989,0.1500
+C2 Reward-to-risk,Softw,F,3,0.2667,0.5566,0.2000
+C2 Reward-to-risk,Chips,T,1,0.3333,0.5287,0.2500
+C2 Reward-to-risk,Chips,T,2,0.6000,0.5287,0.4500
+C2 Reward-to-risk,Chips,T,3,0.6667,0.5566,0.5000
+C2 Reward-to-risk,Chips,I,1,0.2000,0.5989,0.1500
+C2 Reward-to-risk,Chips,I,2,0.2000,0.5989,0.1500
+C2 Reward-to-risk,Chips,I,3,0.4000,0.5128,0.3000
+C2 Reward-to-risk,Chips,F,1,0.1333,0.6610,0.1000
+C2 Reward-to-risk,Chips,F,2,0.2000,0.5989,0.1500
+C2 Reward-to-risk,Chips,F,3,0.2667,0.5566,0.2000
+C2 Reward-to-risk,LabEq,T,1,0.4000,0.5128,0.3750
+C2 Reward-to-risk,LabEq,T,2,0.4667,0.5076,0.4375
+C2 Reward-to-risk,LabEq,T,3,0.4667,0.5076,0.4375
+C2 Reward-to-risk,LabEq,I,1,0.4000,0.5128,0.3750
+C2 Reward-to-risk,LabEq,I,2,0.4000,0.5128,0.3750
+C2 Reward-to-risk,LabEq,I,3,0.4000,0.5128,0.3750
+C2 Reward-to-risk,LabEq,F,1,0.1333,0.6610,0.1250
+C2 Reward-to-risk,LabEq,F,2,0.1333,0.6610,0.1250
+C2 Reward-to-risk,LabEq,F,3,0.2000,0.5989,0.1875
+C2 Reward-to-risk,Paper,T,1,0.2000,0.5989,0.1667
+C2 Reward-to-risk,Paper,T,2,0.2000,0.5989,0.1667
+C2 Reward-to-risk,Paper,T,3,0.2667,0.5566,0.2222
+C2 Reward-to-risk,Paper,I,1,0.4000,0.5128,0.3333
+C2 Reward-to-risk,Paper,I,2,0.4000,0.5128,0.3333
+C2 Reward-to-risk,Paper,I,3,0.5333,0.5128,0.4444
+C2 Reward-to-risk,Paper,F,1,0.2667,0.5566,0.2222
+C2 Reward-to-risk,Paper,F,2,0.3333,0.5287,0.2778
+C2 Reward-to-risk,Paper,F,3,0.4000,0.5128,0.3333
+C2 Reward-to-risk,Boxes,T,1,0.2667,0.5566,0.2353
+C2 Reward-to-risk,Boxes,T,2,0.3333,0.5287,0.2941
+C2 Reward-to-risk,Boxes,T,3,0.4000,0.5128,0.3529
+C2 Reward-to-risk,Boxes,I,1,0.2000,0.5989,0.1765
+C2 Reward-to-risk,Boxes,I,2,0.2667,0.5566,0.2353
+C2 Reward-to-risk,Boxes,I,3,0.3333,0.5287,0.2941
+C2 Reward-to-risk,Boxes,F,1,0.4000,0.5128,0.3529
+C2 Reward-to-risk,Boxes,F,2,0.4000,0.5128,0.3529
+C2 Reward-to-risk,Boxes,F,3,0.4000,0.5128,0.3529
+C2 Reward-to-risk,Trans,T,1,0.1333,0.6610,0.1000
+C2 Reward-to-risk,Trans,T,2,0.3333,0.5287,0.2500
+C2 Reward-to-risk,Trans,T,3,0.4667,0.5076,0.3500
+C2 Reward-to-risk,Trans,I,1,0.2000,0.5989,0.1500
+C2 Reward-to-risk,Trans,I,2,0.3333,0.5287,0.2500
+C2 Reward-to-risk,Trans,I,3,0.4667,0.5076,0.3500
+C2 Reward-to-risk,Trans,F,1,0.3333,0.5287,0.2500
+C2 Reward-to-risk,Trans,F,2,0.3333,0.5287,0.2500
+C2 Reward-to-risk,Trans,F,3,0.4000,0.5128,0.3000
+C2 Reward-to-risk,Whlsl,T,1,0.2000,0.5989,0.1500
+C2 Reward-to-risk,Whlsl,T,2,0.2667,0.5566,0.2000
+C2 Reward-to-risk,Whlsl,T,3,0.4667,0.5076,0.3500
+C2 Reward-to-risk,Whlsl,I,1,0.4000,0.5128,0.3000
+C2 Reward-to-risk,Whlsl,I,2,0.4667,0.5076,0.3500
+C2 Reward-to-risk,Whlsl,I,3,0.5333,0.5128,0.4000
+C2 Reward-to-risk,Whlsl,F,1,0.1333,0.6610,0.1000
+C2 Reward-to-risk,Whlsl,F,2,0.2000,0.5989,0.1500
+C2 Reward-to-risk,Whlsl,F,3,0.3333,0.5287,0.2500
+C2 Reward-to-risk,Rtail,T,1,0.2667,0.5566,0.1905
+C2 Reward-to-risk,Rtail,T,2,0.4667,0.5076,0.3333
+C2 Reward-to-risk,Rtail,T,3,0.6000,0.5287,0.4286
+C2 Reward-to-risk,Rtail,I,1,0.1333,0.6610,0.0952
+C2 Reward-to-risk,Rtail,I,2,0.4000,0.5128,0.2857
+C2 Reward-to-risk,Rtail,I,3,0.5333,0.5128,0.3810
+C2 Reward-to-risk,Rtail,F,1,0.1333,0.6610,0.0952
+C2 Reward-to-risk,Rtail,F,2,0.2000,0.5989,0.1429
+C2 Reward-to-risk,Rtail,F,3,0.2667,0.5566,0.1905
+C2 Reward-to-risk,Meals,T,1,0.2667,0.5566,0.2105
+C2 Reward-to-risk,Meals,T,2,0.5333,0.5128,0.4211
+C2 Reward-to-risk,Meals,T,3,0.5333,0.5128,0.4211
+C2 Reward-to-risk,Meals,I,1,0.2000,0.5989,0.1579
+C2 Reward-to-risk,Meals,I,2,0.2000,0.5989,0.1579
+C2 Reward-to-risk,Meals,I,3,0.4000,0.5128,0.3158
+C2 Reward-to-risk,Meals,F,1,0.2667,0.5566,0.2105
+C2 Reward-to-risk,Meals,F,2,0.2667,0.5566,0.2105
+C2 Reward-to-risk,Meals,F,3,0.3333,0.5287,0.2632
+C2 Reward-to-risk,Banks,T,1,0.1333,0.6610,0.0870
+C2 Reward-to-risk,Banks,T,2,0.3333,0.5287,0.2174
+C2 Reward-to-risk,Banks,T,3,0.5333,0.5128,0.3478
+C2 Reward-to-risk,Banks,I,1,0.2667,0.5566,0.1739
+C2 Reward-to-risk,Banks,I,2,0.3333,0.5287,0.2174
+C2 Reward-to-risk,Banks,I,3,0.4000,0.5128,0.2609
+C2 Reward-to-risk,Banks,F,1,0.1333,0.6610,0.0870
+C2 Reward-to-risk,Banks,F,2,0.2667,0.5566,0.1739
+C2 Reward-to-risk,Banks,F,3,0.6000,0.5287,0.3913
+C2 Reward-to-risk,Insur,T,1,0.1333,0.6610,0.0909
+C2 Reward-to-risk,Insur,T,2,0.4000,0.5128,0.2727
+C2 Reward-to-risk,Insur,T,3,0.4667,0.5076,0.3182
+C2 Reward-to-risk,Insur,I,1,0.2667,0.5566,0.1818
+C2 Reward-to-risk,Insur,I,2,0.4000,0.5128,0.2727
+C2 Reward-to-risk,Insur,I,3,0.6667,0.5566,0.4545
+C2 Reward-to-risk,Insur,F,1,0.1333,0.6610,0.0909
+C2 Reward-to-risk,Insur,F,2,0.2000,0.5989,0.1364
+C2 Reward-to-risk,Insur,F,3,0.3333,0.5287,0.2273
+C2 Reward-to-risk,RlEst,T,1,0.1333,0.6610,0.1000
+C2 Reward-to-risk,RlEst,T,2,0.4000,0.5128,0.3000
+C2 Reward-to-risk,RlEst,T,3,0.4667,0.5076,0.3500
+C2 Reward-to-risk,RlEst,I,1,0.2667,0.5566,0.2000
+C2 Reward-to-risk,RlEst,I,2,0.3333,0.5287,0.2500
+C2 Reward-to-risk,RlEst,I,3,0.4667,0.5076,0.3500
+C2 Reward-to-risk,RlEst,F,1,0.2000,0.5989,0.1500
+C2 Reward-to-risk,RlEst,F,2,0.3333,0.5287,0.2500
+C2 Reward-to-risk,RlEst,F,3,0.4000,0.5128,0.3000
+C2 Reward-to-risk,Fin,T,1,0.2667,0.5566,0.2353
+C2 Reward-to-risk,Fin,T,2,0.2667,0.5566,0.2353
+C2 Reward-to-risk,Fin,T,3,0.3333,0.5287,0.2941
+C2 Reward-to-risk,Fin,I,1,0.4000,0.5128,0.3529
+C2 Reward-to-risk,Fin,I,2,0.4667,0.5076,0.4118
+C2 Reward-to-risk,Fin,I,3,0.5333,0.5128,0.4706
+C2 Reward-to-risk,Fin,F,1,0.2000,0.5989,0.1765
+C2 Reward-to-risk,Fin,F,2,0.2667,0.5566,0.2353
+C2 Reward-to-risk,Fin,F,3,0.2667,0.5566,0.2353
+C2 Reward-to-risk,Other,T,1,0.2667,0.5566,0.2105
+C2 Reward-to-risk,Other,T,2,0.2667,0.5566,0.2105
+C2 Reward-to-risk,Other,T,3,0.4000,0.5128,0.3158
+C2 Reward-to-risk,Other,I,1,0.2667,0.5566,0.2105
+C2 Reward-to-risk,Other,I,2,0.3333,0.5287,0.2632
+C2 Reward-to-risk,Other,I,3,0.4667,0.5076,0.3684
+C2 Reward-to-risk,Other,F,1,0.2667,0.5566,0.2105
+C2 Reward-to-risk,Other,F,2,0.3333,0.5287,0.2632
+C2 Reward-to-risk,Other,F,3,0.4000,0.5128,0.3158
+C3 Volatility,Agric,T,1,0.0667,0.7575,0.0455
+C3 Volatility,Agric,T,2,0.2000,0.5989,0.1364
+C3 Volatility,Agric,T,3,0.4667,0.5076,0.3182
+C3 Volatility,Agric,I,1,0.2000,0.5989,0.1364
+C3 Volatility,Agric,I,2,0.2667,0.5566,0.1818
+C3 Volatility,Agric,I,3,0.4000,0.5128,0.2727
+C3 Volatility,Agric,F,1,0.2667,0.5566,0.1818
+C3 Volatility,Agric,F,2,0.5333,0.5128,0.3636
+C3 Volatility,Agric,F,3,0.6000,0.5287,0.4091
+C3 Volatility,Food,T,1,0.6000,0.5287,0.4737
+C3 Volatility,Food,T,2,0.8000,0.6610,0.6316
+C3 Volatility,Food,T,3,0.8667,0.7575,0.6842
+C3 Volatility,Food,I,1,0.0667,0.7575,0.0526
+C3 Volatility,Food,I,2,0.0667,0.7575,0.0526
+C3 Volatility,Food,I,3,0.2000,0.5989,0.1579
+C3 Volatility,Food,F,1,0.0667,0.7575,0.0526
+C3 Volatility,Food,F,2,0.1333,0.6610,0.1053
+C3 Volatility,Food,F,3,0.2000,0.5989,0.1579
+C3 Volatility,Soda,T,1,0.6667,0.5566,0.5263
+C3 Volatility,Soda,T,2,0.6667,0.5566,0.5263
+C3 Volatility,Soda,T,3,0.8000,0.6610,0.6316
+C3 Volatility,Soda,I,1,0.1333,0.6610,0.1053
+C3 Volatility,Soda,I,2,0.1333,0.6610,0.1053
+C3 Volatility,Soda,I,3,0.2667,0.5566,0.2105
+C3 Volatility,Soda,F,1,0.0667,0.7575,0.0526
+C3 Volatility,Soda,F,2,0.0667,0.7575,0.0526
+C3 Volatility,Soda,F,3,0.2000,0.5989,0.1579
+C3 Volatility,Beer,T,1,0.6000,0.5287,0.5000
+C3 Volatility,Beer,T,2,0.6667,0.5566,0.5556
+C3 Volatility,Beer,T,3,0.8000,0.6610,0.6667
+C3 Volatility,Beer,I,1,0.1333,0.6610,0.1111
+C3 Volatility,Beer,I,2,0.2667,0.5566,0.2222
+C3 Volatility,Beer,I,3,0.3333,0.5287,0.2778
+C3 Volatility,Beer,F,1,0.0667,0.7575,0.0556
+C3 Volatility,Beer,F,2,0.0667,0.7575,0.0556
+C3 Volatility,Beer,F,3,0.0667,0.7575,0.0556
+C3 Volatility,Smoke,T,1,0.2000,0.5989,0.1364
+C3 Volatility,Smoke,T,2,0.2667,0.5566,0.1818
+C3 Volatility,Smoke,T,3,0.5333,0.5128,0.3636
+C3 Volatility,Smoke,I,1,0.2000,0.5989,0.1364
+C3 Volatility,Smoke,I,2,0.3333,0.5287,0.2273
+C3 Volatility,Smoke,I,3,0.4000,0.5128,0.2727
+C3 Volatility,Smoke,F,1,0.1333,0.6610,0.0909
+C3 Volatility,Smoke,F,2,0.4000,0.5128,0.2727
+C3 Volatility,Smoke,F,3,0.5333,0.5128,0.3636
+C3 Volatility,Toys,T,1,0.0667,0.7575,0.0500
+C3 Volatility,Toys,T,2,0.0667,0.7575,0.0500
+C3 Volatility,Toys,T,3,0.1333,0.6610,0.1000
+C3 Volatility,Toys,I,1,0.0667,0.7575,0.0500
+C3 Volatility,Toys,I,2,0.2000,0.5989,0.1500
+C3 Volatility,Toys,I,3,0.3333,0.5287,0.2500
+C3 Volatility,Toys,F,1,0.6000,0.5287,0.4500
+C3 Volatility,Toys,F,2,0.6667,0.5566,0.5000
+C3 Volatility,Toys,F,3,0.8667,0.7575,0.6500
+C3 Volatility,Fun,T,1,0.0667,0.7575,0.0500
+C3 Volatility,Fun,T,2,0.1333,0.6610,0.1000
+C3 Volatility,Fun,T,3,0.3333,0.5287,0.2500
+C3 Volatility,Fun,I,1,0.1333,0.6610,0.1000
+C3 Volatility,Fun,I,2,0.2667,0.5566,0.2000
+C3 Volatility,Fun,I,3,0.2667,0.5566,0.2000
+C3 Volatility,Fun,F,1,0.4000,0.5128,0.3000
+C3 Volatility,Fun,F,2,0.6667,0.5566,0.5000
+C3 Volatility,Fun,F,3,0.7333,0.5989,0.5500
+C3 Volatility,Books,T,1,0.2000,0.5989,0.1364
+C3 Volatility,Books,T,2,0.3333,0.5287,0.2273
+C3 Volatility,Books,T,3,0.6000,0.5287,0.4091
+C3 Volatility,Books,I,1,0.1333,0.6610,0.0909
+C3 Volatility,Books,I,2,0.5333,0.5128,0.3636
+C3 Volatility,Books,I,3,0.6000,0.5287,0.4091
+C3 Volatility,Books,F,1,0.1333,0.6610,0.0909
+C3 Volatility,Books,F,2,0.2000,0.5989,0.1364
+C3 Volatility,Books,F,3,0.2667,0.5566,0.1818
+C3 Volatility,Hshld,T,1,0.7333,0.5989,0.6471
+C3 Volatility,Hshld,T,2,0.7333,0.5989,0.6471
+C3 Volatility,Hshld,T,3,0.8667,0.7575,0.7647
+C3 Volatility,Hshld,I,1,0.0667,0.7575,0.0588
+C3 Volatility,Hshld,I,2,0.2000,0.5989,0.1765
+C3 Volatility,Hshld,I,3,0.2000,0.5989,0.1765
+C3 Volatility,Hshld,F,1,0.0667,0.7575,0.0588
+C3 Volatility,Hshld,F,2,0.0667,0.7575,0.0588
+C3 Volatility,Hshld,F,3,0.0667,0.7575,0.0588
+C3 Volatility,Clths,T,1,0.2000,0.5989,0.1579
+C3 Volatility,Clths,T,2,0.2000,0.5989,0.1579
+C3 Volatility,Clths,T,3,0.2667,0.5566,0.2105
+C3 Volatility,Clths,I,1,0.4000,0.5128,0.3158
+C3 Volatility,Clths,I,2,0.5333,0.5128,0.4211
+C3 Volatility,Clths,I,3,0.6667,0.5566,0.5263
+C3 Volatility,Clths,F,1,0.1333,0.6610,0.1053
+C3 Volatility,Clths,F,2,0.2667,0.5566,0.2105
+C3 Volatility,Clths,F,3,0.3333,0.5287,0.2632
+C3 Volatility,Hlth,T,1,0.2667,0.5566,0.2000
+C3 Volatility,Hlth,T,2,0.2667,0.5566,0.2000
+C3 Volatility,Hlth,T,3,0.5333,0.5128,0.4000
+C3 Volatility,Hlth,I,1,0.4000,0.5128,0.3000
+C3 Volatility,Hlth,I,2,0.5333,0.5128,0.4000
+C3 Volatility,Hlth,I,3,0.6000,0.5287,0.4500
+C3 Volatility,Hlth,F,1,0.0667,0.7575,0.0500
+C3 Volatility,Hlth,F,2,0.1333,0.6610,0.1000
+C3 Volatility,Hlth,F,3,0.2000,0.5989,0.1500
+C3 Volatility,MedEq,T,1,0.3333,0.5287,0.2500
+C3 Volatility,MedEq,T,2,0.3333,0.5287,0.2500
+C3 Volatility,MedEq,T,3,0.6000,0.5287,0.4500
+C3 Volatility,MedEq,I,1,0.3333,0.5287,0.2500
+C3 Volatility,MedEq,I,2,0.4667,0.5076,0.3500
+C3 Volatility,MedEq,I,3,0.5333,0.5128,0.4000
+C3 Volatility,MedEq,F,1,0.0667,0.7575,0.0500
+C3 Volatility,MedEq,F,2,0.1333,0.6610,0.1000
+C3 Volatility,MedEq,F,3,0.2000,0.5989,0.1500
+C3 Volatility,Drugs,T,1,0.5333,0.5128,0.4000
+C3 Volatility,Drugs,T,2,0.8000,0.6610,0.6000
+C3 Volatility,Drugs,T,3,0.8667,0.7575,0.6500
+C3 Volatility,Drugs,I,1,0.0667,0.7575,0.0500
+C3 Volatility,Drugs,I,2,0.1333,0.6610,0.1000
+C3 Volatility,Drugs,I,3,0.3333,0.5287,0.2500
+C3 Volatility,Drugs,F,1,0.0667,0.7575,0.0500
+C3 Volatility,Drugs,F,2,0.0667,0.7575,0.0500
+C3 Volatility,Drugs,F,3,0.1333,0.6610,0.1000
+C3 Volatility,Chems,T,1,0.0667,0.7575,0.0526
+C3 Volatility,Chems,T,2,0.1333,0.6610,0.1053
+C3 Volatility,Chems,T,3,0.2000,0.5989,0.1579
+C3 Volatility,Chems,I,1,0.6000,0.5287,0.4737
+C3 Volatility,Chems,I,2,0.7333,0.5989,0.5789
+C3 Volatility,Chems,I,3,0.8000,0.6610,0.6316
+C3 Volatility,Chems,F,1,0.0667,0.7575,0.0526
+C3 Volatility,Chems,F,2,0.1333,0.6610,0.1053
+C3 Volatility,Chems,F,3,0.2667,0.5566,0.2105
+C3 Volatility,Rubbr,T,1,0.5333,0.5128,0.4444
+C3 Volatility,Rubbr,T,2,0.7333,0.5989,0.6111
+C3 Volatility,Rubbr,T,3,0.7333,0.5989,0.6111
+C3 Volatility,Rubbr,I,1,0.2000,0.5989,0.1667
+C3 Volatility,Rubbr,I,2,0.2000,0.5989,0.1667
+C3 Volatility,Rubbr,I,3,0.3333,0.5287,0.2778
+C3 Volatility,Rubbr,F,1,0.0667,0.7575,0.0556
+C3 Volatility,Rubbr,F,2,0.0667,0.7575,0.0556
+C3 Volatility,Rubbr,F,3,0.1333,0.6610,0.1111
+C3 Volatility,Txtls,T,1,0.0667,0.7575,0.0476
+C3 Volatility,Txtls,T,2,0.0667,0.7575,0.0476
+C3 Volatility,Txtls,T,3,0.0667,0.7575,0.0476
+C3 Volatility,Txtls,I,1,0.0667,0.7575,0.0476
+C3 Volatility,Txtls,I,2,0.2000,0.5989,0.1429
+C3 Volatility,Txtls,I,3,0.4667,0.5076,0.3333
+C3 Volatility,Txtls,F,1,0.4667,0.5076,0.3333
+C3 Volatility,Txtls,F,2,0.7333,0.5989,0.5238
+C3 Volatility,Txtls,F,3,0.8667,0.7575,0.6190
+C3 Volatility,BldMt,T,1,0.0667,0.7575,0.0500
+C3 Volatility,BldMt,T,2,0.1333,0.6610,0.1000
+C3 Volatility,BldMt,T,3,0.2667,0.5566,0.2000
+C3 Volatility,BldMt,I,1,0.4667,0.5076,0.3500
+C3 Volatility,BldMt,I,2,0.6000,0.5287,0.4500
+C3 Volatility,BldMt,I,3,0.6667,0.5566,0.5000
+C3 Volatility,BldMt,F,1,0.0667,0.7575,0.0500
+C3 Volatility,BldMt,F,2,0.3333,0.5287,0.2500
+C3 Volatility,BldMt,F,3,0.4000,0.5128,0.3000
+C3 Volatility,Cnstr,T,1,0.0667,0.7575,0.0500
+C3 Volatility,Cnstr,T,2,0.0667,0.7575,0.0500
+C3 Volatility,Cnstr,T,3,0.2667,0.5566,0.2000
+C3 Volatility,Cnstr,I,1,0.2667,0.5566,0.2000
+C3 Volatility,Cnstr,I,2,0.2667,0.5566,0.2000
+C3 Volatility,Cnstr,I,3,0.4000,0.5128,0.3000
+C3 Volatility,Cnstr,F,1,0.3333,0.5287,0.2500
+C3 Volatility,Cnstr,F,2,0.6667,0.5566,0.5000
+C3 Volatility,Cnstr,F,3,0.6667,0.5566,0.5000
+C3 Volatility,Steel,T,1,0.0667,0.7575,0.0625
+C3 Volatility,Steel,T,2,0.0667,0.7575,0.0625
+C3 Volatility,Steel,T,3,0.0667,0.7575,0.0625
+C3 Volatility,Steel,I,1,0.0667,0.7575,0.0625
+C3 Volatility,Steel,I,2,0.0667,0.7575,0.0625
+C3 Volatility,Steel,I,3,0.1333,0.6610,0.1250
+C3 Volatility,Steel,F,1,0.8000,0.6610,0.7500
+C3 Volatility,Steel,F,2,0.8667,0.7575,0.8125
+C3 Volatility,Steel,F,3,0.8667,0.7575,0.8125
+C3 Volatility,FabPr,T,1,0.0667,0.7575,0.0526
+C3 Volatility,FabPr,T,2,0.0667,0.7575,0.0526
+C3 Volatility,FabPr,T,3,0.1333,0.6610,0.1053
+C3 Volatility,FabPr,I,1,0.0667,0.7575,0.0526
+C3 Volatility,FabPr,I,2,0.1333,0.6610,0.1053
+C3 Volatility,FabPr,I,3,0.2667,0.5566,0.2105
+C3 Volatility,FabPr,F,1,0.6000,0.5287,0.4737
+C3 Volatility,FabPr,F,2,0.8000,0.6610,0.6316
+C3 Volatility,FabPr,F,3,0.8667,0.7575,0.6842
+C3 Volatility,Mach,T,1,0.0667,0.7575,0.0526
+C3 Volatility,Mach,T,2,0.1333,0.6610,0.1053
+C3 Volatility,Mach,T,3,0.1333,0.6610,0.1053
+C3 Volatility,Mach,I,1,0.4000,0.5128,0.3158
+C3 Volatility,Mach,I,2,0.4000,0.5128,0.3158
+C3 Volatility,Mach,I,3,0.6000,0.5287,0.4737
+C3 Volatility,Mach,F,1,0.2667,0.5566,0.2105
+C3 Volatility,Mach,F,2,0.4667,0.5076,0.3684
+C3 Volatility,Mach,F,3,0.5333,0.5128,0.4211
+C3 Volatility,ElcEq,T,1,0.1333,0.6610,0.1176
+C3 Volatility,ElcEq,T,2,0.1333,0.6610,0.1176
+C3 Volatility,ElcEq,T,3,0.2000,0.5989,0.1765
+C3 Volatility,ElcEq,I,1,0.4667,0.5076,0.4118
+C3 Volatility,ElcEq,I,2,0.5333,0.5128,0.4706
+C3 Volatility,ElcEq,I,3,0.5333,0.5128,0.4706
+C3 Volatility,ElcEq,F,1,0.2667,0.5566,0.2353
+C3 Volatility,ElcEq,F,2,0.3333,0.5287,0.2941
+C3 Volatility,ElcEq,F,3,0.4000,0.5128,0.3529
+C3 Volatility,Autos,T,1,0.0667,0.7575,0.0500
+C3 Volatility,Autos,T,2,0.0667,0.7575,0.0500
+C3 Volatility,Autos,T,3,0.0667,0.7575,0.0500
+C3 Volatility,Autos,I,1,0.1333,0.6610,0.1000
+C3 Volatility,Autos,I,2,0.2000,0.5989,0.1500
+C3 Volatility,Autos,I,3,0.4667,0.5076,0.3500
+C3 Volatility,Autos,F,1,0.4667,0.5076,0.3500
+C3 Volatility,Autos,F,2,0.7333,0.5989,0.5500
+C3 Volatility,Autos,F,3,0.8000,0.6610,0.6000
+C3 Volatility,Aero,T,1,0.0667,0.7575,0.0526
+C3 Volatility,Aero,T,2,0.0667,0.7575,0.0526
+C3 Volatility,Aero,T,3,0.0667,0.7575,0.0526
+C3 Volatility,Aero,I,1,0.2000,0.5989,0.1579
+C3 Volatility,Aero,I,2,0.4667,0.5076,0.3684
+C3 Volatility,Aero,I,3,0.4667,0.5076,0.3684
+C3 Volatility,Aero,F,1,0.4667,0.5076,0.3684
+C3 Volatility,Aero,F,2,0.4667,0.5076,0.3684
+C3 Volatility,Aero,F,3,0.7333,0.5989,0.5789
+C3 Volatility,Ships,T,1,0.0667,0.7575,0.0556
+C3 Volatility,Ships,T,2,0.1333,0.6610,0.1111
+C3 Volatility,Ships,T,3,0.2667,0.5566,0.2222
+C3 Volatility,Ships,I,1,0.2000,0.5989,0.1667
+C3 Volatility,Ships,I,2,0.2667,0.5566,0.2222
+C3 Volatility,Ships,I,3,0.2667,0.5566,0.2222
+C3 Volatility,Ships,F,1,0.4667,0.5076,0.3889
+C3 Volatility,Ships,F,2,0.6667,0.5566,0.5556
+C3 Volatility,Ships,F,3,0.6667,0.5566,0.5556
+C3 Volatility,Guns,T,1,0.2667,0.5566,0.2000
+C3 Volatility,Guns,T,2,0.4000,0.5128,0.3000
+C3 Volatility,Guns,T,3,0.4667,0.5076,0.3500
+C3 Volatility,Guns,I,1,0.3333,0.5287,0.2500
+C3 Volatility,Guns,I,2,0.4000,0.5128,0.3000
+C3 Volatility,Guns,I,3,0.4667,0.5076,0.3500
+C3 Volatility,Guns,F,1,0.1333,0.6610,0.1000
+C3 Volatility,Guns,F,2,0.1333,0.6610,0.1000
+C3 Volatility,Guns,F,3,0.4000,0.5128,0.3000
+C3 Volatility,Gold,T,1,0.0667,0.7575,0.0625
+C3 Volatility,Gold,T,2,0.0667,0.7575,0.0625
+C3 Volatility,Gold,T,3,0.0667,0.7575,0.0625
+C3 Volatility,Gold,I,1,0.1333,0.6610,0.1250
+C3 Volatility,Gold,I,2,0.1333,0.6610,0.1250
+C3 Volatility,Gold,I,3,0.2000,0.5989,0.1875
+C3 Volatility,Gold,F,1,0.7333,0.5989,0.6875
+C3 Volatility,Gold,F,2,0.8000,0.6610,0.7500
+C3 Volatility,Gold,F,3,0.8000,0.6610,0.7500
+C3 Volatility,Mines,T,1,0.0667,0.7575,0.0526
+C3 Volatility,Mines,T,2,0.0667,0.7575,0.0526
+C3 Volatility,Mines,T,3,0.1333,0.6610,0.1053
+C3 Volatility,Mines,I,1,0.0667,0.7575,0.0526
+C3 Volatility,Mines,I,2,0.0667,0.7575,0.0526
+C3 Volatility,Mines,I,3,0.2667,0.5566,0.2105
+C3 Volatility,Mines,F,1,0.6667,0.5566,0.5263
+C3 Volatility,Mines,F,2,0.8000,0.6610,0.6316
+C3 Volatility,Mines,F,3,0.8667,0.7575,0.6842
+C3 Volatility,Coal,T,1,0.0667,0.7575,0.0667
+C3 Volatility,Coal,T,2,0.0667,0.7575,0.0667
+C3 Volatility,Coal,T,3,0.0667,0.7575,0.0667
+C3 Volatility,Coal,I,1,0.0667,0.7575,0.0667
+C3 Volatility,Coal,I,2,0.0667,0.7575,0.0667
+C3 Volatility,Coal,I,3,0.0667,0.7575,0.0667
+C3 Volatility,Coal,F,1,0.8667,0.7575,0.8667
+C3 Volatility,Coal,F,2,0.8667,0.7575,0.8667
+C3 Volatility,Coal,F,3,0.8667,0.7575,0.8667
+C3 Volatility,Oil,T,1,0.0667,0.7575,0.0500
+C3 Volatility,Oil,T,2,0.0667,0.7575,0.0500
+C3 Volatility,Oil,T,3,0.0667,0.7575,0.0500
+C3 Volatility,Oil,I,1,0.0667,0.7575,0.0500
+C3 Volatility,Oil,I,2,0.3333,0.5287,0.2500
+C3 Volatility,Oil,I,3,0.4000,0.5128,0.3000
+C3 Volatility,Oil,F,1,0.5333,0.5128,0.4000
+C3 Volatility,Oil,F,2,0.6000,0.5287,0.4500
+C3 Volatility,Oil,F,3,0.8667,0.7575,0.6500
+C3 Volatility,Util,T,1,0.6000,0.5287,0.4737
+C3 Volatility,Util,T,2,0.8000,0.6610,0.6316
+C3 Volatility,Util,T,3,0.8667,0.7575,0.6842
+C3 Volatility,Util,I,1,0.0667,0.7575,0.0526
+C3 Volatility,Util,I,2,0.1333,0.6610,0.1053
+C3 Volatility,Util,I,3,0.3333,0.5287,0.2632
+C3 Volatility,Util,F,1,0.0667,0.7575,0.0526
+C3 Volatility,Util,F,2,0.0667,0.7575,0.0526
+C3 Volatility,Util,F,3,0.0667,0.7575,0.0526
+C3 Volatility,Telcm,T,1,0.6667,0.5566,0.5556
+C3 Volatility,Telcm,T,2,0.8000,0.6610,0.6667
+C3 Volatility,Telcm,T,3,0.8667,0.7575,0.7222
+C3 Volatility,Telcm,I,1,0.0667,0.7575,0.0556
+C3 Volatility,Telcm,I,2,0.1333,0.6610,0.1111
+C3 Volatility,Telcm,I,3,0.2667,0.5566,0.2222
+C3 Volatility,Telcm,F,1,0.0667,0.7575,0.0556
+C3 Volatility,Telcm,F,2,0.0667,0.7575,0.0556
+C3 Volatility,Telcm,F,3,0.0667,0.7575,0.0556
+C3 Volatility,PerSv,T,1,0.3333,0.5287,0.2500
+C3 Volatility,PerSv,T,2,0.6667,0.5566,0.5000
+C3 Volatility,PerSv,T,3,0.6667,0.5566,0.5000
+C3 Volatility,PerSv,I,1,0.2000,0.5989,0.1500
+C3 Volatility,PerSv,I,2,0.2667,0.5566,0.2000
+C3 Volatility,PerSv,I,3,0.5333,0.5128,0.4000
+C3 Volatility,PerSv,F,1,0.0667,0.7575,0.0500
+C3 Volatility,PerSv,F,2,0.1333,0.6610,0.1000
+C3 Volatility,PerSv,F,3,0.1333,0.6610,0.1000
+C3 Volatility,BusSv,T,1,0.4000,0.5128,0.3529
+C3 Volatility,BusSv,T,2,0.4667,0.5076,0.4118
+C3 Volatility,BusSv,T,3,0.5333,0.5128,0.4706
+C3 Volatility,BusSv,I,1,0.4000,0.5128,0.3529
+C3 Volatility,BusSv,I,2,0.4667,0.5076,0.4118
+C3 Volatility,BusSv,I,3,0.4667,0.5076,0.4118
+C3 Volatility,BusSv,F,1,0.0667,0.7575,0.0588
+C3 Volatility,BusSv,F,2,0.0667,0.7575,0.0588
+C3 Volatility,BusSv,F,3,0.1333,0.6610,0.1176
+C3 Volatility,Hardw,T,1,0.2000,0.5989,0.1579
+C3 Volatility,Hardw,T,2,0.2000,0.5989,0.1579
+C3 Volatility,Hardw,T,3,0.2000,0.5989,0.1579
+C3 Volatility,Hardw,I,1,0.2667,0.5566,0.2105
+C3 Volatility,Hardw,I,2,0.4000,0.5128,0.3158
+C3 Volatility,Hardw,I,3,0.5333,0.5128,0.4211
+C3 Volatility,Hardw,F,1,0.2667,0.5566,0.2105
+C3 Volatility,Hardw,F,2,0.4000,0.5128,0.3158
+C3 Volatility,Hardw,F,3,0.5333,0.5128,0.4211
+C3 Volatility,Softw,T,1,0.2667,0.5566,0.2000
+C3 Volatility,Softw,T,2,0.3333,0.5287,0.2500
+C3 Volatility,Softw,T,3,0.4000,0.5128,0.3000
+C3 Volatility,Softw,I,1,0.2667,0.5566,0.2000
+C3 Volatility,Softw,I,2,0.4000,0.5128,0.3000
+C3 Volatility,Softw,I,3,0.4667,0.5076,0.3500
+C3 Volatility,Softw,F,1,0.2000,0.5989,0.1500
+C3 Volatility,Softw,F,2,0.2000,0.5989,0.1500
+C3 Volatility,Softw,F,3,0.4667,0.5076,0.3500
+C3 Volatility,Chips,T,1,0.0667,0.7575,0.0526
+C3 Volatility,Chips,T,2,0.0667,0.7575,0.0526
+C3 Volatility,Chips,T,3,0.2000,0.5989,0.1579
+C3 Volatility,Chips,I,1,0.2667,0.5566,0.2105
+C3 Volatility,Chips,I,2,0.3333,0.5287,0.2632
+C3 Volatility,Chips,I,3,0.4667,0.5076,0.3684
+C3 Volatility,Chips,F,1,0.4667,0.5076,0.3684
+C3 Volatility,Chips,F,2,0.5333,0.5128,0.4211
+C3 Volatility,Chips,F,3,0.6000,0.5287,0.4737
+C3 Volatility,LabEq,T,1,0.2000,0.5989,0.1364
+C3 Volatility,LabEq,T,2,0.2667,0.5566,0.1818
+C3 Volatility,LabEq,T,3,0.6667,0.5566,0.4545
+C3 Volatility,LabEq,I,1,0.2667,0.5566,0.1818
+C3 Volatility,LabEq,I,2,0.5333,0.5128,0.3636
+C3 Volatility,LabEq,I,3,0.5333,0.5128,0.3636
+C3 Volatility,LabEq,F,1,0.0667,0.7575,0.0455
+C3 Volatility,LabEq,F,2,0.2000,0.5989,0.1364
+C3 Volatility,LabEq,F,3,0.2667,0.5566,0.1818
+C3 Volatility,Paper,T,1,0.3333,0.5287,0.2381
+C3 Volatility,Paper,T,2,0.4000,0.5128,0.2857
+C3 Volatility,Paper,T,3,0.6667,0.5566,0.4762
+C3 Volatility,Paper,I,1,0.2667,0.5566,0.1905
+C3 Volatility,Paper,I,2,0.4667,0.5076,0.3333
+C3 Volatility,Paper,I,3,0.5333,0.5128,0.3810
+C3 Volatility,Paper,F,1,0.0667,0.7575,0.0476
+C3 Volatility,Paper,F,2,0.0667,0.7575,0.0476
+C3 Volatility,Paper,F,3,0.2000,0.5989,0.1429
+C3 Volatility,Boxes,T,1,0.2000,0.5989,0.1765
+C3 Volatility,Boxes,T,2,0.2667,0.5566,0.2353
+C3 Volatility,Boxes,T,3,0.2667,0.5566,0.2353
+C3 Volatility,Boxes,I,1,0.6000,0.5287,0.5294
+C3 Volatility,Boxes,I,2,0.6000,0.5287,0.5294
+C3 Volatility,Boxes,I,3,0.7333,0.5989,0.6471
+C3 Volatility,Boxes,F,1,0.0667,0.7575,0.0588
+C3 Volatility,Boxes,F,2,0.1333,0.6610,0.1176
+C3 Volatility,Boxes,F,3,0.1333,0.6610,0.1176
+C3 Volatility,Trans,T,1,0.1333,0.6610,0.1000
+C3 Volatility,Trans,T,2,0.2000,0.5989,0.1500
+C3 Volatility,Trans,T,3,0.3333,0.5287,0.2500
+C3 Volatility,Trans,I,1,0.5333,0.5128,0.4000
+C3 Volatility,Trans,I,2,0.5333,0.5128,0.4000
+C3 Volatility,Trans,I,3,0.7333,0.5989,0.5500
+C3 Volatility,Trans,F,1,0.1333,0.6610,0.1000
+C3 Volatility,Trans,F,2,0.1333,0.6610,0.1000
+C3 Volatility,Trans,F,3,0.2667,0.5566,0.2000
+C3 Volatility,Whlsl,T,1,0.4000,0.5128,0.3158
+C3 Volatility,Whlsl,T,2,0.6000,0.5287,0.4737
+C3 Volatility,Whlsl,T,3,0.6667,0.5566,0.5263
+C3 Volatility,Whlsl,I,1,0.2667,0.5566,0.2105
+C3 Volatility,Whlsl,I,2,0.3333,0.5287,0.2632
+C3 Volatility,Whlsl,I,3,0.5333,0.5128,0.4211
+C3 Volatility,Whlsl,F,1,0.0667,0.7575,0.0526
+C3 Volatility,Whlsl,F,2,0.0667,0.7575,0.0526
+C3 Volatility,Whlsl,F,3,0.0667,0.7575,0.0526
+C3 Volatility,Rtail,T,1,0.3333,0.5287,0.2500
+C3 Volatility,Rtail,T,2,0.6000,0.5287,0.4500
+C3 Volatility,Rtail,T,3,0.6667,0.5566,0.5000
+C3 Volatility,Rtail,I,1,0.2667,0.5566,0.2000
+C3 Volatility,Rtail,I,2,0.3333,0.5287,0.2500
+C3 Volatility,Rtail,I,3,0.4000,0.5128,0.3000
+C3 Volatility,Rtail,F,1,0.0667,0.7575,0.0500
+C3 Volatility,Rtail,F,2,0.0667,0.7575,0.0500
+C3 Volatility,Rtail,F,3,0.2667,0.5566,0.2000
+C3 Volatility,Meals,T,1,0.5333,0.5128,0.3810
+C3 Volatility,Meals,T,2,0.7333,0.5989,0.5238
+C3 Volatility,Meals,T,3,0.8667,0.7575,0.6190
+C3 Volatility,Meals,I,1,0.0667,0.7575,0.0476
+C3 Volatility,Meals,I,2,0.1333,0.6610,0.0952
+C3 Volatility,Meals,I,3,0.4000,0.5128,0.2857
+C3 Volatility,Meals,F,1,0.0667,0.7575,0.0476
+C3 Volatility,Meals,F,2,0.0667,0.7575,0.0476
+C3 Volatility,Meals,F,3,0.1333,0.6610,0.0952
+C3 Volatility,Banks,T,1,0.0667,0.7575,0.0476
+C3 Volatility,Banks,T,2,0.4000,0.5128,0.2857
+C3 Volatility,Banks,T,3,0.4667,0.5076,0.3333
+C3 Volatility,Banks,I,1,0.2667,0.5566,0.1905
+C3 Volatility,Banks,I,2,0.4667,0.5076,0.3333
+C3 Volatility,Banks,I,3,0.5333,0.5128,0.3810
+C3 Volatility,Banks,F,1,0.1333,0.6610,0.0952
+C3 Volatility,Banks,F,2,0.2667,0.5566,0.1905
+C3 Volatility,Banks,F,3,0.4000,0.5128,0.2857
+C3 Volatility,Insur,T,1,0.4000,0.5128,0.3000
+C3 Volatility,Insur,T,2,0.6667,0.5566,0.5000
+C3 Volatility,Insur,T,3,0.7333,0.5989,0.5500
+C3 Volatility,Insur,I,1,0.2000,0.5989,0.1500
+C3 Volatility,Insur,I,2,0.2667,0.5566,0.2000
+C3 Volatility,Insur,I,3,0.4000,0.5128,0.3000
+C3 Volatility,Insur,F,1,0.0667,0.7575,0.0500
+C3 Volatility,Insur,F,2,0.0667,0.7575,0.0500
+C3 Volatility,Insur,F,3,0.2000,0.5989,0.1500
+C3 Volatility,RlEst,T,1,0.1333,0.6610,0.0769
+C3 Volatility,RlEst,T,2,0.1333,0.6610,0.0769
+C3 Volatility,RlEst,T,3,0.4667,0.5076,0.2692
+C3 Volatility,RlEst,I,1,0.1333,0.6610,0.0769
+C3 Volatility,RlEst,I,2,0.2000,0.5989,0.1154
+C3 Volatility,RlEst,I,3,0.5333,0.5128,0.3077
+C3 Volatility,RlEst,F,1,0.3333,0.5287,0.1923
+C3 Volatility,RlEst,F,2,0.3333,0.5287,0.1923
+C3 Volatility,RlEst,F,3,0.7333,0.5989,0.4231
+C3 Volatility,Fin,T,1,0.2667,0.5566,0.2222
+C3 Volatility,Fin,T,2,0.4000,0.5128,0.3333
+C3 Volatility,Fin,T,3,0.4667,0.5076,0.3889
+C3 Volatility,Fin,I,1,0.4667,0.5076,0.3889
+C3 Volatility,Fin,I,2,0.4667,0.5076,0.3889
+C3 Volatility,Fin,I,3,0.4667,0.5076,0.3889
+C3 Volatility,Fin,F,1,0.0667,0.7575,0.0556
+C3 Volatility,Fin,F,2,0.1333,0.6610,0.1111
+C3 Volatility,Fin,F,3,0.2667,0.5566,0.2222
+C3 Volatility,Other,T,1,0.5333,0.5128,0.4211
+C3 Volatility,Other,T,2,0.5333,0.5128,0.4211
+C3 Volatility,Other,T,3,0.7333,0.5989,0.5789
+C3 Volatility,Other,I,1,0.2000,0.5989,0.1579
+C3 Volatility,Other,I,2,0.3333,0.5287,0.2632
+C3 Volatility,Other,I,3,0.4000,0.5128,0.3158
+C3 Volatility,Other,F,1,0.0667,0.7575,0.0526
+C3 Volatility,Other,F,2,0.0667,0.7575,0.0526
+C3 Volatility,Other,F,3,0.1333,0.6610,0.1053
+C4 VaR (95%),Agric,T,1,0.1333,0.6610,0.0800
+C4 VaR (95%),Agric,T,2,0.2000,0.5989,0.1200
+C4 VaR (95%),Agric,T,3,0.6667,0.5566,0.4000
+C4 VaR (95%),Agric,I,1,0.1333,0.6610,0.0800
+C4 VaR (95%),Agric,I,2,0.2000,0.5989,0.1200
+C4 VaR (95%),Agric,I,3,0.4000,0.5128,0.2400
+C4 VaR (95%),Agric,F,1,0.2000,0.5989,0.1200
+C4 VaR (95%),Agric,F,2,0.4667,0.5076,0.2800
+C4 VaR (95%),Agric,F,3,0.6000,0.5287,0.3600
+C4 VaR (95%),Food,T,1,0.6000,0.5287,0.5000
+C4 VaR (95%),Food,T,2,0.7333,0.5989,0.6111
+C4 VaR (95%),Food,T,3,0.8000,0.6610,0.6667
+C4 VaR (95%),Food,I,1,0.1333,0.6610,0.1111
+C4 VaR (95%),Food,I,2,0.1333,0.6610,0.1111
+C4 VaR (95%),Food,I,3,0.2667,0.5566,0.2222
+C4 VaR (95%),Food,F,1,0.0667,0.7575,0.0556
+C4 VaR (95%),Food,F,2,0.1333,0.6610,0.1111
+C4 VaR (95%),Food,F,3,0.1333,0.6610,0.1111
+C4 VaR (95%),Soda,T,1,0.5333,0.5128,0.4211
+C4 VaR (95%),Soda,T,2,0.6000,0.5287,0.4737
+C4 VaR (95%),Soda,T,3,0.8000,0.6610,0.6316
+C4 VaR (95%),Soda,I,1,0.1333,0.6610,0.1053
+C4 VaR (95%),Soda,I,2,0.2000,0.5989,0.1579
+C4 VaR (95%),Soda,I,3,0.2667,0.5566,0.2105
+C4 VaR (95%),Soda,F,1,0.0667,0.7575,0.0526
+C4 VaR (95%),Soda,F,2,0.2000,0.5989,0.1579
+C4 VaR (95%),Soda,F,3,0.2000,0.5989,0.1579
+C4 VaR (95%),Beer,T,1,0.6667,0.5566,0.6250
+C4 VaR (95%),Beer,T,2,0.7333,0.5989,0.6875
+C4 VaR (95%),Beer,T,3,0.7333,0.5989,0.6875
+C4 VaR (95%),Beer,I,1,0.1333,0.6610,0.1250
+C4 VaR (95%),Beer,I,2,0.2000,0.5989,0.1875
+C4 VaR (95%),Beer,I,3,0.2000,0.5989,0.1875
+C4 VaR (95%),Beer,F,1,0.0667,0.7575,0.0625
+C4 VaR (95%),Beer,F,2,0.1333,0.6610,0.1250
+C4 VaR (95%),Beer,F,3,0.1333,0.6610,0.1250
+C4 VaR (95%),Smoke,T,1,0.2667,0.5566,0.2000
+C4 VaR (95%),Smoke,T,2,0.2667,0.5566,0.2000
+C4 VaR (95%),Smoke,T,3,0.3333,0.5287,0.2500
+C4 VaR (95%),Smoke,I,1,0.2667,0.5566,0.2000
+C4 VaR (95%),Smoke,I,2,0.3333,0.5287,0.2500
+C4 VaR (95%),Smoke,I,3,0.5333,0.5128,0.4000
+C4 VaR (95%),Smoke,F,1,0.1333,0.6610,0.1000
+C4 VaR (95%),Smoke,F,2,0.4000,0.5128,0.3000
+C4 VaR (95%),Smoke,F,3,0.4667,0.5076,0.3500
+C4 VaR (95%),Toys,T,1,0.1333,0.6610,0.1000
+C4 VaR (95%),Toys,T,2,0.1333,0.6610,0.1000
+C4 VaR (95%),Toys,T,3,0.2667,0.5566,0.2000
+C4 VaR (95%),Toys,I,1,0.2000,0.5989,0.1500
+C4 VaR (95%),Toys,I,2,0.2667,0.5566,0.2000
+C4 VaR (95%),Toys,I,3,0.4000,0.5128,0.3000
+C4 VaR (95%),Toys,F,1,0.3333,0.5287,0.2500
+C4 VaR (95%),Toys,F,2,0.6000,0.5287,0.4500
+C4 VaR (95%),Toys,F,3,0.6667,0.5566,0.5000
+C4 VaR (95%),Fun,T,1,0.1333,0.6610,0.1053
+C4 VaR (95%),Fun,T,2,0.1333,0.6610,0.1053
+C4 VaR (95%),Fun,T,3,0.2000,0.5989,0.1579
+C4 VaR (95%),Fun,I,1,0.2667,0.5566,0.2105
+C4 VaR (95%),Fun,I,2,0.3333,0.5287,0.2632
+C4 VaR (95%),Fun,I,3,0.4667,0.5076,0.3684
+C4 VaR (95%),Fun,F,1,0.4000,0.5128,0.3158
+C4 VaR (95%),Fun,F,2,0.4667,0.5076,0.3684
+C4 VaR (95%),Fun,F,3,0.6000,0.5287,0.4737
+C4 VaR (95%),Books,T,1,0.1333,0.6610,0.1000
+C4 VaR (95%),Books,T,2,0.2000,0.5989,0.1500
+C4 VaR (95%),Books,T,3,0.4000,0.5128,0.3000
+C4 VaR (95%),Books,I,1,0.4000,0.5128,0.3000
+C4 VaR (95%),Books,I,2,0.4000,0.5128,0.3000
+C4 VaR (95%),Books,I,3,0.5333,0.5128,0.4000
+C4 VaR (95%),Books,F,1,0.2000,0.5989,0.1500
+C4 VaR (95%),Books,F,2,0.3333,0.5287,0.2500
+C4 VaR (95%),Books,F,3,0.4000,0.5128,0.3000
+C4 VaR (95%),Hshld,T,1,0.5333,0.5128,0.4211
+C4 VaR (95%),Hshld,T,2,0.7333,0.5989,0.5789
+C4 VaR (95%),Hshld,T,3,0.8000,0.6610,0.6316
+C4 VaR (95%),Hshld,I,1,0.1333,0.6610,0.1053
+C4 VaR (95%),Hshld,I,2,0.1333,0.6610,0.1053
+C4 VaR (95%),Hshld,I,3,0.2667,0.5566,0.2105
+C4 VaR (95%),Hshld,F,1,0.0667,0.7575,0.0526
+C4 VaR (95%),Hshld,F,2,0.1333,0.6610,0.1053
+C4 VaR (95%),Hshld,F,3,0.2000,0.5989,0.1579
+C4 VaR (95%),Clths,T,1,0.2000,0.5989,0.1579
+C4 VaR (95%),Clths,T,2,0.2667,0.5566,0.2105
+C4 VaR (95%),Clths,T,3,0.4000,0.5128,0.3158
+C4 VaR (95%),Clths,I,1,0.4000,0.5128,0.3158
+C4 VaR (95%),Clths,I,2,0.4667,0.5076,0.3684
+C4 VaR (95%),Clths,I,3,0.5333,0.5128,0.4211
+C4 VaR (95%),Clths,F,1,0.2000,0.5989,0.1579
+C4 VaR (95%),Clths,F,2,0.2000,0.5989,0.1579
+C4 VaR (95%),Clths,F,3,0.3333,0.5287,0.2632
+C4 VaR (95%),Hlth,T,1,0.2000,0.5989,0.1429
+C4 VaR (95%),Hlth,T,2,0.5333,0.5128,0.3810
+C4 VaR (95%),Hlth,T,3,0.6000,0.5287,0.4286
+C4 VaR (95%),Hlth,I,1,0.3333,0.5287,0.2381
+C4 VaR (95%),Hlth,I,2,0.4000,0.5128,0.2857
+C4 VaR (95%),Hlth,I,3,0.6000,0.5287,0.4286
+C4 VaR (95%),Hlth,F,1,0.0667,0.7575,0.0476
+C4 VaR (95%),Hlth,F,2,0.0667,0.7575,0.0476
+C4 VaR (95%),Hlth,F,3,0.2000,0.5989,0.1429
+C4 VaR (95%),MedEq,T,1,0.3333,0.5287,0.2500
+C4 VaR (95%),MedEq,T,2,0.3333,0.5287,0.2500
+C4 VaR (95%),MedEq,T,3,0.6667,0.5566,0.5000
+C4 VaR (95%),MedEq,I,1,0.2000,0.5989,0.1500
+C4 VaR (95%),MedEq,I,2,0.4000,0.5128,0.3000
+C4 VaR (95%),MedEq,I,3,0.4000,0.5128,0.3000
+C4 VaR (95%),MedEq,F,1,0.1333,0.6610,0.1000
+C4 VaR (95%),MedEq,F,2,0.2667,0.5566,0.2000
+C4 VaR (95%),MedEq,F,3,0.2667,0.5566,0.2000
+C4 VaR (95%),Drugs,T,1,0.4000,0.5128,0.2400
+C4 VaR (95%),Drugs,T,2,0.5333,0.5128,0.3200
+C4 VaR (95%),Drugs,T,3,0.8000,0.6610,0.4800
+C4 VaR (95%),Drugs,I,1,0.1333,0.6610,0.0800
+C4 VaR (95%),Drugs,I,2,0.1333,0.6610,0.0800
+C4 VaR (95%),Drugs,I,3,0.5333,0.5128,0.3200
+C4 VaR (95%),Drugs,F,1,0.0667,0.7575,0.0400
+C4 VaR (95%),Drugs,F,2,0.0667,0.7575,0.0400
+C4 VaR (95%),Drugs,F,3,0.3333,0.5287,0.2000
+C4 VaR (95%),Chems,T,1,0.1333,0.6610,0.1000
+C4 VaR (95%),Chems,T,2,0.1333,0.6610,0.1000
+C4 VaR (95%),Chems,T,3,0.2000,0.5989,0.1500
+C4 VaR (95%),Chems,I,1,0.3333,0.5287,0.2500
+C4 VaR (95%),Chems,I,2,0.4667,0.5076,0.3500
+C4 VaR (95%),Chems,I,3,0.6667,0.5566,0.5000
+C4 VaR (95%),Chems,F,1,0.2000,0.5989,0.1500
+C4 VaR (95%),Chems,F,2,0.4000,0.5128,0.3000
+C4 VaR (95%),Chems,F,3,0.4667,0.5076,0.3500
+C4 VaR (95%),Rubbr,T,1,0.4000,0.5128,0.3529
+C4 VaR (95%),Rubbr,T,2,0.4667,0.5076,0.4118
+C4 VaR (95%),Rubbr,T,3,0.5333,0.5128,0.4706
+C4 VaR (95%),Rubbr,I,1,0.4000,0.5128,0.3529
+C4 VaR (95%),Rubbr,I,2,0.4000,0.5128,0.3529
+C4 VaR (95%),Rubbr,I,3,0.4667,0.5076,0.4118
+C4 VaR (95%),Rubbr,F,1,0.0667,0.7575,0.0588
+C4 VaR (95%),Rubbr,F,2,0.1333,0.6610,0.1176
+C4 VaR (95%),Rubbr,F,3,0.1333,0.6610,0.1176
+C4 VaR (95%),Txtls,T,1,0.0667,0.7575,0.0556
+C4 VaR (95%),Txtls,T,2,0.1333,0.6610,0.1111
+C4 VaR (95%),Txtls,T,3,0.2667,0.5566,0.2222
+C4 VaR (95%),Txtls,I,1,0.2000,0.5989,0.1667
+C4 VaR (95%),Txtls,I,2,0.2000,0.5989,0.1667
+C4 VaR (95%),Txtls,I,3,0.2000,0.5989,0.1667
+C4 VaR (95%),Txtls,F,1,0.5333,0.5128,0.4444
+C4 VaR (95%),Txtls,F,2,0.6667,0.5566,0.5556
+C4 VaR (95%),Txtls,F,3,0.7333,0.5989,0.6111
+C4 VaR (95%),BldMt,T,1,0.2000,0.5989,0.1579
+C4 VaR (95%),BldMt,T,2,0.2667,0.5566,0.2105
+C4 VaR (95%),BldMt,T,3,0.4000,0.5128,0.3158
+C4 VaR (95%),BldMt,I,1,0.4000,0.5128,0.3158
+C4 VaR (95%),BldMt,I,2,0.4000,0.5128,0.3158
+C4 VaR (95%),BldMt,I,3,0.4667,0.5076,0.3684
+C4 VaR (95%),BldMt,F,1,0.2000,0.5989,0.1579
+C4 VaR (95%),BldMt,F,2,0.2667,0.5566,0.2105
+C4 VaR (95%),BldMt,F,3,0.4000,0.5128,0.3158
+C4 VaR (95%),Cnstr,T,1,0.1333,0.6610,0.1000
+C4 VaR (95%),Cnstr,T,2,0.2000,0.5989,0.1500
+C4 VaR (95%),Cnstr,T,3,0.3333,0.5287,0.2500
+C4 VaR (95%),Cnstr,I,1,0.2667,0.5566,0.2000
+C4 VaR (95%),Cnstr,I,2,0.2667,0.5566,0.2000
+C4 VaR (95%),Cnstr,I,3,0.4000,0.5128,0.3000
+C4 VaR (95%),Cnstr,F,1,0.2667,0.5566,0.2000
+C4 VaR (95%),Cnstr,F,2,0.5333,0.5128,0.4000
+C4 VaR (95%),Cnstr,F,3,0.6000,0.5287,0.4500
+C4 VaR (95%),Steel,T,1,0.0667,0.7575,0.0588
+C4 VaR (95%),Steel,T,2,0.0667,0.7575,0.0588
+C4 VaR (95%),Steel,T,3,0.0667,0.7575,0.0588
+C4 VaR (95%),Steel,I,1,0.1333,0.6610,0.1176
+C4 VaR (95%),Steel,I,2,0.2000,0.5989,0.1765
+C4 VaR (95%),Steel,I,3,0.2667,0.5566,0.2353
+C4 VaR (95%),Steel,F,1,0.6667,0.5566,0.5882
+C4 VaR (95%),Steel,F,2,0.7333,0.5989,0.6471
+C4 VaR (95%),Steel,F,3,0.8000,0.6610,0.7059
+C4 VaR (95%),FabPr,T,1,0.0667,0.7575,0.0500
+C4 VaR (95%),FabPr,T,2,0.0667,0.7575,0.0500
+C4 VaR (95%),FabPr,T,3,0.2000,0.5989,0.1500
+C4 VaR (95%),FabPr,I,1,0.1333,0.6610,0.1000
+C4 VaR (95%),FabPr,I,2,0.2000,0.5989,0.1500
+C4 VaR (95%),FabPr,I,3,0.3333,0.5287,0.2500
+C4 VaR (95%),FabPr,F,1,0.4667,0.5076,0.3500
+C4 VaR (95%),FabPr,F,2,0.7333,0.5989,0.5500
+C4 VaR (95%),FabPr,F,3,0.8000,0.6610,0.6000
+C4 VaR (95%),Mach,T,1,0.0667,0.7575,0.0500
+C4 VaR (95%),Mach,T,2,0.1333,0.6610,0.1000
+C4 VaR (95%),Mach,T,3,0.2667,0.5566,0.2000
+C4 VaR (95%),Mach,I,1,0.3333,0.5287,0.2500
+C4 VaR (95%),Mach,I,2,0.5333,0.5128,0.4000
+C4 VaR (95%),Mach,I,3,0.5333,0.5128,0.4000
+C4 VaR (95%),Mach,F,1,0.2000,0.5989,0.1500
+C4 VaR (95%),Mach,F,2,0.4000,0.5128,0.3000
+C4 VaR (95%),Mach,F,3,0.5333,0.5128,0.4000
+C4 VaR (95%),ElcEq,T,1,0.2000,0.5989,0.1579
+C4 VaR (95%),ElcEq,T,2,0.2000,0.5989,0.1579
+C4 VaR (95%),ElcEq,T,3,0.3333,0.5287,0.2632
+C4 VaR (95%),ElcEq,I,1,0.3333,0.5287,0.2632
+C4 VaR (95%),ElcEq,I,2,0.4667,0.5076,0.3684
+C4 VaR (95%),ElcEq,I,3,0.4667,0.5076,0.3684
+C4 VaR (95%),ElcEq,F,1,0.2000,0.5989,0.1579
+C4 VaR (95%),ElcEq,F,2,0.3333,0.5287,0.2632
+C4 VaR (95%),ElcEq,F,3,0.4667,0.5076,0.3684
+C4 VaR (95%),Autos,T,1,0.1333,0.6610,0.1176
+C4 VaR (95%),Autos,T,2,0.1333,0.6610,0.1176
+C4 VaR (95%),Autos,T,3,0.1333,0.6610,0.1176
+C4 VaR (95%),Autos,I,1,0.2000,0.5989,0.1765
+C4 VaR (95%),Autos,I,2,0.2667,0.5566,0.2353
+C4 VaR (95%),Autos,I,3,0.3333,0.5287,0.2941
+C4 VaR (95%),Autos,F,1,0.5333,0.5128,0.4706
+C4 VaR (95%),Autos,F,2,0.6000,0.5287,0.5294
+C4 VaR (95%),Autos,F,3,0.6667,0.5566,0.5882
+C4 VaR (95%),Aero,T,1,0.0667,0.7575,0.0500
+C4 VaR (95%),Aero,T,2,0.1333,0.6610,0.1000
+C4 VaR (95%),Aero,T,3,0.2000,0.5989,0.1500
+C4 VaR (95%),Aero,I,1,0.2667,0.5566,0.2000
+C4 VaR (95%),Aero,I,2,0.3333,0.5287,0.2500
+C4 VaR (95%),Aero,I,3,0.4667,0.5076,0.3500
+C4 VaR (95%),Aero,F,1,0.4000,0.5128,0.3000
+C4 VaR (95%),Aero,F,2,0.4667,0.5076,0.3500
+C4 VaR (95%),Aero,F,3,0.6667,0.5566,0.5000
+C4 VaR (95%),Ships,T,1,0.1333,0.6610,0.0909
+C4 VaR (95%),Ships,T,2,0.1333,0.6610,0.0909
+C4 VaR (95%),Ships,T,3,0.2000,0.5989,0.1364
+C4 VaR (95%),Ships,I,1,0.1333,0.6610,0.0909
+C4 VaR (95%),Ships,I,2,0.2667,0.5566,0.1818
+C4 VaR (95%),Ships,I,3,0.5333,0.5128,0.3636
+C4 VaR (95%),Ships,F,1,0.2667,0.5566,0.1818
+C4 VaR (95%),Ships,F,2,0.6000,0.5287,0.4091
+C4 VaR (95%),Ships,F,3,0.7333,0.5989,0.5000
+C4 VaR (95%),Guns,T,1,0.2000,0.5989,0.1579
+C4 VaR (95%),Guns,T,2,0.2667,0.5566,0.2105
+C4 VaR (95%),Guns,T,3,0.4667,0.5076,0.3684
+C4 VaR (95%),Guns,I,1,0.3333,0.5287,0.2632
+C4 VaR (95%),Guns,I,2,0.4000,0.5128,0.3158
+C4 VaR (95%),Guns,I,3,0.4667,0.5076,0.3684
+C4 VaR (95%),Guns,F,1,0.2000,0.5989,0.1579
+C4 VaR (95%),Guns,F,2,0.3333,0.5287,0.2632
+C4 VaR (95%),Guns,F,3,0.3333,0.5287,0.2632
+C4 VaR (95%),Gold,T,1,0.2000,0.5989,0.1667
+C4 VaR (95%),Gold,T,2,0.2000,0.5989,0.1667
+C4 VaR (95%),Gold,T,3,0.2667,0.5566,0.2222
+C4 VaR (95%),Gold,I,1,0.2000,0.5989,0.1667
+C4 VaR (95%),Gold,I,2,0.2667,0.5566,0.2222
+C4 VaR (95%),Gold,I,3,0.3333,0.5287,0.2778
+C4 VaR (95%),Gold,F,1,0.4000,0.5128,0.3333
+C4 VaR (95%),Gold,F,2,0.5333,0.5128,0.4444
+C4 VaR (95%),Gold,F,3,0.6000,0.5287,0.5000
+C4 VaR (95%),Mines,T,1,0.0667,0.7575,0.0526
+C4 VaR (95%),Mines,T,2,0.1333,0.6610,0.1053
+C4 VaR (95%),Mines,T,3,0.2000,0.5989,0.1579
+C4 VaR (95%),Mines,I,1,0.2000,0.5989,0.1579
+C4 VaR (95%),Mines,I,2,0.2667,0.5566,0.2105
+C4 VaR (95%),Mines,I,3,0.3333,0.5287,0.2632
+C4 VaR (95%),Mines,F,1,0.5333,0.5128,0.4211
+C4 VaR (95%),Mines,F,2,0.5333,0.5128,0.4211
+C4 VaR (95%),Mines,F,3,0.7333,0.5989,0.5789
+C4 VaR (95%),Coal,T,1,0.0667,0.7575,0.0588
+C4 VaR (95%),Coal,T,2,0.0667,0.7575,0.0588
+C4 VaR (95%),Coal,T,3,0.0667,0.7575,0.0588
+C4 VaR (95%),Coal,I,1,0.0667,0.7575,0.0588
+C4 VaR (95%),Coal,I,2,0.0667,0.7575,0.0588
+C4 VaR (95%),Coal,I,3,0.2000,0.5989,0.1765
+C4 VaR (95%),Coal,F,1,0.7333,0.5989,0.6471
+C4 VaR (95%),Coal,F,2,0.8667,0.7575,0.7647
+C4 VaR (95%),Coal,F,3,0.8667,0.7575,0.7647
+C4 VaR (95%),Oil,T,1,0.0667,0.7575,0.0500
+C4 VaR (95%),Oil,T,2,0.1333,0.6610,0.1000
+C4 VaR (95%),Oil,T,3,0.2000,0.5989,0.1500
+C4 VaR (95%),Oil,I,1,0.0667,0.7575,0.0500
+C4 VaR (95%),Oil,I,2,0.2667,0.5566,0.2000
+C4 VaR (95%),Oil,I,3,0.2667,0.5566,0.2000
+C4 VaR (95%),Oil,F,1,0.5333,0.5128,0.4000
+C4 VaR (95%),Oil,F,2,0.6000,0.5287,0.4500
+C4 VaR (95%),Oil,F,3,0.8667,0.7575,0.6500
+C4 VaR (95%),Util,T,1,0.4667,0.5076,0.3889
+C4 VaR (95%),Util,T,2,0.6000,0.5287,0.5000
+C4 VaR (95%),Util,T,3,0.6667,0.5566,0.5556
+C4 VaR (95%),Util,I,1,0.2667,0.5566,0.2222
+C4 VaR (95%),Util,I,2,0.3333,0.5287,0.2778
+C4 VaR (95%),Util,I,3,0.4000,0.5128,0.3333
+C4 VaR (95%),Util,F,1,0.0667,0.7575,0.0556
+C4 VaR (95%),Util,F,2,0.0667,0.7575,0.0556
+C4 VaR (95%),Util,F,3,0.1333,0.6610,0.1111
+C4 VaR (95%),Telcm,T,1,0.6667,0.5566,0.5882
+C4 VaR (95%),Telcm,T,2,0.8000,0.6610,0.7059
+C4 VaR (95%),Telcm,T,3,0.8000,0.6610,0.7059
+C4 VaR (95%),Telcm,I,1,0.1333,0.6610,0.1176
+C4 VaR (95%),Telcm,I,2,0.1333,0.6610,0.1176
+C4 VaR (95%),Telcm,I,3,0.2000,0.5989,0.1765
+C4 VaR (95%),Telcm,F,1,0.0667,0.7575,0.0588
+C4 VaR (95%),Telcm,F,2,0.0667,0.7575,0.0588
+C4 VaR (95%),Telcm,F,3,0.1333,0.6610,0.1176
+C4 VaR (95%),PerSv,T,1,0.2667,0.5566,0.1905
+C4 VaR (95%),PerSv,T,2,0.4000,0.5128,0.2857
+C4 VaR (95%),PerSv,T,3,0.5333,0.5128,0.3810
+C4 VaR (95%),PerSv,I,1,0.3333,0.5287,0.2381
+C4 VaR (95%),PerSv,I,2,0.4000,0.5128,0.2857
+C4 VaR (95%),PerSv,I,3,0.4667,0.5076,0.3333
+C4 VaR (95%),PerSv,F,1,0.0667,0.7575,0.0476
+C4 VaR (95%),PerSv,F,2,0.1333,0.6610,0.0952
+C4 VaR (95%),PerSv,F,3,0.4000,0.5128,0.2857
+C4 VaR (95%),BusSv,T,1,0.2667,0.5566,0.2000
+C4 VaR (95%),BusSv,T,2,0.3333,0.5287,0.2500
+C4 VaR (95%),BusSv,T,3,0.4667,0.5076,0.3500
+C4 VaR (95%),BusSv,I,1,0.4000,0.5128,0.3000
+C4 VaR (95%),BusSv,I,2,0.4667,0.5076,0.3500
+C4 VaR (95%),BusSv,I,3,0.5333,0.5128,0.4000
+C4 VaR (95%),BusSv,F,1,0.0667,0.7575,0.0500
+C4 VaR (95%),BusSv,F,2,0.1333,0.6610,0.1000
+C4 VaR (95%),BusSv,F,3,0.3333,0.5287,0.2500
+C4 VaR (95%),Hardw,T,1,0.2000,0.5989,0.1579
+C4 VaR (95%),Hardw,T,2,0.3333,0.5287,0.2632
+C4 VaR (95%),Hardw,T,3,0.3333,0.5287,0.2632
+C4 VaR (95%),Hardw,I,1,0.2000,0.5989,0.1579
+C4 VaR (95%),Hardw,I,2,0.2667,0.5566,0.2105
+C4 VaR (95%),Hardw,I,3,0.4000,0.5128,0.3158
+C4 VaR (95%),Hardw,F,1,0.2667,0.5566,0.2105
+C4 VaR (95%),Hardw,F,2,0.4667,0.5076,0.3684
+C4 VaR (95%),Hardw,F,3,0.5333,0.5128,0.4211
+C4 VaR (95%),Softw,T,1,0.2667,0.5566,0.2000
+C4 VaR (95%),Softw,T,2,0.3333,0.5287,0.2500
+C4 VaR (95%),Softw,T,3,0.3333,0.5287,0.2500
+C4 VaR (95%),Softw,I,1,0.0667,0.7575,0.0500
+C4 VaR (95%),Softw,I,2,0.3333,0.5287,0.2500
+C4 VaR (95%),Softw,I,3,0.3333,0.5287,0.2500
+C4 VaR (95%),Softw,F,1,0.3333,0.5287,0.2500
+C4 VaR (95%),Softw,F,2,0.3333,0.5287,0.2500
+C4 VaR (95%),Softw,F,3,0.6667,0.5566,0.5000
+C4 VaR (95%),Chips,T,1,0.2000,0.5989,0.1579
+C4 VaR (95%),Chips,T,2,0.2667,0.5566,0.2105
+C4 VaR (95%),Chips,T,3,0.3333,0.5287,0.2632
+C4 VaR (95%),Chips,I,1,0.2000,0.5989,0.1579
+C4 VaR (95%),Chips,I,2,0.2000,0.5989,0.1579
+C4 VaR (95%),Chips,I,3,0.3333,0.5287,0.2632
+C4 VaR (95%),Chips,F,1,0.4000,0.5128,0.3158
+C4 VaR (95%),Chips,F,2,0.4667,0.5076,0.3684
+C4 VaR (95%),Chips,F,3,0.6000,0.5287,0.4737
+C4 VaR (95%),LabEq,T,1,0.3333,0.5287,0.2778
+C4 VaR (95%),LabEq,T,2,0.3333,0.5287,0.2778
+C4 VaR (95%),LabEq,T,3,0.4667,0.5076,0.3889
+C4 VaR (95%),LabEq,I,1,0.4000,0.5128,0.3333
+C4 VaR (95%),LabEq,I,2,0.4000,0.5128,0.3333
+C4 VaR (95%),LabEq,I,3,0.4667,0.5076,0.3889
+C4 VaR (95%),LabEq,F,1,0.1333,0.6610,0.1111
+C4 VaR (95%),LabEq,F,2,0.2000,0.5989,0.1667
+C4 VaR (95%),LabEq,F,3,0.2667,0.5566,0.2222
+C4 VaR (95%),Paper,T,1,0.2000,0.5989,0.1304
+C4 VaR (95%),Paper,T,2,0.3333,0.5287,0.2174
+C4 VaR (95%),Paper,T,3,0.5333,0.5128,0.3478
+C4 VaR (95%),Paper,I,1,0.2667,0.5566,0.1739
+C4 VaR (95%),Paper,I,2,0.2667,0.5566,0.1739
+C4 VaR (95%),Paper,I,3,0.6000,0.5287,0.3913
+C4 VaR (95%),Paper,F,1,0.2000,0.5989,0.1304
+C4 VaR (95%),Paper,F,2,0.2000,0.5989,0.1304
+C4 VaR (95%),Paper,F,3,0.4000,0.5128,0.2609
+C4 VaR (95%),Boxes,T,1,0.2667,0.5566,0.1905
+C4 VaR (95%),Boxes,T,2,0.3333,0.5287,0.2381
+C4 VaR (95%),Boxes,T,3,0.4000,0.5128,0.2857
+C4 VaR (95%),Boxes,I,1,0.2667,0.5566,0.1905
+C4 VaR (95%),Boxes,I,2,0.5333,0.5128,0.3810
+C4 VaR (95%),Boxes,I,3,0.5333,0.5128,0.3810
+C4 VaR (95%),Boxes,F,1,0.0667,0.7575,0.0476
+C4 VaR (95%),Boxes,F,2,0.1333,0.6610,0.0952
+C4 VaR (95%),Boxes,F,3,0.4667,0.5076,0.3333
+C4 VaR (95%),Trans,T,1,0.2000,0.5989,0.1500
+C4 VaR (95%),Trans,T,2,0.3333,0.5287,0.2500
+C4 VaR (95%),Trans,T,3,0.4667,0.5076,0.3500
+C4 VaR (95%),Trans,I,1,0.4000,0.5128,0.3000
+C4 VaR (95%),Trans,I,2,0.4667,0.5076,0.3500
+C4 VaR (95%),Trans,I,3,0.5333,0.5128,0.4000
+C4 VaR (95%),Trans,F,1,0.1333,0.6610,0.1000
+C4 VaR (95%),Trans,F,2,0.1333,0.6610,0.1000
+C4 VaR (95%),Trans,F,3,0.3333,0.5287,0.2500
+C4 VaR (95%),Whlsl,T,1,0.3333,0.5287,0.2632
+C4 VaR (95%),Whlsl,T,2,0.5333,0.5128,0.4211
+C4 VaR (95%),Whlsl,T,3,0.6000,0.5287,0.4737
+C4 VaR (95%),Whlsl,I,1,0.3333,0.5287,0.2632
+C4 VaR (95%),Whlsl,I,2,0.3333,0.5287,0.2632
+C4 VaR (95%),Whlsl,I,3,0.5333,0.5128,0.4211
+C4 VaR (95%),Whlsl,F,1,0.0667,0.7575,0.0526
+C4 VaR (95%),Whlsl,F,2,0.1333,0.6610,0.1053
+C4 VaR (95%),Whlsl,F,3,0.1333,0.6610,0.1053
+C4 VaR (95%),Rtail,T,1,0.4000,0.5128,0.3333
+C4 VaR (95%),Rtail,T,2,0.4667,0.5076,0.3889
+C4 VaR (95%),Rtail,T,3,0.6000,0.5287,0.5000
+C4 VaR (95%),Rtail,I,1,0.3333,0.5287,0.2778
+C4 VaR (95%),Rtail,I,2,0.4000,0.5128,0.3333
+C4 VaR (95%),Rtail,I,3,0.4667,0.5076,0.3889
+C4 VaR (95%),Rtail,F,1,0.0667,0.7575,0.0556
+C4 VaR (95%),Rtail,F,2,0.1333,0.6610,0.1111
+C4 VaR (95%),Rtail,F,3,0.1333,0.6610,0.1111
+C4 VaR (95%),Meals,T,1,0.6667,0.5566,0.5556
+C4 VaR (95%),Meals,T,2,0.7333,0.5989,0.6111
+C4 VaR (95%),Meals,T,3,0.8000,0.6610,0.6667
+C4 VaR (95%),Meals,I,1,0.1333,0.6610,0.1111
+C4 VaR (95%),Meals,I,2,0.1333,0.6610,0.1111
+C4 VaR (95%),Meals,I,3,0.2667,0.5566,0.2222
+C4 VaR (95%),Meals,F,1,0.0667,0.7575,0.0556
+C4 VaR (95%),Meals,F,2,0.0667,0.7575,0.0556
+C4 VaR (95%),Meals,F,3,0.1333,0.6610,0.1111
+C4 VaR (95%),Banks,T,1,0.0667,0.7575,0.0476
+C4 VaR (95%),Banks,T,2,0.4667,0.5076,0.3333
+C4 VaR (95%),Banks,T,3,0.4667,0.5076,0.3333
+C4 VaR (95%),Banks,I,1,0.3333,0.5287,0.2381
+C4 VaR (95%),Banks,I,2,0.3333,0.5287,0.2381
+C4 VaR (95%),Banks,I,3,0.5333,0.5128,0.3810
+C4 VaR (95%),Banks,F,1,0.2000,0.5989,0.1429
+C4 VaR (95%),Banks,F,2,0.2000,0.5989,0.1429
+C4 VaR (95%),Banks,F,3,0.4000,0.5128,0.2857
+C4 VaR (95%),Insur,T,1,0.2667,0.5566,0.2000
+C4 VaR (95%),Insur,T,2,0.5333,0.5128,0.4000
+C4 VaR (95%),Insur,T,3,0.6000,0.5287,0.4500
+C4 VaR (95%),Insur,I,1,0.2667,0.5566,0.2000
+C4 VaR (95%),Insur,I,2,0.3333,0.5287,0.2500
+C4 VaR (95%),Insur,I,3,0.6000,0.5287,0.4500
+C4 VaR (95%),Insur,F,1,0.1333,0.6610,0.1000
+C4 VaR (95%),Insur,F,2,0.1333,0.6610,0.1000
+C4 VaR (95%),Insur,F,3,0.1333,0.6610,0.1000
+C4 VaR (95%),RlEst,T,1,0.1333,0.6610,0.1176
+C4 VaR (95%),RlEst,T,2,0.2667,0.5566,0.2353
+C4 VaR (95%),RlEst,T,3,0.2667,0.5566,0.2353
+C4 VaR (95%),RlEst,I,1,0.4667,0.5076,0.4118
+C4 VaR (95%),RlEst,I,2,0.4667,0.5076,0.4118
+C4 VaR (95%),RlEst,I,3,0.4667,0.5076,0.4118
+C4 VaR (95%),RlEst,F,1,0.2667,0.5566,0.2353
+C4 VaR (95%),RlEst,F,2,0.2667,0.5566,0.2353
+C4 VaR (95%),RlEst,F,3,0.4000,0.5128,0.3529
+C4 VaR (95%),Fin,T,1,0.2667,0.5566,0.2500
+C4 VaR (95%),Fin,T,2,0.3333,0.5287,0.3125
+C4 VaR (95%),Fin,T,3,0.3333,0.5287,0.3125
+C4 VaR (95%),Fin,I,1,0.4667,0.5076,0.4375
+C4 VaR (95%),Fin,I,2,0.4667,0.5076,0.4375
+C4 VaR (95%),Fin,I,3,0.4667,0.5076,0.4375
+C4 VaR (95%),Fin,F,1,0.2000,0.5989,0.1875
+C4 VaR (95%),Fin,F,2,0.2000,0.5989,0.1875
+C4 VaR (95%),Fin,F,3,0.2667,0.5566,0.2500
+C4 VaR (95%),Other,T,1,0.4000,0.5128,0.3158
+C4 VaR (95%),Other,T,2,0.6667,0.5566,0.5263
+C4 VaR (95%),Other,T,3,0.6667,0.5566,0.5263
+C4 VaR (95%),Other,I,1,0.1333,0.6610,0.1053
+C4 VaR (95%),Other,I,2,0.2667,0.5566,0.2105
+C4 VaR (95%),Other,I,3,0.3333,0.5287,0.2632
+C4 VaR (95%),Other,F,1,0.0667,0.7575,0.0526
+C4 VaR (95%),Other,F,2,0.2000,0.5989,0.1579
+C4 VaR (95%),Other,F,3,0.2667,0.5566,0.2105
+C5 Max. drawdown,Agric,T,1,0.1333,0.6610,0.1000
+C5 Max. drawdown,Agric,T,2,0.2000,0.5989,0.1500
+C5 Max. drawdown,Agric,T,3,0.4667,0.5076,0.3500
+C5 Max. drawdown,Agric,I,1,0.2000,0.5989,0.1500
+C5 Max. drawdown,Agric,I,2,0.2667,0.5566,0.2000
+C5 Max. drawdown,Agric,I,3,0.3333,0.5287,0.2500
+C5 Max. drawdown,Agric,F,1,0.3333,0.5287,0.2500
+C5 Max. drawdown,Agric,F,2,0.5333,0.5128,0.4000
+C5 Max. drawdown,Agric,F,3,0.5333,0.5128,0.4000
+C5 Max. drawdown,Food,T,1,0.4667,0.5076,0.3684
+C5 Max. drawdown,Food,T,2,0.5333,0.5128,0.4211
+C5 Max. drawdown,Food,T,3,0.7333,0.5989,0.5789
+C5 Max. drawdown,Food,I,1,0.2000,0.5989,0.1579
+C5 Max. drawdown,Food,I,2,0.2667,0.5566,0.2105
+C5 Max. drawdown,Food,I,3,0.2667,0.5566,0.2105
+C5 Max. drawdown,Food,F,1,0.0667,0.7575,0.0526
+C5 Max. drawdown,Food,F,2,0.2000,0.5989,0.1579
+C5 Max. drawdown,Food,F,3,0.2667,0.5566,0.2105
+C5 Max. drawdown,Soda,T,1,0.5333,0.5128,0.4211
+C5 Max. drawdown,Soda,T,2,0.6000,0.5287,0.4737
+C5 Max. drawdown,Soda,T,3,0.6667,0.5566,0.5263
+C5 Max. drawdown,Soda,I,1,0.1333,0.6610,0.1053
+C5 Max. drawdown,Soda,I,2,0.2000,0.5989,0.1579
+C5 Max. drawdown,Soda,I,3,0.3333,0.5287,0.2632
+C5 Max. drawdown,Soda,F,1,0.1333,0.6610,0.1053
+C5 Max. drawdown,Soda,F,2,0.1333,0.6610,0.1053
+C5 Max. drawdown,Soda,F,3,0.2667,0.5566,0.2105
+C5 Max. drawdown,Beer,T,1,0.5333,0.5128,0.4211
+C5 Max. drawdown,Beer,T,2,0.6000,0.5287,0.4737
+C5 Max. drawdown,Beer,T,3,0.7333,0.5989,0.5789
+C5 Max. drawdown,Beer,I,1,0.1333,0.6610,0.1053
+C5 Max. drawdown,Beer,I,2,0.2000,0.5989,0.1579
+C5 Max. drawdown,Beer,I,3,0.2667,0.5566,0.2105
+C5 Max. drawdown,Beer,F,1,0.0667,0.7575,0.0526
+C5 Max. drawdown,Beer,F,2,0.2000,0.5989,0.1579
+C5 Max. drawdown,Beer,F,3,0.2667,0.5566,0.2105
+C5 Max. drawdown,Smoke,T,1,0.2667,0.5566,0.2353
+C5 Max. drawdown,Smoke,T,2,0.2667,0.5566,0.2353
+C5 Max. drawdown,Smoke,T,3,0.3333,0.5287,0.2941
+C5 Max. drawdown,Smoke,I,1,0.2667,0.5566,0.2353
+C5 Max. drawdown,Smoke,I,2,0.3333,0.5287,0.2941
+C5 Max. drawdown,Smoke,I,3,0.3333,0.5287,0.2941
+C5 Max. drawdown,Smoke,F,1,0.3333,0.5287,0.2941
+C5 Max. drawdown,Smoke,F,2,0.4000,0.5128,0.3529
+C5 Max. drawdown,Smoke,F,3,0.4667,0.5076,0.4118
+C5 Max. drawdown,Toys,T,1,0.1333,0.6610,0.1111
+C5 Max. drawdown,Toys,T,2,0.2000,0.5989,0.1667
+C5 Max. drawdown,Toys,T,3,0.3333,0.5287,0.2778
+C5 Max. drawdown,Toys,I,1,0.2000,0.5989,0.1667
+C5 Max. drawdown,Toys,I,2,0.2667,0.5566,0.2222
+C5 Max. drawdown,Toys,I,3,0.3333,0.5287,0.2778
+C5 Max. drawdown,Toys,F,1,0.4667,0.5076,0.3889
+C5 Max. drawdown,Toys,F,2,0.5333,0.5128,0.4444
+C5 Max. drawdown,Toys,F,3,0.5333,0.5128,0.4444
+C5 Max. drawdown,Fun,T,1,0.0667,0.7575,0.0476
+C5 Max. drawdown,Fun,T,2,0.2000,0.5989,0.1429
+C5 Max. drawdown,Fun,T,3,0.4000,0.5128,0.2857
+C5 Max. drawdown,Fun,I,1,0.2667,0.5566,0.1905
+C5 Max. drawdown,Fun,I,2,0.3333,0.5287,0.2381
+C5 Max. drawdown,Fun,I,3,0.4667,0.5076,0.3333
+C5 Max. drawdown,Fun,F,1,0.2667,0.5566,0.1905
+C5 Max. drawdown,Fun,F,2,0.4667,0.5076,0.3333
+C5 Max. drawdown,Fun,F,3,0.5333,0.5128,0.3810
+C5 Max. drawdown,Books,T,1,0.2667,0.5566,0.2222
+C5 Max. drawdown,Books,T,2,0.3333,0.5287,0.2778
+C5 Max. drawdown,Books,T,3,0.4667,0.5076,0.3889
+C5 Max. drawdown,Books,I,1,0.1333,0.6610,0.1111
+C5 Max. drawdown,Books,I,2,0.2667,0.5566,0.2222
+C5 Max. drawdown,Books,I,3,0.3333,0.5287,0.2778
+C5 Max. drawdown,Books,F,1,0.4000,0.5128,0.3333
+C5 Max. drawdown,Books,F,2,0.4000,0.5128,0.3333
+C5 Max. drawdown,Books,F,3,0.4000,0.5128,0.3333
+C5 Max. drawdown,Hshld,T,1,0.6000,0.5287,0.4286
+C5 Max. drawdown,Hshld,T,2,0.6667,0.5566,0.4762
+C5 Max. drawdown,Hshld,T,3,0.8667,0.7575,0.6190
+C5 Max. drawdown,Hshld,I,1,0.0667,0.7575,0.0476
+C5 Max. drawdown,Hshld,I,2,0.1333,0.6610,0.0952
+C5 Max. drawdown,Hshld,I,3,0.3333,0.5287,0.2381
+C5 Max. drawdown,Hshld,F,1,0.0667,0.7575,0.0476
+C5 Max. drawdown,Hshld,F,2,0.0667,0.7575,0.0476
+C5 Max. drawdown,Hshld,F,3,0.2000,0.5989,0.1429
+C5 Max. drawdown,Clths,T,1,0.2667,0.5566,0.1905
+C5 Max. drawdown,Clths,T,2,0.4000,0.5128,0.2857
+C5 Max. drawdown,Clths,T,3,0.4667,0.5076,0.3333
+C5 Max. drawdown,Clths,I,1,0.2667,0.5566,0.1905
+C5 Max. drawdown,Clths,I,2,0.4000,0.5128,0.2857
+C5 Max. drawdown,Clths,I,3,0.6000,0.5287,0.4286
+C5 Max. drawdown,Clths,F,1,0.1333,0.6610,0.0952
+C5 Max. drawdown,Clths,F,2,0.1333,0.6610,0.0952
+C5 Max. drawdown,Clths,F,3,0.3333,0.5287,0.2381
+C5 Max. drawdown,Hlth,T,1,0.4000,0.5128,0.3000
+C5 Max. drawdown,Hlth,T,2,0.4667,0.5076,0.3500
+C5 Max. drawdown,Hlth,T,3,0.6000,0.5287,0.4500
+C5 Max. drawdown,Hlth,I,1,0.2667,0.5566,0.2000
+C5 Max. drawdown,Hlth,I,2,0.3333,0.5287,0.2500
+C5 Max. drawdown,Hlth,I,3,0.4667,0.5076,0.3500
+C5 Max. drawdown,Hlth,F,1,0.0667,0.7575,0.0500
+C5 Max. drawdown,Hlth,F,2,0.1333,0.6610,0.1000
+C5 Max. drawdown,Hlth,F,3,0.2667,0.5566,0.2000
+C5 Max. drawdown,MedEq,T,1,0.4000,0.5128,0.3529
+C5 Max. drawdown,MedEq,T,2,0.4667,0.5076,0.4118
+C5 Max. drawdown,MedEq,T,3,0.4667,0.5076,0.4118
+C5 Max. drawdown,MedEq,I,1,0.3333,0.5287,0.2941
+C5 Max. drawdown,MedEq,I,2,0.4000,0.5128,0.3529
+C5 Max. drawdown,MedEq,I,3,0.4667,0.5076,0.4118
+C5 Max. drawdown,MedEq,F,1,0.0667,0.7575,0.0588
+C5 Max. drawdown,MedEq,F,2,0.2000,0.5989,0.1765
+C5 Max. drawdown,MedEq,F,3,0.2000,0.5989,0.1765
+C5 Max. drawdown,Drugs,T,1,0.3333,0.5287,0.2632
+C5 Max. drawdown,Drugs,T,2,0.5333,0.5128,0.4211
+C5 Max. drawdown,Drugs,T,3,0.6000,0.5287,0.4737
+C5 Max. drawdown,Drugs,I,1,0.3333,0.5287,0.2632
+C5 Max. drawdown,Drugs,I,2,0.3333,0.5287,0.2632
+C5 Max. drawdown,Drugs,I,3,0.4000,0.5128,0.3158
+C5 Max. drawdown,Drugs,F,1,0.0667,0.7575,0.0526
+C5 Max. drawdown,Drugs,F,2,0.1333,0.6610,0.1053
+C5 Max. drawdown,Drugs,F,3,0.2667,0.5566,0.2105
+C5 Max. drawdown,Chems,T,1,0.0667,0.7575,0.0556
+C5 Max. drawdown,Chems,T,2,0.1333,0.6610,0.1111
+C5 Max. drawdown,Chems,T,3,0.2667,0.5566,0.2222
+C5 Max. drawdown,Chems,I,1,0.4667,0.5076,0.3889
+C5 Max. drawdown,Chems,I,2,0.6000,0.5287,0.5000
+C5 Max. drawdown,Chems,I,3,0.6667,0.5566,0.5556
+C5 Max. drawdown,Chems,F,1,0.2667,0.5566,0.2222
+C5 Max. drawdown,Chems,F,2,0.2667,0.5566,0.2222
+C5 Max. drawdown,Chems,F,3,0.2667,0.5566,0.2222
+C5 Max. drawdown,Rubbr,T,1,0.3333,0.5287,0.2500
+C5 Max. drawdown,Rubbr,T,2,0.5333,0.5128,0.4000
+C5 Max. drawdown,Rubbr,T,3,0.6667,0.5566,0.5000
+C5 Max. drawdown,Rubbr,I,1,0.2667,0.5566,0.2000
+C5 Max. drawdown,Rubbr,I,2,0.3333,0.5287,0.2500
+C5 Max. drawdown,Rubbr,I,3,0.5333,0.5128,0.4000
+C5 Max. drawdown,Rubbr,F,1,0.0667,0.7575,0.0500
+C5 Max. drawdown,Rubbr,F,2,0.1333,0.6610,0.1000
+C5 Max. drawdown,Rubbr,F,3,0.1333,0.6610,0.1000
+C5 Max. drawdown,Txtls,T,1,0.0667,0.7575,0.0556
+C5 Max. drawdown,Txtls,T,2,0.1333,0.6610,0.1111
+C5 Max. drawdown,Txtls,T,3,0.2667,0.5566,0.2222
+C5 Max. drawdown,Txtls,I,1,0.2000,0.5989,0.1667
+C5 Max. drawdown,Txtls,I,2,0.2000,0.5989,0.1667
+C5 Max. drawdown,Txtls,I,3,0.2667,0.5566,0.2222
+C5 Max. drawdown,Txtls,F,1,0.5333,0.5128,0.4444
+C5 Max. drawdown,Txtls,F,2,0.6667,0.5566,0.5556
+C5 Max. drawdown,Txtls,F,3,0.6667,0.5566,0.5556
+C5 Max. drawdown,BldMt,T,1,0.1333,0.6610,0.1000
+C5 Max. drawdown,BldMt,T,2,0.2000,0.5989,0.1500
+C5 Max. drawdown,BldMt,T,3,0.4667,0.5076,0.3500
+C5 Max. drawdown,BldMt,I,1,0.3333,0.5287,0.2500
+C5 Max. drawdown,BldMt,I,2,0.4667,0.5076,0.3500
+C5 Max. drawdown,BldMt,I,3,0.5333,0.5128,0.4000
+C5 Max. drawdown,BldMt,F,1,0.2000,0.5989,0.1500
+C5 Max. drawdown,BldMt,F,2,0.3333,0.5287,0.2500
+C5 Max. drawdown,BldMt,F,3,0.3333,0.5287,0.2500
+C5 Max. drawdown,Cnstr,T,1,0.2000,0.5989,0.1500
+C5 Max. drawdown,Cnstr,T,2,0.2000,0.5989,0.1500
+C5 Max. drawdown,Cnstr,T,3,0.3333,0.5287,0.2500
+C5 Max. drawdown,Cnstr,I,1,0.2000,0.5989,0.1500
+C5 Max. drawdown,Cnstr,I,2,0.2667,0.5566,0.2000
+C5 Max. drawdown,Cnstr,I,3,0.4000,0.5128,0.3000
+C5 Max. drawdown,Cnstr,F,1,0.4000,0.5128,0.3000
+C5 Max. drawdown,Cnstr,F,2,0.4000,0.5128,0.3000
+C5 Max. drawdown,Cnstr,F,3,0.6000,0.5287,0.4500
+C5 Max. drawdown,Steel,T,1,0.0667,0.7575,0.0556
+C5 Max. drawdown,Steel,T,2,0.0667,0.7575,0.0556
+C5 Max. drawdown,Steel,T,3,0.2000,0.5989,0.1667
+C5 Max. drawdown,Steel,I,1,0.1333,0.6610,0.1111
+C5 Max. drawdown,Steel,I,2,0.1333,0.6610,0.1111
+C5 Max. drawdown,Steel,I,3,0.2000,0.5989,0.1667
+C5 Max. drawdown,Steel,F,1,0.6667,0.5566,0.5556
+C5 Max. drawdown,Steel,F,2,0.7333,0.5989,0.6111
+C5 Max. drawdown,Steel,F,3,0.8000,0.6610,0.6667
+C5 Max. drawdown,FabPr,T,1,0.0667,0.7575,0.0476
+C5 Max. drawdown,FabPr,T,2,0.2000,0.5989,0.1429
+C5 Max. drawdown,FabPr,T,3,0.2667,0.5566,0.1905
+C5 Max. drawdown,FabPr,I,1,0.1333,0.6610,0.0952
+C5 Max. drawdown,FabPr,I,2,0.2667,0.5566,0.1905
+C5 Max. drawdown,FabPr,I,3,0.4667,0.5076,0.3333
+C5 Max. drawdown,FabPr,F,1,0.2667,0.5566,0.1905
+C5 Max. drawdown,FabPr,F,2,0.6667,0.5566,0.4762
+C5 Max. drawdown,FabPr,F,3,0.6667,0.5566,0.4762
+C5 Max. drawdown,Mach,T,1,0.1333,0.6610,0.0800
+C5 Max. drawdown,Mach,T,2,0.1333,0.6610,0.0800
+C5 Max. drawdown,Mach,T,3,0.4667,0.5076,0.2800
+C5 Max. drawdown,Mach,I,1,0.2667,0.5566,0.1600
+C5 Max. drawdown,Mach,I,2,0.4000,0.5128,0.2400
+C5 Max. drawdown,Mach,I,3,0.6000,0.5287,0.3600
+C5 Max. drawdown,Mach,F,1,0.1333,0.6610,0.0800
+C5 Max. drawdown,Mach,F,2,0.2667,0.5566,0.1600
+C5 Max. drawdown,Mach,F,3,0.6000,0.5287,0.3600
+C5 Max. drawdown,ElcEq,T,1,0.1333,0.6610,0.1176
+C5 Max. drawdown,ElcEq,T,2,0.2000,0.5989,0.1765
+C5 Max. drawdown,ElcEq,T,3,0.2667,0.5566,0.2353
+C5 Max. drawdown,ElcEq,I,1,0.5333,0.5128,0.4706
+C5 Max. drawdown,ElcEq,I,2,0.6000,0.5287,0.5294
+C5 Max. drawdown,ElcEq,I,3,0.6000,0.5287,0.5294
+C5 Max. drawdown,ElcEq,F,1,0.1333,0.6610,0.1176
+C5 Max. drawdown,ElcEq,F,2,0.2667,0.5566,0.2353
+C5 Max. drawdown,ElcEq,F,3,0.2667,0.5566,0.2353
+C5 Max. drawdown,Autos,T,1,0.1333,0.6610,0.1053
+C5 Max. drawdown,Autos,T,2,0.2000,0.5989,0.1579
+C5 Max. drawdown,Autos,T,3,0.2000,0.5989,0.1579
+C5 Max. drawdown,Autos,I,1,0.1333,0.6610,0.1053
+C5 Max. drawdown,Autos,I,2,0.3333,0.5287,0.2632
+C5 Max. drawdown,Autos,I,3,0.3333,0.5287,0.2632
+C5 Max. drawdown,Autos,F,1,0.4667,0.5076,0.3684
+C5 Max. drawdown,Autos,F,2,0.4667,0.5076,0.3684
+C5 Max. drawdown,Autos,F,3,0.7333,0.5989,0.5789
+C5 Max. drawdown,Aero,T,1,0.1333,0.6610,0.0833
+C5 Max. drawdown,Aero,T,2,0.2000,0.5989,0.1250
+C5 Max. drawdown,Aero,T,3,0.3333,0.5287,0.2083
+C5 Max. drawdown,Aero,I,1,0.0667,0.7575,0.0417
+C5 Max. drawdown,Aero,I,2,0.1333,0.6610,0.0833
+C5 Max. drawdown,Aero,I,3,0.4667,0.5076,0.2917
+C5 Max. drawdown,Aero,F,1,0.3333,0.5287,0.2083
+C5 Max. drawdown,Aero,F,2,0.5333,0.5128,0.3333
+C5 Max. drawdown,Aero,F,3,0.8000,0.6610,0.5000
+C5 Max. drawdown,Ships,T,1,0.0667,0.7575,0.0455
+C5 Max. drawdown,Ships,T,2,0.1333,0.6610,0.0909
+C5 Max. drawdown,Ships,T,3,0.2000,0.5989,0.1364
+C5 Max. drawdown,Ships,I,1,0.1333,0.6610,0.0909
+C5 Max. drawdown,Ships,I,2,0.1333,0.6610,0.0909
+C5 Max. drawdown,Ships,I,3,0.4667,0.5076,0.3182
+C5 Max. drawdown,Ships,F,1,0.3333,0.5287,0.2273
+C5 Max. drawdown,Ships,F,2,0.7333,0.5989,0.5000
+C5 Max. drawdown,Ships,F,3,0.8000,0.6610,0.5455
+C5 Max. drawdown,Guns,T,1,0.3333,0.5287,0.2632
+C5 Max. drawdown,Guns,T,2,0.3333,0.5287,0.2632
+C5 Max. drawdown,Guns,T,3,0.4667,0.5076,0.3684
+C5 Max. drawdown,Guns,I,1,0.2667,0.5566,0.2105
+C5 Max. drawdown,Guns,I,2,0.2667,0.5566,0.2105
+C5 Max. drawdown,Guns,I,3,0.4000,0.5128,0.3158
+C5 Max. drawdown,Guns,F,1,0.2667,0.5566,0.2105
+C5 Max. drawdown,Guns,F,2,0.2667,0.5566,0.2105
+C5 Max. drawdown,Guns,F,3,0.4000,0.5128,0.3158
+C5 Max. drawdown,Gold,T,1,0.2000,0.5989,0.1765
+C5 Max. drawdown,Gold,T,2,0.2667,0.5566,0.2353
+C5 Max. drawdown,Gold,T,3,0.3333,0.5287,0.2941
+C5 Max. drawdown,Gold,I,1,0.1333,0.6610,0.1176
+C5 Max. drawdown,Gold,I,2,0.2000,0.5989,0.1765
+C5 Max. drawdown,Gold,I,3,0.2000,0.5989,0.1765
+C5 Max. drawdown,Gold,F,1,0.4667,0.5076,0.4118
+C5 Max. drawdown,Gold,F,2,0.6000,0.5287,0.5294
+C5 Max. drawdown,Gold,F,3,0.6000,0.5287,0.5294
+C5 Max. drawdown,Mines,T,1,0.0667,0.7575,0.0556
+C5 Max. drawdown,Mines,T,2,0.2000,0.5989,0.1667
+C5 Max. drawdown,Mines,T,3,0.2000,0.5989,0.1667
+C5 Max. drawdown,Mines,I,1,0.2667,0.5566,0.2222
+C5 Max. drawdown,Mines,I,2,0.2667,0.5566,0.2222
+C5 Max. drawdown,Mines,I,3,0.3333,0.5287,0.2778
+C5 Max. drawdown,Mines,F,1,0.4667,0.5076,0.3889
+C5 Max. drawdown,Mines,F,2,0.5333,0.5128,0.4444
+C5 Max. drawdown,Mines,F,3,0.6667,0.5566,0.5556
+C5 Max. drawdown,Coal,T,1,0.0667,0.7575,0.0526
+C5 Max. drawdown,Coal,T,2,0.0667,0.7575,0.0526
+C5 Max. drawdown,Coal,T,3,0.2000,0.5989,0.1579
+C5 Max. drawdown,Coal,I,1,0.0667,0.7575,0.0526
+C5 Max. drawdown,Coal,I,2,0.2000,0.5989,0.1579
+C5 Max. drawdown,Coal,I,3,0.2000,0.5989,0.1579
+C5 Max. drawdown,Coal,F,1,0.6000,0.5287,0.4737
+C5 Max. drawdown,Coal,F,2,0.7333,0.5989,0.5789
+C5 Max. drawdown,Coal,F,3,0.8667,0.7575,0.6842
+C5 Max. drawdown,Oil,T,1,0.0667,0.7575,0.0435
+C5 Max. drawdown,Oil,T,2,0.1333,0.6610,0.0870
+C5 Max. drawdown,Oil,T,3,0.2667,0.5566,0.1739
+C5 Max. drawdown,Oil,I,1,0.0667,0.7575,0.0435
+C5 Max. drawdown,Oil,I,2,0.1333,0.6610,0.0870
+C5 Max. drawdown,Oil,I,3,0.4000,0.5128,0.2609
+C5 Max. drawdown,Oil,F,1,0.4667,0.5076,0.3043
+C5 Max. drawdown,Oil,F,2,0.6000,0.5287,0.3913
+C5 Max. drawdown,Oil,F,3,0.8667,0.7575,0.5652
+C5 Max. drawdown,Util,T,1,0.4000,0.5128,0.3000
+C5 Max. drawdown,Util,T,2,0.6000,0.5287,0.4500
+C5 Max. drawdown,Util,T,3,0.7333,0.5989,0.5500
+C5 Max. drawdown,Util,I,1,0.0667,0.7575,0.0500
+C5 Max. drawdown,Util,I,2,0.1333,0.6610,0.1000
+C5 Max. drawdown,Util,I,3,0.3333,0.5287,0.2500
+C5 Max. drawdown,Util,F,1,0.2000,0.5989,0.1500
+C5 Max. drawdown,Util,F,2,0.2667,0.5566,0.2000
+C5 Max. drawdown,Util,F,3,0.2667,0.5566,0.2000
+C5 Max. drawdown,Telcm,T,1,0.5333,0.5128,0.4706
+C5 Max. drawdown,Telcm,T,2,0.6000,0.5287,0.5294
+C5 Max. drawdown,Telcm,T,3,0.6000,0.5287,0.5294
+C5 Max. drawdown,Telcm,I,1,0.2667,0.5566,0.2353
+C5 Max. drawdown,Telcm,I,2,0.3333,0.5287,0.2941
+C5 Max. drawdown,Telcm,I,3,0.4000,0.5128,0.3529
+C5 Max. drawdown,Telcm,F,1,0.0667,0.7575,0.0588
+C5 Max. drawdown,Telcm,F,2,0.0667,0.7575,0.0588
+C5 Max. drawdown,Telcm,F,3,0.1333,0.6610,0.1176
+C5 Max. drawdown,PerSv,T,1,0.2000,0.5989,0.1364
+C5 Max. drawdown,PerSv,T,2,0.3333,0.5287,0.2273
+C5 Max. drawdown,PerSv,T,3,0.5333,0.5128,0.3636
+C5 Max. drawdown,PerSv,I,1,0.4000,0.5128,0.2727
+C5 Max. drawdown,PerSv,I,2,0.4667,0.5076,0.3182
+C5 Max. drawdown,PerSv,I,3,0.6000,0.5287,0.4091
+C5 Max. drawdown,PerSv,F,1,0.0667,0.7575,0.0455
+C5 Max. drawdown,PerSv,F,2,0.0667,0.7575,0.0455
+C5 Max. drawdown,PerSv,F,3,0.3333,0.5287,0.2273
+C5 Max. drawdown,BusSv,T,1,0.3333,0.5287,0.2941
+C5 Max. drawdown,BusSv,T,2,0.3333,0.5287,0.2941
+C5 Max. drawdown,BusSv,T,3,0.4667,0.5076,0.4118
+C5 Max. drawdown,BusSv,I,1,0.4000,0.5128,0.3529
+C5 Max. drawdown,BusSv,I,2,0.5333,0.5128,0.4706
+C5 Max. drawdown,BusSv,I,3,0.5333,0.5128,0.4706
+C5 Max. drawdown,BusSv,F,1,0.1333,0.6610,0.1176
+C5 Max. drawdown,BusSv,F,2,0.1333,0.6610,0.1176
+C5 Max. drawdown,BusSv,F,3,0.1333,0.6610,0.1176
+C5 Max. drawdown,Hardw,T,1,0.2000,0.5989,0.1579
+C5 Max. drawdown,Hardw,T,2,0.2667,0.5566,0.2105
+C5 Max. drawdown,Hardw,T,3,0.4667,0.5076,0.3684
+C5 Max. drawdown,Hardw,I,1,0.2000,0.5989,0.1579
+C5 Max. drawdown,Hardw,I,2,0.4000,0.5128,0.3158
+C5 Max. drawdown,Hardw,I,3,0.4000,0.5128,0.3158
+C5 Max. drawdown,Hardw,F,1,0.3333,0.5287,0.2632
+C5 Max. drawdown,Hardw,F,2,0.3333,0.5287,0.2632
+C5 Max. drawdown,Hardw,F,3,0.4000,0.5128,0.3158
+C5 Max. drawdown,Softw,T,1,0.2667,0.5566,0.1905
+C5 Max. drawdown,Softw,T,2,0.3333,0.5287,0.2381
+C5 Max. drawdown,Softw,T,3,0.5333,0.5128,0.3810
+C5 Max. drawdown,Softw,I,1,0.2000,0.5989,0.1429
+C5 Max. drawdown,Softw,I,2,0.4000,0.5128,0.2857
+C5 Max. drawdown,Softw,I,3,0.5333,0.5128,0.3810
+C5 Max. drawdown,Softw,F,1,0.1333,0.6610,0.0952
+C5 Max. drawdown,Softw,F,2,0.2667,0.5566,0.1905
+C5 Max. drawdown,Softw,F,3,0.3333,0.5287,0.2381
+C5 Max. drawdown,Chips,T,1,0.2000,0.5989,0.1765
+C5 Max. drawdown,Chips,T,2,0.2000,0.5989,0.1765
+C5 Max. drawdown,Chips,T,3,0.2667,0.5566,0.2353
+C5 Max. drawdown,Chips,I,1,0.4000,0.5128,0.3529
+C5 Max. drawdown,Chips,I,2,0.4667,0.5076,0.4118
+C5 Max. drawdown,Chips,I,3,0.5333,0.5128,0.4706
+C5 Max. drawdown,Chips,F,1,0.2667,0.5566,0.2353
+C5 Max. drawdown,Chips,F,2,0.3333,0.5287,0.2941
+C5 Max. drawdown,Chips,F,3,0.3333,0.5287,0.2941
+C5 Max. drawdown,LabEq,T,1,0.2000,0.5989,0.1429
+C5 Max. drawdown,LabEq,T,2,0.4000,0.5128,0.2857
+C5 Max. drawdown,LabEq,T,3,0.6000,0.5287,0.4286
+C5 Max. drawdown,LabEq,I,1,0.2667,0.5566,0.1905
+C5 Max. drawdown,LabEq,I,2,0.4000,0.5128,0.2857
+C5 Max. drawdown,LabEq,I,3,0.4000,0.5128,0.2857
+C5 Max. drawdown,LabEq,F,1,0.1333,0.6610,0.0952
+C5 Max. drawdown,LabEq,F,2,0.2000,0.5989,0.1429
+C5 Max. drawdown,LabEq,F,3,0.4000,0.5128,0.2857
+C5 Max. drawdown,Paper,T,1,0.2667,0.5566,0.2000
+C5 Max. drawdown,Paper,T,2,0.2667,0.5566,0.2000
+C5 Max. drawdown,Paper,T,3,0.5333,0.5128,0.4000
+C5 Max. drawdown,Paper,I,1,0.3333,0.5287,0.2500
+C5 Max. drawdown,Paper,I,2,0.4667,0.5076,0.3500
+C5 Max. drawdown,Paper,I,3,0.5333,0.5128,0.4000
+C5 Max. drawdown,Paper,F,1,0.1333,0.6610,0.1000
+C5 Max. drawdown,Paper,F,2,0.2000,0.5989,0.1500
+C5 Max. drawdown,Paper,F,3,0.2667,0.5566,0.2000
+C5 Max. drawdown,Boxes,T,1,0.2667,0.5566,0.2000
+C5 Max. drawdown,Boxes,T,2,0.3333,0.5287,0.2500
+C5 Max. drawdown,Boxes,T,3,0.4000,0.5128,0.3000
+C5 Max. drawdown,Boxes,I,1,0.2667,0.5566,0.2000
+C5 Max. drawdown,Boxes,I,2,0.3333,0.5287,0.2500
+C5 Max. drawdown,Boxes,I,3,0.5333,0.5128,0.4000
+C5 Max. drawdown,Boxes,F,1,0.2000,0.5989,0.1500
+C5 Max. drawdown,Boxes,F,2,0.2667,0.5566,0.2000
+C5 Max. drawdown,Boxes,F,3,0.4000,0.5128,0.3000
+C5 Max. drawdown,Trans,T,1,0.0667,0.7575,0.0526
+C5 Max. drawdown,Trans,T,2,0.3333,0.5287,0.2632
+C5 Max. drawdown,Trans,T,3,0.3333,0.5287,0.2632
+C5 Max. drawdown,Trans,I,1,0.3333,0.5287,0.2632
+C5 Max. drawdown,Trans,I,2,0.4000,0.5128,0.3158
+C5 Max. drawdown,Trans,I,3,0.4667,0.5076,0.3684
+C5 Max. drawdown,Trans,F,1,0.2667,0.5566,0.2105
+C5 Max. drawdown,Trans,F,2,0.3333,0.5287,0.2632
+C5 Max. drawdown,Trans,F,3,0.4667,0.5076,0.3684
+C5 Max. drawdown,Whlsl,T,1,0.2000,0.5989,0.1304
+C5 Max. drawdown,Whlsl,T,2,0.4667,0.5076,0.3043
+C5 Max. drawdown,Whlsl,T,3,0.6667,0.5566,0.4348
+C5 Max. drawdown,Whlsl,I,1,0.2667,0.5566,0.1739
+C5 Max. drawdown,Whlsl,I,2,0.4000,0.5128,0.2609
+C5 Max. drawdown,Whlsl,I,3,0.7333,0.5989,0.4783
+C5 Max. drawdown,Whlsl,F,1,0.0667,0.7575,0.0435
+C5 Max. drawdown,Whlsl,F,2,0.0667,0.7575,0.0435
+C5 Max. drawdown,Whlsl,F,3,0.1333,0.6610,0.0870
+C5 Max. drawdown,Rtail,T,1,0.4000,0.5128,0.3158
+C5 Max. drawdown,Rtail,T,2,0.6000,0.5287,0.4737
+C5 Max. drawdown,Rtail,T,3,0.6000,0.5287,0.4737
+C5 Max. drawdown,Rtail,I,1,0.2000,0.5989,0.1579
+C5 Max. drawdown,Rtail,I,2,0.2000,0.5989,0.1579
+C5 Max. drawdown,Rtail,I,3,0.4667,0.5076,0.3684
+C5 Max. drawdown,Rtail,F,1,0.1333,0.6610,0.1053
+C5 Max. drawdown,Rtail,F,2,0.2000,0.5989,0.1579
+C5 Max. drawdown,Rtail,F,3,0.2000,0.5989,0.1579
+C5 Max. drawdown,Meals,T,1,0.6000,0.5287,0.5000
+C5 Max. drawdown,Meals,T,2,0.6000,0.5287,0.5000
+C5 Max. drawdown,Meals,T,3,0.7333,0.5989,0.6111
+C5 Max. drawdown,Meals,I,1,0.2000,0.5989,0.1667
+C5 Max. drawdown,Meals,I,2,0.2000,0.5989,0.1667
+C5 Max. drawdown,Meals,I,3,0.2667,0.5566,0.2222
+C5 Max. drawdown,Meals,F,1,0.0667,0.7575,0.0556
+C5 Max. drawdown,Meals,F,2,0.1333,0.6610,0.1111
+C5 Max. drawdown,Meals,F,3,0.2000,0.5989,0.1667
+C5 Max. drawdown,Banks,T,1,0.0667,0.7575,0.0417
+C5 Max. drawdown,Banks,T,2,0.3333,0.5287,0.2083
+C5 Max. drawdown,Banks,T,3,0.6667,0.5566,0.4167
+C5 Max. drawdown,Banks,I,1,0.2000,0.5989,0.1250
+C5 Max. drawdown,Banks,I,2,0.2667,0.5566,0.1667
+C5 Max. drawdown,Banks,I,3,0.3333,0.5287,0.2083
+C5 Max. drawdown,Banks,F,1,0.1333,0.6610,0.0833
+C5 Max. drawdown,Banks,F,2,0.4000,0.5128,0.2500
+C5 Max. drawdown,Banks,F,3,0.6000,0.5287,0.3750
+C5 Max. drawdown,Insur,T,1,0.0667,0.7575,0.0455
+C5 Max. drawdown,Insur,T,2,0.4667,0.5076,0.3182
+C5 Max. drawdown,Insur,T,3,0.5333,0.5128,0.3636
+C5 Max. drawdown,Insur,I,1,0.3333,0.5287,0.2273
+C5 Max. drawdown,Insur,I,2,0.3333,0.5287,0.2273
+C5 Max. drawdown,Insur,I,3,0.6667,0.5566,0.4545
+C5 Max. drawdown,Insur,F,1,0.1333,0.6610,0.0909
+C5 Max. drawdown,Insur,F,2,0.2000,0.5989,0.1364
+C5 Max. drawdown,Insur,F,3,0.2667,0.5566,0.1818
+C5 Max. drawdown,RlEst,T,1,0.1333,0.6610,0.0952
+C5 Max. drawdown,RlEst,T,2,0.2667,0.5566,0.1905
+C5 Max. drawdown,RlEst,T,3,0.4000,0.5128,0.2857
+C5 Max. drawdown,RlEst,I,1,0.2000,0.5989,0.1429
+C5 Max. drawdown,RlEst,I,2,0.2667,0.5566,0.1905
+C5 Max. drawdown,RlEst,I,3,0.4000,0.5128,0.2857
+C5 Max. drawdown,RlEst,F,1,0.2000,0.5989,0.1429
+C5 Max. drawdown,RlEst,F,2,0.5333,0.5128,0.3810
+C5 Max. drawdown,RlEst,F,3,0.6000,0.5287,0.4286
+C5 Max. drawdown,Fin,T,1,0.2000,0.5989,0.1364
+C5 Max. drawdown,Fin,T,2,0.3333,0.5287,0.2273
+C5 Max. drawdown,Fin,T,3,0.4667,0.5076,0.3182
+C5 Max. drawdown,Fin,I,1,0.4000,0.5128,0.2727
+C5 Max. drawdown,Fin,I,2,0.4000,0.5128,0.2727
+C5 Max. drawdown,Fin,I,3,0.6000,0.5287,0.4091
+C5 Max. drawdown,Fin,F,1,0.0667,0.7575,0.0455
+C5 Max. drawdown,Fin,F,2,0.1333,0.6610,0.0909
+C5 Max. drawdown,Fin,F,3,0.4000,0.5128,0.2727
+C5 Max. drawdown,Other,T,1,0.4000,0.5128,0.3333
+C5 Max. drawdown,Other,T,2,0.4667,0.5076,0.3889
+C5 Max. drawdown,Other,T,3,0.5333,0.5128,0.4444
+C5 Max. drawdown,Other,I,1,0.2667,0.5566,0.2222
+C5 Max. drawdown,Other,I,2,0.3333,0.5287,0.2778
+C5 Max. drawdown,Other,I,3,0.4000,0.5128,0.3333
+C5 Max. drawdown,Other,F,1,0.1333,0.6610,0.1111
+C5 Max. drawdown,Other,F,2,0.2000,0.5989,0.1667
+C5 Max. drawdown,Other,F,3,0.2667,0.5566,0.2222
+C6 Beta,Agric,T,1,0.4000,0.5128,0.2400
+C6 Beta,Agric,T,2,0.4667,0.5076,0.2800
+C6 Beta,Agric,T,3,0.8667,0.7575,0.5200
+C6 Beta,Agric,I,1,0.0667,0.7575,0.0400
+C6 Beta,Agric,I,2,0.2000,0.5989,0.1200
+C6 Beta,Agric,I,3,0.4667,0.5076,0.2800
+C6 Beta,Agric,F,1,0.0667,0.7575,0.0400
+C6 Beta,Agric,F,2,0.1333,0.6610,0.0800
+C6 Beta,Agric,F,3,0.3333,0.5287,0.2000
+C6 Beta,Food,T,1,0.8000,0.6610,0.7059
+C6 Beta,Food,T,2,0.8000,0.6610,0.7059
+C6 Beta,Food,T,3,0.8667,0.7575,0.7647
+C6 Beta,Food,I,1,0.0667,0.7575,0.0588
+C6 Beta,Food,I,2,0.0667,0.7575,0.0588
+C6 Beta,Food,I,3,0.1333,0.6610,0.1176
+C6 Beta,Food,F,1,0.0667,0.7575,0.0588
+C6 Beta,Food,F,2,0.0667,0.7575,0.0588
+C6 Beta,Food,F,3,0.1333,0.6610,0.1176
+C6 Beta,Soda,T,1,0.6000,0.5287,0.4737
+C6 Beta,Soda,T,2,0.8000,0.6610,0.6316
+C6 Beta,Soda,T,3,0.8667,0.7575,0.6842
+C6 Beta,Soda,I,1,0.0667,0.7575,0.0526
+C6 Beta,Soda,I,2,0.0667,0.7575,0.0526
+C6 Beta,Soda,I,3,0.2667,0.5566,0.2105
+C6 Beta,Soda,F,1,0.0667,0.7575,0.0526
+C6 Beta,Soda,F,2,0.1333,0.6610,0.1053
+C6 Beta,Soda,F,3,0.1333,0.6610,0.1053
+C6 Beta,Beer,T,1,0.7333,0.5989,0.6471
+C6 Beta,Beer,T,2,0.8000,0.6610,0.7059
+C6 Beta,Beer,T,3,0.8667,0.7575,0.7647
+C6 Beta,Beer,I,1,0.0667,0.7575,0.0588
+C6 Beta,Beer,I,2,0.1333,0.6610,0.1176
+C6 Beta,Beer,I,3,0.2000,0.5989,0.1765
+C6 Beta,Beer,F,1,0.0667,0.7575,0.0588
+C6 Beta,Beer,F,2,0.0667,0.7575,0.0588
+C6 Beta,Beer,F,3,0.0667,0.7575,0.0588
+C6 Beta,Smoke,T,1,0.7333,0.5989,0.6471
+C6 Beta,Smoke,T,2,0.7333,0.5989,0.6471
+C6 Beta,Smoke,T,3,0.8667,0.7575,0.7647
+C6 Beta,Smoke,I,1,0.0667,0.7575,0.0588
+C6 Beta,Smoke,I,2,0.2000,0.5989,0.1765
+C6 Beta,Smoke,I,3,0.2000,0.5989,0.1765
+C6 Beta,Smoke,F,1,0.0667,0.7575,0.0588
+C6 Beta,Smoke,F,2,0.0667,0.7575,0.0588
+C6 Beta,Smoke,F,3,0.0667,0.7575,0.0588
+C6 Beta,Toys,T,1,0.2667,0.5566,0.1739
+C6 Beta,Toys,T,2,0.3333,0.5287,0.2174
+C6 Beta,Toys,T,3,0.5333,0.5128,0.3478
+C6 Beta,Toys,I,1,0.0667,0.7575,0.0435
+C6 Beta,Toys,I,2,0.3333,0.5287,0.2174
+C6 Beta,Toys,I,3,0.3333,0.5287,0.2174
+C6 Beta,Toys,F,1,0.1333,0.6610,0.0870
+C6 Beta,Toys,F,2,0.3333,0.5287,0.2174
+C6 Beta,Toys,F,3,0.6667,0.5566,0.4348
+C6 Beta,Fun,T,1,0.0667,0.7575,0.0455
+C6 Beta,Fun,T,2,0.1333,0.6610,0.0909
+C6 Beta,Fun,T,3,0.3333,0.5287,0.2273
+C6 Beta,Fun,I,1,0.1333,0.6610,0.0909
+C6 Beta,Fun,I,2,0.2000,0.5989,0.1364
+C6 Beta,Fun,I,3,0.4000,0.5128,0.2727
+C6 Beta,Fun,F,1,0.4667,0.5076,0.3182
+C6 Beta,Fun,F,2,0.5333,0.5128,0.3636
+C6 Beta,Fun,F,3,0.7333,0.5989,0.5000
+C6 Beta,Books,T,1,0.2667,0.5566,0.2105
+C6 Beta,Books,T,2,0.4000,0.5128,0.3158
+C6 Beta,Books,T,3,0.4667,0.5076,0.3684
+C6 Beta,Books,I,1,0.3333,0.5287,0.2632
+C6 Beta,Books,I,2,0.5333,0.5128,0.4211
+C6 Beta,Books,I,3,0.6000,0.5287,0.4737
+C6 Beta,Books,F,1,0.0667,0.7575,0.0526
+C6 Beta,Books,F,2,0.1333,0.6610,0.1053
+C6 Beta,Books,F,3,0.2000,0.5989,0.1579
+C6 Beta,Hshld,T,1,0.7333,0.5989,0.6471
+C6 Beta,Hshld,T,2,0.8000,0.6610,0.7059
+C6 Beta,Hshld,T,3,0.8667,0.7575,0.7647
+C6 Beta,Hshld,I,1,0.0667,0.7575,0.0588
+C6 Beta,Hshld,I,2,0.1333,0.6610,0.1176
+C6 Beta,Hshld,I,3,0.2000,0.5989,0.1765
+C6 Beta,Hshld,F,1,0.0667,0.7575,0.0588
+C6 Beta,Hshld,F,2,0.0667,0.7575,0.0588
+C6 Beta,Hshld,F,3,0.0667,0.7575,0.0588
+C6 Beta,Clths,T,1,0.1333,0.6610,0.1053
+C6 Beta,Clths,T,2,0.2000,0.5989,0.1579
+C6 Beta,Clths,T,3,0.3333,0.5287,0.2632
+C6 Beta,Clths,I,1,0.3333,0.5287,0.2632
+C6 Beta,Clths,I,2,0.4000,0.5128,0.3158
+C6 Beta,Clths,I,3,0.4667,0.5076,0.3684
+C6 Beta,Clths,F,1,0.3333,0.5287,0.2632
+C6 Beta,Clths,F,2,0.3333,0.5287,0.2632
+C6 Beta,Clths,F,3,0.4667,0.5076,0.3684
+C6 Beta,Hlth,T,1,0.2667,0.5566,0.2105
+C6 Beta,Hlth,T,2,0.3333,0.5287,0.2632
+C6 Beta,Hlth,T,3,0.4000,0.5128,0.3158
+C6 Beta,Hlth,I,1,0.3333,0.5287,0.2632
+C6 Beta,Hlth,I,2,0.4667,0.5076,0.3684
+C6 Beta,Hlth,I,3,0.5333,0.5128,0.4211
+C6 Beta,Hlth,F,1,0.1333,0.6610,0.1053
+C6 Beta,Hlth,F,2,0.2000,0.5989,0.1579
+C6 Beta,Hlth,F,3,0.3333,0.5287,0.2632
+C6 Beta,MedEq,T,1,0.2000,0.5989,0.1364
+C6 Beta,MedEq,T,2,0.3333,0.5287,0.2273
+C6 Beta,MedEq,T,3,0.3333,0.5287,0.2273
+C6 Beta,MedEq,I,1,0.2667,0.5566,0.1818
+C6 Beta,MedEq,I,2,0.5333,0.5128,0.3636
+C6 Beta,MedEq,I,3,0.6000,0.5287,0.4091
+C6 Beta,MedEq,F,1,0.0667,0.7575,0.0455
+C6 Beta,MedEq,F,2,0.1333,0.6610,0.0909
+C6 Beta,MedEq,F,3,0.5333,0.5128,0.3636
+C6 Beta,Drugs,T,1,0.1333,0.6610,0.0833
+C6 Beta,Drugs,T,2,0.3333,0.5287,0.2083
+C6 Beta,Drugs,T,3,0.7333,0.5989,0.4583
+C6 Beta,Drugs,I,1,0.2000,0.5989,0.1250
+C6 Beta,Drugs,I,2,0.6000,0.5287,0.3750
+C6 Beta,Drugs,I,3,0.6000,0.5287,0.3750
+C6 Beta,Drugs,F,1,0.0667,0.7575,0.0417
+C6 Beta,Drugs,F,2,0.0667,0.7575,0.0417
+C6 Beta,Drugs,F,3,0.2667,0.5566,0.1667
+C6 Beta,Chems,T,1,0.0667,0.7575,0.0625
+C6 Beta,Chems,T,2,0.0667,0.7575,0.0625
+C6 Beta,Chems,T,3,0.1333,0.6610,0.1250
+C6 Beta,Chems,I,1,0.5333,0.5128,0.5000
+C6 Beta,Chems,I,2,0.5333,0.5128,0.5000
+C6 Beta,Chems,I,3,0.5333,0.5128,0.5000
+C6 Beta,Chems,F,1,0.3333,0.5287,0.3125
+C6 Beta,Chems,F,2,0.4000,0.5128,0.3750
+C6 Beta,Chems,F,3,0.4000,0.5128,0.3750
+C6 Beta,Rubbr,T,1,0.4667,0.5076,0.4118
+C6 Beta,Rubbr,T,2,0.6000,0.5287,0.5294
+C6 Beta,Rubbr,T,3,0.6000,0.5287,0.5294
+C6 Beta,Rubbr,I,1,0.2667,0.5566,0.2353
+C6 Beta,Rubbr,I,2,0.3333,0.5287,0.2941
+C6 Beta,Rubbr,I,3,0.4000,0.5128,0.3529
+C6 Beta,Rubbr,F,1,0.0667,0.7575,0.0588
+C6 Beta,Rubbr,F,2,0.1333,0.6610,0.1176
+C6 Beta,Rubbr,F,3,0.1333,0.6610,0.1176
+C6 Beta,Txtls,T,1,0.1333,0.6610,0.1000
+C6 Beta,Txtls,T,2,0.2000,0.5989,0.1500
+C6 Beta,Txtls,T,3,0.4667,0.5076,0.3500
+C6 Beta,Txtls,I,1,0.3333,0.5287,0.2500
+C6 Beta,Txtls,I,2,0.4667,0.5076,0.3500
+C6 Beta,Txtls,I,3,0.4667,0.5076,0.3500
+C6 Beta,Txtls,F,1,0.2000,0.5989,0.1500
+C6 Beta,Txtls,F,2,0.3333,0.5287,0.2500
+C6 Beta,Txtls,F,3,0.4000,0.5128,0.3000
+C6 Beta,BldMt,T,1,0.0667,0.7575,0.0500
+C6 Beta,BldMt,T,2,0.1333,0.6610,0.1000
+C6 Beta,BldMt,T,3,0.2667,0.5566,0.2000
+C6 Beta,BldMt,I,1,0.3333,0.5287,0.2500
+C6 Beta,BldMt,I,2,0.4667,0.5076,0.3500
+C6 Beta,BldMt,I,3,0.5333,0.5128,0.4000
+C6 Beta,BldMt,F,1,0.2000,0.5989,0.1500
+C6 Beta,BldMt,F,2,0.4667,0.5076,0.3500
+C6 Beta,BldMt,F,3,0.5333,0.5128,0.4000
+C6 Beta,Cnstr,T,1,0.2667,0.5566,0.2000
+C6 Beta,Cnstr,T,2,0.4000,0.5128,0.3000
+C6 Beta,Cnstr,T,3,0.5333,0.5128,0.4000
+C6 Beta,Cnstr,I,1,0.1333,0.6610,0.1000
+C6 Beta,Cnstr,I,2,0.2667,0.5566,0.2000
+C6 Beta,Cnstr,I,3,0.3333,0.5287,0.2500
+C6 Beta,Cnstr,F,1,0.2000,0.5989,0.1500
+C6 Beta,Cnstr,F,2,0.4000,0.5128,0.3000
+C6 Beta,Cnstr,F,3,0.4667,0.5076,0.3500
+C6 Beta,Steel,T,1,0.0667,0.7575,0.0556
+C6 Beta,Steel,T,2,0.1333,0.6610,0.1111
+C6 Beta,Steel,T,3,0.2000,0.5989,0.1667
+C6 Beta,Steel,I,1,0.1333,0.6610,0.1111
+C6 Beta,Steel,I,2,0.2667,0.5566,0.2222
+C6 Beta,Steel,I,3,0.3333,0.5287,0.2778
+C6 Beta,Steel,F,1,0.6000,0.5287,0.5000
+C6 Beta,Steel,F,2,0.6000,0.5287,0.5000
+C6 Beta,Steel,F,3,0.6667,0.5566,0.5556
+C6 Beta,FabPr,T,1,0.0667,0.7575,0.0526
+C6 Beta,FabPr,T,2,0.2000,0.5989,0.1579
+C6 Beta,FabPr,T,3,0.2667,0.5566,0.2105
+C6 Beta,FabPr,I,1,0.1333,0.6610,0.1053
+C6 Beta,FabPr,I,2,0.2667,0.5566,0.2105
+C6 Beta,FabPr,I,3,0.3333,0.5287,0.2632
+C6 Beta,FabPr,F,1,0.4667,0.5076,0.3684
+C6 Beta,FabPr,F,2,0.6000,0.5287,0.4737
+C6 Beta,FabPr,F,3,0.6667,0.5566,0.5263
+C6 Beta,Mach,T,1,0.0667,0.7575,0.0476
+C6 Beta,Mach,T,2,0.0667,0.7575,0.0476
+C6 Beta,Mach,T,3,0.0667,0.7575,0.0476
+C6 Beta,Mach,I,1,0.1333,0.6610,0.0952
+C6 Beta,Mach,I,2,0.1333,0.6610,0.0952
+C6 Beta,Mach,I,3,0.5333,0.5128,0.3810
+C6 Beta,Mach,F,1,0.4000,0.5128,0.2857
+C6 Beta,Mach,F,2,0.8000,0.6610,0.5714
+C6 Beta,Mach,F,3,0.8000,0.6610,0.5714
+C6 Beta,ElcEq,T,1,0.0667,0.7575,0.0556
+C6 Beta,ElcEq,T,2,0.0667,0.7575,0.0556
+C6 Beta,ElcEq,T,3,0.1333,0.6610,0.1111
+C6 Beta,ElcEq,I,1,0.2667,0.5566,0.2222
+C6 Beta,ElcEq,I,2,0.2667,0.5566,0.2222
+C6 Beta,ElcEq,I,3,0.4000,0.5128,0.3333
+C6 Beta,ElcEq,F,1,0.5333,0.5128,0.4444
+C6 Beta,ElcEq,F,2,0.6000,0.5287,0.5000
+C6 Beta,ElcEq,F,3,0.6667,0.5566,0.5556
+C6 Beta,Autos,T,1,0.0667,0.7575,0.0476
+C6 Beta,Autos,T,2,0.0667,0.7575,0.0476
+C6 Beta,Autos,T,3,0.1333,0.6610,0.0952
+C6 Beta,Autos,I,1,0.2000,0.5989,0.1429
+C6 Beta,Autos,I,2,0.2667,0.5566,0.1905
+C6 Beta,Autos,I,3,0.5333,0.5128,0.3810
+C6 Beta,Autos,F,1,0.4000,0.5128,0.2857
+C6 Beta,Autos,F,2,0.6000,0.5287,0.4286
+C6 Beta,Autos,F,3,0.7333,0.5989,0.5238
+C6 Beta,Aero,T,1,0.0667,0.7575,0.0500
+C6 Beta,Aero,T,2,0.1333,0.6610,0.1000
+C6 Beta,Aero,T,3,0.3333,0.5287,0.2500
+C6 Beta,Aero,I,1,0.2000,0.5989,0.1500
+C6 Beta,Aero,I,2,0.3333,0.5287,0.2500
+C6 Beta,Aero,I,3,0.3333,0.5287,0.2500
+C6 Beta,Aero,F,1,0.3333,0.5287,0.2500
+C6 Beta,Aero,F,2,0.6000,0.5287,0.4500
+C6 Beta,Aero,F,3,0.6667,0.5566,0.5000
+C6 Beta,Ships,T,1,0.0667,0.7575,0.0476
+C6 Beta,Ships,T,2,0.2000,0.5989,0.1429
+C6 Beta,Ships,T,3,0.2667,0.5566,0.1905
+C6 Beta,Ships,I,1,0.3333,0.5287,0.2381
+C6 Beta,Ships,I,2,0.4667,0.5076,0.3333
+C6 Beta,Ships,I,3,0.5333,0.5128,0.3810
+C6 Beta,Ships,F,1,0.2667,0.5566,0.1905
+C6 Beta,Ships,F,2,0.2667,0.5566,0.1905
+C6 Beta,Ships,F,3,0.6000,0.5287,0.4286
+C6 Beta,Guns,T,1,0.6667,0.5566,0.5882
+C6 Beta,Guns,T,2,0.7333,0.5989,0.6471
+C6 Beta,Guns,T,3,0.7333,0.5989,0.6471
+C6 Beta,Guns,I,1,0.1333,0.6610,0.1176
+C6 Beta,Guns,I,2,0.2000,0.5989,0.1765
+C6 Beta,Guns,I,3,0.2667,0.5566,0.2353
+C6 Beta,Guns,F,1,0.0667,0.7575,0.0588
+C6 Beta,Guns,F,2,0.0667,0.7575,0.0588
+C6 Beta,Guns,F,3,0.1333,0.6610,0.1176
+C6 Beta,Gold,T,1,0.5333,0.5128,0.4000
+C6 Beta,Gold,T,2,0.6667,0.5566,0.5000
+C6 Beta,Gold,T,3,0.8667,0.7575,0.6500
+C6 Beta,Gold,I,1,0.0667,0.7575,0.0500
+C6 Beta,Gold,I,2,0.1333,0.6610,0.1000
+C6 Beta,Gold,I,3,0.2667,0.5566,0.2000
+C6 Beta,Gold,F,1,0.0667,0.7575,0.0500
+C6 Beta,Gold,F,2,0.2000,0.5989,0.1500
+C6 Beta,Gold,F,3,0.2000,0.5989,0.1500
+C6 Beta,Mines,T,1,0.1333,0.6610,0.1000
+C6 Beta,Mines,T,2,0.2000,0.5989,0.1500
+C6 Beta,Mines,T,3,0.2000,0.5989,0.1500
+C6 Beta,Mines,I,1,0.2000,0.5989,0.1500
+C6 Beta,Mines,I,2,0.2000,0.5989,0.1500
+C6 Beta,Mines,I,3,0.4667,0.5076,0.3500
+C6 Beta,Mines,F,1,0.3333,0.5287,0.2500
+C6 Beta,Mines,F,2,0.6000,0.5287,0.4500
+C6 Beta,Mines,F,3,0.6667,0.5566,0.5000
+C6 Beta,Coal,T,1,0.0667,0.7575,0.0455
+C6 Beta,Coal,T,2,0.3333,0.5287,0.2273
+C6 Beta,Coal,T,3,0.4667,0.5076,0.3182
+C6 Beta,Coal,I,1,0.2000,0.5989,0.1364
+C6 Beta,Coal,I,2,0.2000,0.5989,0.1364
+C6 Beta,Coal,I,3,0.2667,0.5566,0.1818
+C6 Beta,Coal,F,1,0.3333,0.5287,0.2273
+C6 Beta,Coal,F,2,0.4000,0.5128,0.2727
+C6 Beta,Coal,F,3,0.7333,0.5989,0.5000
+C6 Beta,Oil,T,1,0.1333,0.6610,0.1053
+C6 Beta,Oil,T,2,0.2000,0.5989,0.1579
+C6 Beta,Oil,T,3,0.2000,0.5989,0.1579
+C6 Beta,Oil,I,1,0.1333,0.6610,0.1053
+C6 Beta,Oil,I,2,0.3333,0.5287,0.2632
+C6 Beta,Oil,I,3,0.3333,0.5287,0.2632
+C6 Beta,Oil,F,1,0.4667,0.5076,0.3684
+C6 Beta,Oil,F,2,0.4667,0.5076,0.3684
+C6 Beta,Oil,F,3,0.7333,0.5989,0.5789
+C6 Beta,Util,T,1,0.6667,0.5566,0.5556
+C6 Beta,Util,T,2,0.8667,0.7575,0.7222
+C6 Beta,Util,T,3,0.8667,0.7575,0.7222
+C6 Beta,Util,I,1,0.0667,0.7575,0.0556
+C6 Beta,Util,I,2,0.0667,0.7575,0.0556
+C6 Beta,Util,I,3,0.2667,0.5566,0.2222
+C6 Beta,Util,F,1,0.0667,0.7575,0.0556
+C6 Beta,Util,F,2,0.0667,0.7575,0.0556
+C6 Beta,Util,F,3,0.0667,0.7575,0.0556
+C6 Beta,Telcm,T,1,0.4000,0.5128,0.3000
+C6 Beta,Telcm,T,2,0.6667,0.5566,0.5000
+C6 Beta,Telcm,T,3,0.7333,0.5989,0.5500
+C6 Beta,Telcm,I,1,0.2000,0.5989,0.1500
+C6 Beta,Telcm,I,2,0.2667,0.5566,0.2000
+C6 Beta,Telcm,I,3,0.5333,0.5128,0.4000
+C6 Beta,Telcm,F,1,0.0667,0.7575,0.0500
+C6 Beta,Telcm,F,2,0.0667,0.7575,0.0500
+C6 Beta,Telcm,F,3,0.0667,0.7575,0.0500
+C6 Beta,PerSv,T,1,0.3333,0.5287,0.2381
+C6 Beta,PerSv,T,2,0.3333,0.5287,0.2381
+C6 Beta,PerSv,T,3,0.5333,0.5128,0.3810
+C6 Beta,PerSv,I,1,0.2667,0.5566,0.1905
+C6 Beta,PerSv,I,2,0.3333,0.5287,0.2381
+C6 Beta,PerSv,I,3,0.4667,0.5076,0.3333
+C6 Beta,PerSv,F,1,0.1333,0.6610,0.0952
+C6 Beta,PerSv,F,2,0.2000,0.5989,0.1429
+C6 Beta,PerSv,F,3,0.4000,0.5128,0.2857
+C6 Beta,BusSv,T,1,0.1333,0.6610,0.1000
+C6 Beta,BusSv,T,2,0.1333,0.6610,0.1000
+C6 Beta,BusSv,T,3,0.2000,0.5989,0.1500
+C6 Beta,BusSv,I,1,0.3333,0.5287,0.2500
+C6 Beta,BusSv,I,2,0.4000,0.5128,0.3000
+C6 Beta,BusSv,I,3,0.6667,0.5566,0.5000
+C6 Beta,BusSv,F,1,0.2000,0.5989,0.1500
+C6 Beta,BusSv,F,2,0.4667,0.5076,0.3500
+C6 Beta,BusSv,F,3,0.4667,0.5076,0.3500
+C6 Beta,Hardw,T,1,0.0667,0.7575,0.0500
+C6 Beta,Hardw,T,2,0.0667,0.7575,0.0500
+C6 Beta,Hardw,T,3,0.0667,0.7575,0.0500
+C6 Beta,Hardw,I,1,0.2000,0.5989,0.1500
+C6 Beta,Hardw,I,2,0.2667,0.5566,0.2000
+C6 Beta,Hardw,I,3,0.5333,0.5128,0.4000
+C6 Beta,Hardw,F,1,0.4000,0.5128,0.3000
+C6 Beta,Hardw,F,2,0.6667,0.5566,0.5000
+C6 Beta,Hardw,F,3,0.7333,0.5989,0.5500
+C6 Beta,Softw,T,1,0.0667,0.7575,0.0500
+C6 Beta,Softw,T,2,0.1333,0.6610,0.1000
+C6 Beta,Softw,T,3,0.2667,0.5566,0.2000
+C6 Beta,Softw,I,1,0.2000,0.5989,0.1500
+C6 Beta,Softw,I,2,0.2667,0.5566,0.2000
+C6 Beta,Softw,I,3,0.4000,0.5128,0.3000
+C6 Beta,Softw,F,1,0.4667,0.5076,0.3500
+C6 Beta,Softw,F,2,0.5333,0.5128,0.4000
+C6 Beta,Softw,F,3,0.6667,0.5566,0.5000
+C6 Beta,Chips,T,1,0.1333,0.6610,0.1111
+C6 Beta,Chips,T,2,0.1333,0.6610,0.1111
+C6 Beta,Chips,T,3,0.2000,0.5989,0.1667
+C6 Beta,Chips,I,1,0.0667,0.7575,0.0556
+C6 Beta,Chips,I,2,0.1333,0.6610,0.1111
+C6 Beta,Chips,I,3,0.2000,0.5989,0.1667
+C6 Beta,Chips,F,1,0.6000,0.5287,0.5000
+C6 Beta,Chips,F,2,0.7333,0.5989,0.6111
+C6 Beta,Chips,F,3,0.8000,0.6610,0.6667
+C6 Beta,LabEq,T,1,0.0667,0.7575,0.0435
+C6 Beta,LabEq,T,2,0.0667,0.7575,0.0435
+C6 Beta,LabEq,T,3,0.2667,0.5566,0.1739
+C6 Beta,LabEq,I,1,0.1333,0.6610,0.0870
+C6 Beta,LabEq,I,2,0.4000,0.5128,0.2609
+C6 Beta,LabEq,I,3,0.4667,0.5076,0.3043
+C6 Beta,LabEq,F,1,0.2667,0.5566,0.1739
+C6 Beta,LabEq,F,2,0.5333,0.5128,0.3478
+C6 Beta,LabEq,F,3,0.8000,0.6610,0.5217
+C6 Beta,Paper,T,1,0.3333,0.5287,0.2273
+C6 Beta,Paper,T,2,0.3333,0.5287,0.2273
+C6 Beta,Paper,T,3,0.8000,0.6610,0.5455
+C6 Beta,Paper,I,1,0.1333,0.6610,0.0909
+C6 Beta,Paper,I,2,0.4000,0.5128,0.2727
+C6 Beta,Paper,I,3,0.4000,0.5128,0.2727
+C6 Beta,Paper,F,1,0.0667,0.7575,0.0455
+C6 Beta,Paper,F,2,0.2667,0.5566,0.1818
+C6 Beta,Paper,F,3,0.2667,0.5566,0.1818
+C6 Beta,Boxes,T,1,0.2667,0.5566,0.2222
+C6 Beta,Boxes,T,2,0.3333,0.5287,0.2778
+C6 Beta,Boxes,T,3,0.4667,0.5076,0.3889
+C6 Beta,Boxes,I,1,0.3333,0.5287,0.2778
+C6 Beta,Boxes,I,2,0.4667,0.5076,0.3889
+C6 Beta,Boxes,I,3,0.4667,0.5076,0.3889
+C6 Beta,Boxes,F,1,0.2000,0.5989,0.1667
+C6 Beta,Boxes,F,2,0.2000,0.5989,0.1667
+C6 Beta,Boxes,F,3,0.2667,0.5566,0.2222
+C6 Beta,Trans,T,1,0.0667,0.7575,0.0476
+C6 Beta,Trans,T,2,0.1333,0.6610,0.0952
+C6 Beta,Trans,T,3,0.2000,0.5989,0.1429
+C6 Beta,Trans,I,1,0.2667,0.5566,0.1905
+C6 Beta,Trans,I,2,0.4000,0.5128,0.2857
+C6 Beta,Trans,I,3,0.6000,0.5287,0.4286
+C6 Beta,Trans,F,1,0.3333,0.5287,0.2381
+C6 Beta,Trans,F,2,0.4000,0.5128,0.2857
+C6 Beta,Trans,F,3,0.6000,0.5287,0.4286
+C6 Beta,Whlsl,T,1,0.1333,0.6610,0.1053
+C6 Beta,Whlsl,T,2,0.2000,0.5989,0.1579
+C6 Beta,Whlsl,T,3,0.4000,0.5128,0.3158
+C6 Beta,Whlsl,I,1,0.5333,0.5128,0.4211
+C6 Beta,Whlsl,I,2,0.6000,0.5287,0.4737
+C6 Beta,Whlsl,I,3,0.6667,0.5566,0.5263
+C6 Beta,Whlsl,F,1,0.0667,0.7575,0.0526
+C6 Beta,Whlsl,F,2,0.2000,0.5989,0.1579
+C6 Beta,Whlsl,F,3,0.2000,0.5989,0.1579
+C6 Beta,Rtail,T,1,0.2000,0.5989,0.1250
+C6 Beta,Rtail,T,2,0.2667,0.5566,0.1667
+C6 Beta,Rtail,T,3,0.4667,0.5076,0.2917
+C6 Beta,Rtail,I,1,0.2667,0.5566,0.1667
+C6 Beta,Rtail,I,2,0.3333,0.5287,0.2083
+C6 Beta,Rtail,I,3,0.6667,0.5566,0.4167
+C6 Beta,Rtail,F,1,0.0667,0.7575,0.0417
+C6 Beta,Rtail,F,2,0.2667,0.5566,0.1667
+C6 Beta,Rtail,F,3,0.4667,0.5076,0.2917
+C6 Beta,Meals,T,1,0.2000,0.5989,0.1250
+C6 Beta,Meals,T,2,0.6000,0.5287,0.3750
+C6 Beta,Meals,T,3,0.8000,0.6610,0.5000
+C6 Beta,Meals,I,1,0.1333,0.6610,0.0833
+C6 Beta,Meals,I,2,0.2667,0.5566,0.1667
+C6 Beta,Meals,I,3,0.6000,0.5287,0.3750
+C6 Beta,Meals,F,1,0.0667,0.7575,0.0417
+C6 Beta,Meals,F,2,0.1333,0.6610,0.0833
+C6 Beta,Meals,F,3,0.2000,0.5989,0.1250
+C6 Beta,Banks,T,1,0.1333,0.6610,0.1000
+C6 Beta,Banks,T,2,0.1333,0.6610,0.1000
+C6 Beta,Banks,T,3,0.1333,0.6610,0.1000
+C6 Beta,Banks,I,1,0.2667,0.5566,0.2000
+C6 Beta,Banks,I,2,0.5333,0.5128,0.4000
+C6 Beta,Banks,I,3,0.6000,0.5287,0.4500
+C6 Beta,Banks,F,1,0.2667,0.5566,0.2000
+C6 Beta,Banks,F,2,0.3333,0.5287,0.2500
+C6 Beta,Banks,F,3,0.6000,0.5287,0.4500
+C6 Beta,Insur,T,1,0.2667,0.5566,0.2105
+C6 Beta,Insur,T,2,0.4000,0.5128,0.3158
+C6 Beta,Insur,T,3,0.4667,0.5076,0.3684
+C6 Beta,Insur,I,1,0.4000,0.5128,0.3158
+C6 Beta,Insur,I,2,0.4000,0.5128,0.3158
+C6 Beta,Insur,I,3,0.4667,0.5076,0.3684
+C6 Beta,Insur,F,1,0.0667,0.7575,0.0526
+C6 Beta,Insur,F,2,0.2000,0.5989,0.1579
+C6 Beta,Insur,F,3,0.3333,0.5287,0.2632
+C6 Beta,RlEst,T,1,0.1333,0.6610,0.0909
+C6 Beta,RlEst,T,2,0.1333,0.6610,0.0909
+C6 Beta,RlEst,T,3,0.2667,0.5566,0.1818
+C6 Beta,RlEst,I,1,0.2000,0.5989,0.1364
+C6 Beta,RlEst,I,2,0.4000,0.5128,0.2727
+C6 Beta,RlEst,I,3,0.5333,0.5128,0.3636
+C6 Beta,RlEst,F,1,0.2000,0.5989,0.1364
+C6 Beta,RlEst,F,2,0.4667,0.5076,0.3182
+C6 Beta,RlEst,F,3,0.6667,0.5566,0.4545
+C6 Beta,Fin,T,1,0.0667,0.7575,0.0526
+C6 Beta,Fin,T,2,0.0667,0.7575,0.0526
+C6 Beta,Fin,T,3,0.1333,0.6610,0.1053
+C6 Beta,Fin,I,1,0.5333,0.5128,0.4211
+C6 Beta,Fin,I,2,0.5333,0.5128,0.4211
+C6 Beta,Fin,I,3,0.7333,0.5989,0.5789
+C6 Beta,Fin,F,1,0.2000,0.5989,0.1579
+C6 Beta,Fin,F,2,0.3333,0.5287,0.2632
+C6 Beta,Fin,F,3,0.4000,0.5128,0.3158
+C6 Beta,Other,T,1,0.3333,0.5287,0.2500
+C6 Beta,Other,T,2,0.4000,0.5128,0.3000
+C6 Beta,Other,T,3,0.5333,0.5128,0.4000
+C6 Beta,Other,I,1,0.3333,0.5287,0.2500
+C6 Beta,Other,I,2,0.4000,0.5128,0.3000
+C6 Beta,Other,I,3,0.5333,0.5128,0.4000
+C6 Beta,Other,F,1,0.0667,0.7575,0.0500
+C6 Beta,Other,F,2,0.1333,0.6610,0.1000
+C6 Beta,Other,F,3,0.2667,0.5566,0.2000
+C7 Momentum (12-1),Agric,T,1,0.0667,0.7575,0.0455
+C7 Momentum (12-1),Agric,T,2,0.0667,0.7575,0.0455
+C7 Momentum (12-1),Agric,T,3,0.2000,0.5989,0.1364
+C7 Momentum (12-1),Agric,I,1,0.0667,0.7575,0.0455
+C7 Momentum (12-1),Agric,I,2,0.3333,0.5287,0.2273
+C7 Momentum (12-1),Agric,I,3,0.4000,0.5128,0.2727
+C7 Momentum (12-1),Agric,F,1,0.4000,0.5128,0.2727
+C7 Momentum (12-1),Agric,F,2,0.6000,0.5287,0.4091
+C7 Momentum (12-1),Agric,F,3,0.8667,0.7575,0.5909
+C7 Momentum (12-1),Food,T,1,0.0667,0.7575,0.0385
+C7 Momentum (12-1),Food,T,2,0.1333,0.6610,0.0769
+C7 Momentum (12-1),Food,T,3,0.3333,0.5287,0.1923
+C7 Momentum (12-1),Food,I,1,0.1333,0.6610,0.0769
+C7 Momentum (12-1),Food,I,2,0.4667,0.5076,0.2692
+C7 Momentum (12-1),Food,I,3,0.6000,0.5287,0.3462
+C7 Momentum (12-1),Food,F,1,0.0667,0.7575,0.0385
+C7 Momentum (12-1),Food,F,2,0.4000,0.5128,0.2308
+C7 Momentum (12-1),Food,F,3,0.8000,0.6610,0.4615
+C7 Momentum (12-1),Soda,T,1,0.1333,0.6610,0.0833
+C7 Momentum (12-1),Soda,T,2,0.3333,0.5287,0.2083
+C7 Momentum (12-1),Soda,T,3,0.7333,0.5989,0.4583
+C7 Momentum (12-1),Soda,I,1,0.2000,0.5989,0.1250
+C7 Momentum (12-1),Soda,I,2,0.4667,0.5076,0.2917
+C7 Momentum (12-1),Soda,I,3,0.5333,0.5128,0.3333
+C7 Momentum (12-1),Soda,F,1,0.0667,0.7575,0.0417
+C7 Momentum (12-1),Soda,F,2,0.2000,0.5989,0.1250
+C7 Momentum (12-1),Soda,F,3,0.3333,0.5287,0.2083
+C7 Momentum (12-1),Beer,T,1,0.0667,0.7575,0.0400
+C7 Momentum (12-1),Beer,T,2,0.3333,0.5287,0.2000
+C7 Momentum (12-1),Beer,T,3,0.5333,0.5128,0.3200
+C7 Momentum (12-1),Beer,I,1,0.4000,0.5128,0.2400
+C7 Momentum (12-1),Beer,I,2,0.4000,0.5128,0.2400
+C7 Momentum (12-1),Beer,I,3,0.6000,0.5287,0.3600
+C7 Momentum (12-1),Beer,F,1,0.0667,0.7575,0.0400
+C7 Momentum (12-1),Beer,F,2,0.0667,0.7575,0.0400
+C7 Momentum (12-1),Beer,F,3,0.5333,0.5128,0.3200
+C7 Momentum (12-1),Smoke,T,1,0.0667,0.7575,0.0455
+C7 Momentum (12-1),Smoke,T,2,0.0667,0.7575,0.0455
+C7 Momentum (12-1),Smoke,T,3,0.0667,0.7575,0.0455
+C7 Momentum (12-1),Smoke,I,1,0.0667,0.7575,0.0455
+C7 Momentum (12-1),Smoke,I,2,0.2000,0.5989,0.1364
+C7 Momentum (12-1),Smoke,I,3,0.5333,0.5128,0.3636
+C7 Momentum (12-1),Smoke,F,1,0.4000,0.5128,0.2727
+C7 Momentum (12-1),Smoke,F,2,0.7333,0.5989,0.5000
+C7 Momentum (12-1),Smoke,F,3,0.8667,0.7575,0.5909
+C7 Momentum (12-1),Toys,T,1,0.2000,0.5989,0.1111
+C7 Momentum (12-1),Toys,T,2,0.4000,0.5128,0.2222
+C7 Momentum (12-1),Toys,T,3,0.6667,0.5566,0.3704
+C7 Momentum (12-1),Toys,I,1,0.2000,0.5989,0.1111
+C7 Momentum (12-1),Toys,I,2,0.2000,0.5989,0.1111
+C7 Momentum (12-1),Toys,I,3,0.5333,0.5128,0.2963
+C7 Momentum (12-1),Toys,F,1,0.0667,0.7575,0.0370
+C7 Momentum (12-1),Toys,F,2,0.1333,0.6610,0.0741
+C7 Momentum (12-1),Toys,F,3,0.6000,0.5287,0.3333
+C7 Momentum (12-1),Fun,T,1,0.2667,0.5566,0.1538
+C7 Momentum (12-1),Fun,T,2,0.4000,0.5128,0.2308
+C7 Momentum (12-1),Fun,T,3,0.8667,0.7575,0.5000
+C7 Momentum (12-1),Fun,I,1,0.0667,0.7575,0.0385
+C7 Momentum (12-1),Fun,I,2,0.3333,0.5287,0.1923
+C7 Momentum (12-1),Fun,I,3,0.4667,0.5076,0.2692
+C7 Momentum (12-1),Fun,F,1,0.0667,0.7575,0.0385
+C7 Momentum (12-1),Fun,F,2,0.1333,0.6610,0.0769
+C7 Momentum (12-1),Fun,F,3,0.4000,0.5128,0.2308
+C7 Momentum (12-1),Books,T,1,0.0667,0.7575,0.0455
+C7 Momentum (12-1),Books,T,2,0.0667,0.7575,0.0455
+C7 Momentum (12-1),Books,T,3,0.0667,0.7575,0.0455
+C7 Momentum (12-1),Books,I,1,0.0667,0.7575,0.0455
+C7 Momentum (12-1),Books,I,2,0.0667,0.7575,0.0455
+C7 Momentum (12-1),Books,I,3,0.5333,0.5128,0.3636
+C7 Momentum (12-1),Books,F,1,0.4000,0.5128,0.2727
+C7 Momentum (12-1),Books,F,2,0.8667,0.7575,0.5909
+C7 Momentum (12-1),Books,F,3,0.8667,0.7575,0.5909
+C7 Momentum (12-1),Hshld,T,1,0.0667,0.7575,0.0357
+C7 Momentum (12-1),Hshld,T,2,0.6667,0.5566,0.3571
+C7 Momentum (12-1),Hshld,T,3,0.8667,0.7575,0.4643
+C7 Momentum (12-1),Hshld,I,1,0.0667,0.7575,0.0357
+C7 Momentum (12-1),Hshld,I,2,0.2000,0.5989,0.1071
+C7 Momentum (12-1),Hshld,I,3,0.2667,0.5566,0.1429
+C7 Momentum (12-1),Hshld,F,1,0.0667,0.7575,0.0357
+C7 Momentum (12-1),Hshld,F,2,0.0667,0.7575,0.0357
+C7 Momentum (12-1),Hshld,F,3,0.7333,0.5989,0.3929
+C7 Momentum (12-1),Clths,T,1,0.4000,0.5128,0.2857
+C7 Momentum (12-1),Clths,T,2,0.6000,0.5287,0.4286
+C7 Momentum (12-1),Clths,T,3,0.8000,0.6610,0.5714
+C7 Momentum (12-1),Clths,I,1,0.1333,0.6610,0.0952
+C7 Momentum (12-1),Clths,I,2,0.3333,0.5287,0.2381
+C7 Momentum (12-1),Clths,I,3,0.5333,0.5128,0.3810
+C7 Momentum (12-1),Clths,F,1,0.0667,0.7575,0.0476
+C7 Momentum (12-1),Clths,F,2,0.0667,0.7575,0.0476
+C7 Momentum (12-1),Clths,F,3,0.0667,0.7575,0.0476
+C7 Momentum (12-1),Hlth,T,1,0.3333,0.5287,0.2174
+C7 Momentum (12-1),Hlth,T,2,0.4000,0.5128,0.2609
+C7 Momentum (12-1),Hlth,T,3,0.7333,0.5989,0.4783
+C7 Momentum (12-1),Hlth,I,1,0.2000,0.5989,0.1304
+C7 Momentum (12-1),Hlth,I,2,0.2000,0.5989,0.1304
+C7 Momentum (12-1),Hlth,I,3,0.4000,0.5128,0.2609
+C7 Momentum (12-1),Hlth,F,1,0.0667,0.7575,0.0435
+C7 Momentum (12-1),Hlth,F,2,0.2667,0.5566,0.1739
+C7 Momentum (12-1),Hlth,F,3,0.4000,0.5128,0.2609
+C7 Momentum (12-1),MedEq,T,1,0.3333,0.5287,0.2273
+C7 Momentum (12-1),MedEq,T,2,0.7333,0.5989,0.5000
+C7 Momentum (12-1),MedEq,T,3,0.8000,0.6610,0.5455
+C7 Momentum (12-1),MedEq,I,1,0.1333,0.6610,0.0909
+C7 Momentum (12-1),MedEq,I,2,0.2000,0.5989,0.1364
+C7 Momentum (12-1),MedEq,I,3,0.6000,0.5287,0.4091
+C7 Momentum (12-1),MedEq,F,1,0.0667,0.7575,0.0455
+C7 Momentum (12-1),MedEq,F,2,0.0667,0.7575,0.0455
+C7 Momentum (12-1),MedEq,F,3,0.0667,0.7575,0.0455
+C7 Momentum (12-1),Drugs,T,1,0.1333,0.6610,0.0870
+C7 Momentum (12-1),Drugs,T,2,0.4000,0.5128,0.2609
+C7 Momentum (12-1),Drugs,T,3,0.5333,0.5128,0.3478
+C7 Momentum (12-1),Drugs,I,1,0.2667,0.5566,0.1739
+C7 Momentum (12-1),Drugs,I,2,0.3333,0.5287,0.2174
+C7 Momentum (12-1),Drugs,I,3,0.7333,0.5989,0.4783
+C7 Momentum (12-1),Drugs,F,1,0.1333,0.6610,0.0870
+C7 Momentum (12-1),Drugs,F,2,0.2000,0.5989,0.1304
+C7 Momentum (12-1),Drugs,F,3,0.2667,0.5566,0.1739
+C7 Momentum (12-1),Chems,T,1,0.0667,0.7575,0.0476
+C7 Momentum (12-1),Chems,T,2,0.0667,0.7575,0.0476
+C7 Momentum (12-1),Chems,T,3,0.2000,0.5989,0.1429
+C7 Momentum (12-1),Chems,I,1,0.3333,0.5287,0.2381
+C7 Momentum (12-1),Chems,I,2,0.4667,0.5076,0.3333
+C7 Momentum (12-1),Chems,I,3,0.6000,0.5287,0.4286
+C7 Momentum (12-1),Chems,F,1,0.2000,0.5989,0.1429
+C7 Momentum (12-1),Chems,F,2,0.4667,0.5076,0.3333
+C7 Momentum (12-1),Chems,F,3,0.6000,0.5287,0.4286
+C7 Momentum (12-1),Rubbr,T,1,0.0667,0.7575,0.0333
+C7 Momentum (12-1),Rubbr,T,2,0.1333,0.6610,0.0667
+C7 Momentum (12-1),Rubbr,T,3,0.5333,0.5128,0.2667
+C7 Momentum (12-1),Rubbr,I,1,0.2667,0.5566,0.1333
+C7 Momentum (12-1),Rubbr,I,2,0.3333,0.5287,0.1667
+C7 Momentum (12-1),Rubbr,I,3,0.8000,0.6610,0.4000
+C7 Momentum (12-1),Rubbr,F,1,0.0667,0.7575,0.0333
+C7 Momentum (12-1),Rubbr,F,2,0.1333,0.6610,0.0667
+C7 Momentum (12-1),Rubbr,F,3,0.6667,0.5566,0.3333
+C7 Momentum (12-1),Txtls,T,1,0.0667,0.7575,0.0556
+C7 Momentum (12-1),Txtls,T,2,0.0667,0.7575,0.0556
+C7 Momentum (12-1),Txtls,T,3,0.1333,0.6610,0.1111
+C7 Momentum (12-1),Txtls,I,1,0.0667,0.7575,0.0556
+C7 Momentum (12-1),Txtls,I,2,0.1333,0.6610,0.1111
+C7 Momentum (12-1),Txtls,I,3,0.2000,0.5989,0.1667
+C7 Momentum (12-1),Txtls,F,1,0.7333,0.5989,0.6111
+C7 Momentum (12-1),Txtls,F,2,0.7333,0.5989,0.6111
+C7 Momentum (12-1),Txtls,F,3,0.8667,0.7575,0.7222
+C7 Momentum (12-1),BldMt,T,1,0.1333,0.6610,0.0909
+C7 Momentum (12-1),BldMt,T,2,0.2000,0.5989,0.1364
+C7 Momentum (12-1),BldMt,T,3,0.4667,0.5076,0.3182
+C7 Momentum (12-1),BldMt,I,1,0.3333,0.5287,0.2273
+C7 Momentum (12-1),BldMt,I,2,0.4667,0.5076,0.3182
+C7 Momentum (12-1),BldMt,I,3,0.5333,0.5128,0.3636
+C7 Momentum (12-1),BldMt,F,1,0.0667,0.7575,0.0455
+C7 Momentum (12-1),BldMt,F,2,0.3333,0.5287,0.2273
+C7 Momentum (12-1),BldMt,F,3,0.4667,0.5076,0.3182
+C7 Momentum (12-1),Cnstr,T,1,0.2667,0.5566,0.1905
+C7 Momentum (12-1),Cnstr,T,2,0.3333,0.5287,0.2381
+C7 Momentum (12-1),Cnstr,T,3,0.5333,0.5128,0.3810
+C7 Momentum (12-1),Cnstr,I,1,0.2667,0.5566,0.1905
+C7 Momentum (12-1),Cnstr,I,2,0.3333,0.5287,0.2381
+C7 Momentum (12-1),Cnstr,I,3,0.4667,0.5076,0.3333
+C7 Momentum (12-1),Cnstr,F,1,0.1333,0.6610,0.0952
+C7 Momentum (12-1),Cnstr,F,2,0.2667,0.5566,0.1905
+C7 Momentum (12-1),Cnstr,F,3,0.4000,0.5128,0.2857
+C7 Momentum (12-1),Steel,T,1,0.0667,0.7575,0.0385
+C7 Momentum (12-1),Steel,T,2,0.0667,0.7575,0.0385
+C7 Momentum (12-1),Steel,T,3,0.2667,0.5566,0.1538
+C7 Momentum (12-1),Steel,I,1,0.0667,0.7575,0.0385
+C7 Momentum (12-1),Steel,I,2,0.0667,0.7575,0.0385
+C7 Momentum (12-1),Steel,I,3,0.6000,0.5287,0.3462
+C7 Momentum (12-1),Steel,F,1,0.1333,0.6610,0.0769
+C7 Momentum (12-1),Steel,F,2,0.8667,0.7575,0.5000
+C7 Momentum (12-1),Steel,F,3,0.8667,0.7575,0.5000
+C7 Momentum (12-1),FabPr,T,1,0.1333,0.6610,0.0769
+C7 Momentum (12-1),FabPr,T,2,0.4000,0.5128,0.2308
+C7 Momentum (12-1),FabPr,T,3,0.8000,0.6610,0.4615
+C7 Momentum (12-1),FabPr,I,1,0.1333,0.6610,0.0769
+C7 Momentum (12-1),FabPr,I,2,0.1333,0.6610,0.0769
+C7 Momentum (12-1),FabPr,I,3,0.2000,0.5989,0.1154
+C7 Momentum (12-1),FabPr,F,1,0.0667,0.7575,0.0385
+C7 Momentum (12-1),FabPr,F,2,0.4000,0.5128,0.2308
+C7 Momentum (12-1),FabPr,F,3,0.7333,0.5989,0.4231
+C7 Momentum (12-1),Mach,T,1,0.2000,0.5989,0.1364
+C7 Momentum (12-1),Mach,T,2,0.3333,0.5287,0.2273
+C7 Momentum (12-1),Mach,T,3,0.6000,0.5287,0.4091
+C7 Momentum (12-1),Mach,I,1,0.3333,0.5287,0.2273
+C7 Momentum (12-1),Mach,I,2,0.4000,0.5128,0.2727
+C7 Momentum (12-1),Mach,I,3,0.4667,0.5076,0.3182
+C7 Momentum (12-1),Mach,F,1,0.0667,0.7575,0.0455
+C7 Momentum (12-1),Mach,F,2,0.2000,0.5989,0.1364
+C7 Momentum (12-1),Mach,F,3,0.4000,0.5128,0.2727
+C7 Momentum (12-1),ElcEq,T,1,0.0667,0.7575,0.0385
+C7 Momentum (12-1),ElcEq,T,2,0.1333,0.6610,0.0769
+C7 Momentum (12-1),ElcEq,T,3,0.6000,0.5287,0.3462
+C7 Momentum (12-1),ElcEq,I,1,0.3333,0.5287,0.1923
+C7 Momentum (12-1),ElcEq,I,2,0.5333,0.5128,0.3077
+C7 Momentum (12-1),ElcEq,I,3,0.7333,0.5989,0.4231
+C7 Momentum (12-1),ElcEq,F,1,0.0667,0.7575,0.0385
+C7 Momentum (12-1),ElcEq,F,2,0.1333,0.6610,0.0769
+C7 Momentum (12-1),ElcEq,F,3,0.4000,0.5128,0.2308
+C7 Momentum (12-1),Autos,T,1,0.0667,0.7575,0.0345
+C7 Momentum (12-1),Autos,T,2,0.0667,0.7575,0.0345
+C7 Momentum (12-1),Autos,T,3,0.8000,0.6610,0.4138
+C7 Momentum (12-1),Autos,I,1,0.0667,0.7575,0.0345
+C7 Momentum (12-1),Autos,I,2,0.1333,0.6610,0.0690
+C7 Momentum (12-1),Autos,I,3,0.2667,0.5566,0.1379
+C7 Momentum (12-1),Autos,F,1,0.0667,0.7575,0.0345
+C7 Momentum (12-1),Autos,F,2,0.6667,0.5566,0.3448
+C7 Momentum (12-1),Autos,F,3,0.8667,0.7575,0.4483
+C7 Momentum (12-1),Aero,T,1,0.0667,0.7575,0.0286
+C7 Momentum (12-1),Aero,T,2,0.3333,0.5287,0.1429
+C7 Momentum (12-1),Aero,T,3,0.8667,0.7575,0.3714
+C7 Momentum (12-1),Aero,I,1,0.0667,0.7575,0.0286
+C7 Momentum (12-1),Aero,I,2,0.0667,0.7575,0.0286
+C7 Momentum (12-1),Aero,I,3,0.6000,0.5287,0.2571
+C7 Momentum (12-1),Aero,F,1,0.0667,0.7575,0.0286
+C7 Momentum (12-1),Aero,F,2,0.0667,0.7575,0.0286
+C7 Momentum (12-1),Aero,F,3,0.8667,0.7575,0.3714
+C7 Momentum (12-1),Ships,T,1,0.0667,0.7575,0.0400
+C7 Momentum (12-1),Ships,T,2,0.0667,0.7575,0.0400
+C7 Momentum (12-1),Ships,T,3,0.3333,0.5287,0.2000
+C7 Momentum (12-1),Ships,I,1,0.1333,0.6610,0.0800
+C7 Momentum (12-1),Ships,I,2,0.2000,0.5989,0.1200
+C7 Momentum (12-1),Ships,I,3,0.5333,0.5128,0.3200
+C7 Momentum (12-1),Ships,F,1,0.1333,0.6610,0.0800
+C7 Momentum (12-1),Ships,F,2,0.7333,0.5989,0.4400
+C7 Momentum (12-1),Ships,F,3,0.8000,0.6610,0.4800
+C7 Momentum (12-1),Guns,T,1,0.4000,0.5128,0.3158
+C7 Momentum (12-1),Guns,T,2,0.5333,0.5128,0.4211
+C7 Momentum (12-1),Guns,T,3,0.5333,0.5128,0.4211
+C7 Momentum (12-1),Guns,I,1,0.2667,0.5566,0.2105
+C7 Momentum (12-1),Guns,I,2,0.3333,0.5287,0.2632
+C7 Momentum (12-1),Guns,I,3,0.5333,0.5128,0.4211
+C7 Momentum (12-1),Guns,F,1,0.0667,0.7575,0.0526
+C7 Momentum (12-1),Guns,F,2,0.1333,0.6610,0.1053
+C7 Momentum (12-1),Guns,F,3,0.2000,0.5989,0.1579
+C7 Momentum (12-1),Gold,T,1,0.0667,0.7575,0.0385
+C7 Momentum (12-1),Gold,T,2,0.3333,0.5287,0.1923
+C7 Momentum (12-1),Gold,T,3,0.8000,0.6610,0.4615
+C7 Momentum (12-1),Gold,I,1,0.1333,0.6610,0.0769
+C7 Momentum (12-1),Gold,I,2,0.2000,0.5989,0.1154
+C7 Momentum (12-1),Gold,I,3,0.3333,0.5287,0.1923
+C7 Momentum (12-1),Gold,F,1,0.0667,0.7575,0.0385
+C7 Momentum (12-1),Gold,F,2,0.4667,0.5076,0.2692
+C7 Momentum (12-1),Gold,F,3,0.6000,0.5287,0.3462
+C7 Momentum (12-1),Mines,T,1,0.1333,0.6610,0.0909
+C7 Momentum (12-1),Mines,T,2,0.2000,0.5989,0.1364
+C7 Momentum (12-1),Mines,T,3,0.4000,0.5128,0.2727
+C7 Momentum (12-1),Mines,I,1,0.2000,0.5989,0.1364
+C7 Momentum (12-1),Mines,I,2,0.2667,0.5566,0.1818
+C7 Momentum (12-1),Mines,I,3,0.4000,0.5128,0.2727
+C7 Momentum (12-1),Mines,F,1,0.3333,0.5287,0.2273
+C7 Momentum (12-1),Mines,F,2,0.4000,0.5128,0.2727
+C7 Momentum (12-1),Mines,F,3,0.6667,0.5566,0.4545
+C7 Momentum (12-1),Coal,T,1,0.0667,0.7575,0.0385
+C7 Momentum (12-1),Coal,T,2,0.1333,0.6610,0.0769
+C7 Momentum (12-1),Coal,T,3,0.6667,0.5566,0.3846
+C7 Momentum (12-1),Coal,I,1,0.0667,0.7575,0.0385
+C7 Momentum (12-1),Coal,I,2,0.1333,0.6610,0.0769
+C7 Momentum (12-1),Coal,I,3,0.2000,0.5989,0.1154
+C7 Momentum (12-1),Coal,F,1,0.1333,0.6610,0.0769
+C7 Momentum (12-1),Coal,F,2,0.7333,0.5989,0.4231
+C7 Momentum (12-1),Coal,F,3,0.8667,0.7575,0.5000
+C7 Momentum (12-1),Oil,T,1,0.0667,0.7575,0.0435
+C7 Momentum (12-1),Oil,T,2,0.0667,0.7575,0.0435
+C7 Momentum (12-1),Oil,T,3,0.4000,0.5128,0.2609
+C7 Momentum (12-1),Oil,I,1,0.0667,0.7575,0.0435
+C7 Momentum (12-1),Oil,I,2,0.2000,0.5989,0.1304
+C7 Momentum (12-1),Oil,I,3,0.2667,0.5566,0.1739
+C7 Momentum (12-1),Oil,F,1,0.3333,0.5287,0.2174
+C7 Momentum (12-1),Oil,F,2,0.7333,0.5989,0.4783
+C7 Momentum (12-1),Oil,F,3,0.8667,0.7575,0.5652
+C7 Momentum (12-1),Util,T,1,0.0667,0.7575,0.0333
+C7 Momentum (12-1),Util,T,2,0.2000,0.5989,0.1000
+C7 Momentum (12-1),Util,T,3,0.8000,0.6610,0.4000
+C7 Momentum (12-1),Util,I,1,0.1333,0.6610,0.0667
+C7 Momentum (12-1),Util,I,2,0.2000,0.5989,0.1000
+C7 Momentum (12-1),Util,I,3,0.4667,0.5076,0.2333
+C7 Momentum (12-1),Util,F,1,0.0667,0.7575,0.0333
+C7 Momentum (12-1),Util,F,2,0.3333,0.5287,0.1667
+C7 Momentum (12-1),Util,F,3,0.7333,0.5989,0.3667
+C7 Momentum (12-1),Telcm,T,1,0.2000,0.5989,0.1034
+C7 Momentum (12-1),Telcm,T,2,0.2000,0.5989,0.1034
+C7 Momentum (12-1),Telcm,T,3,0.6000,0.5287,0.3103
+C7 Momentum (12-1),Telcm,I,1,0.1333,0.6610,0.0690
+C7 Momentum (12-1),Telcm,I,2,0.3333,0.5287,0.1724
+C7 Momentum (12-1),Telcm,I,3,0.6667,0.5566,0.3448
+C7 Momentum (12-1),Telcm,F,1,0.0667,0.7575,0.0345
+C7 Momentum (12-1),Telcm,F,2,0.1333,0.6610,0.0690
+C7 Momentum (12-1),Telcm,F,3,0.6667,0.5566,0.3448
+C7 Momentum (12-1),PerSv,T,1,0.0667,0.7575,0.0333
+C7 Momentum (12-1),PerSv,T,2,0.0667,0.7575,0.0333
+C7 Momentum (12-1),PerSv,T,3,0.4000,0.5128,0.2000
+C7 Momentum (12-1),PerSv,I,1,0.0667,0.7575,0.0333
+C7 Momentum (12-1),PerSv,I,2,0.5333,0.5128,0.2667
+C7 Momentum (12-1),PerSv,I,3,0.7333,0.5989,0.3667
+C7 Momentum (12-1),PerSv,F,1,0.0667,0.7575,0.0333
+C7 Momentum (12-1),PerSv,F,2,0.2000,0.5989,0.1000
+C7 Momentum (12-1),PerSv,F,3,0.8667,0.7575,0.4333
+C7 Momentum (12-1),BusSv,T,1,0.8000,0.6610,0.7500
+C7 Momentum (12-1),BusSv,T,2,0.8667,0.7575,0.8125
+C7 Momentum (12-1),BusSv,T,3,0.8667,0.7575,0.8125
+C7 Momentum (12-1),BusSv,I,1,0.0667,0.7575,0.0625
+C7 Momentum (12-1),BusSv,I,2,0.0667,0.7575,0.0625
+C7 Momentum (12-1),BusSv,I,3,0.1333,0.6610,0.1250
+C7 Momentum (12-1),BusSv,F,1,0.0667,0.7575,0.0625
+C7 Momentum (12-1),BusSv,F,2,0.0667,0.7575,0.0625
+C7 Momentum (12-1),BusSv,F,3,0.0667,0.7575,0.0625
+C7 Momentum (12-1),Hardw,T,1,0.0667,0.7575,0.0357
+C7 Momentum (12-1),Hardw,T,2,0.6000,0.5287,0.3214
+C7 Momentum (12-1),Hardw,T,3,0.8667,0.7575,0.4643
+C7 Momentum (12-1),Hardw,I,1,0.0667,0.7575,0.0357
+C7 Momentum (12-1),Hardw,I,2,0.2000,0.5989,0.1071
+C7 Momentum (12-1),Hardw,I,3,0.2667,0.5566,0.1429
+C7 Momentum (12-1),Hardw,F,1,0.0667,0.7575,0.0357
+C7 Momentum (12-1),Hardw,F,2,0.1333,0.6610,0.0714
+C7 Momentum (12-1),Hardw,F,3,0.7333,0.5989,0.3929
+C7 Momentum (12-1),Softw,T,1,0.8667,0.7575,0.8667
+C7 Momentum (12-1),Softw,T,2,0.8667,0.7575,0.8667
+C7 Momentum (12-1),Softw,T,3,0.8667,0.7575,0.8667
+C7 Momentum (12-1),Softw,I,1,0.0667,0.7575,0.0667
+C7 Momentum (12-1),Softw,I,2,0.0667,0.7575,0.0667
+C7 Momentum (12-1),Softw,I,3,0.0667,0.7575,0.0667
+C7 Momentum (12-1),Softw,F,1,0.0667,0.7575,0.0667
+C7 Momentum (12-1),Softw,F,2,0.0667,0.7575,0.0667
+C7 Momentum (12-1),Softw,F,3,0.0667,0.7575,0.0667
+C7 Momentum (12-1),Chips,T,1,0.2667,0.5566,0.1667
+C7 Momentum (12-1),Chips,T,2,0.8000,0.6610,0.5000
+C7 Momentum (12-1),Chips,T,3,0.8667,0.7575,0.5417
+C7 Momentum (12-1),Chips,I,1,0.0667,0.7575,0.0417
+C7 Momentum (12-1),Chips,I,2,0.1333,0.6610,0.0833
+C7 Momentum (12-1),Chips,I,3,0.6667,0.5566,0.4167
+C7 Momentum (12-1),Chips,F,1,0.0667,0.7575,0.0417
+C7 Momentum (12-1),Chips,F,2,0.0667,0.7575,0.0417
+C7 Momentum (12-1),Chips,F,3,0.0667,0.7575,0.0417
+C7 Momentum (12-1),LabEq,T,1,0.6667,0.5566,0.5556
+C7 Momentum (12-1),LabEq,T,2,0.7333,0.5989,0.6111
+C7 Momentum (12-1),LabEq,T,3,0.8667,0.7575,0.7222
+C7 Momentum (12-1),LabEq,I,1,0.0667,0.7575,0.0556
+C7 Momentum (12-1),LabEq,I,2,0.2000,0.5989,0.1667
+C7 Momentum (12-1),LabEq,I,3,0.2667,0.5566,0.2222
+C7 Momentum (12-1),LabEq,F,1,0.0667,0.7575,0.0556
+C7 Momentum (12-1),LabEq,F,2,0.0667,0.7575,0.0556
+C7 Momentum (12-1),LabEq,F,3,0.0667,0.7575,0.0556
+C7 Momentum (12-1),Paper,T,1,0.0667,0.7575,0.0526
+C7 Momentum (12-1),Paper,T,2,0.0667,0.7575,0.0526
+C7 Momentum (12-1),Paper,T,3,0.0667,0.7575,0.0526
+C7 Momentum (12-1),Paper,I,1,0.2000,0.5989,0.1579
+C7 Momentum (12-1),Paper,I,2,0.3333,0.5287,0.2632
+C7 Momentum (12-1),Paper,I,3,0.4667,0.5076,0.3684
+C7 Momentum (12-1),Paper,F,1,0.4667,0.5076,0.3684
+C7 Momentum (12-1),Paper,F,2,0.6000,0.5287,0.4737
+C7 Momentum (12-1),Paper,F,3,0.7333,0.5989,0.5789
+C7 Momentum (12-1),Boxes,T,1,0.0667,0.7575,0.0385
+C7 Momentum (12-1),Boxes,T,2,0.4000,0.5128,0.2308
+C7 Momentum (12-1),Boxes,T,3,0.4667,0.5076,0.2692
+C7 Momentum (12-1),Boxes,I,1,0.2000,0.5989,0.1154
+C7 Momentum (12-1),Boxes,I,2,0.4000,0.5128,0.2308
+C7 Momentum (12-1),Boxes,I,3,0.5333,0.5128,0.3077
+C7 Momentum (12-1),Boxes,F,1,0.0667,0.7575,0.0385
+C7 Momentum (12-1),Boxes,F,2,0.1333,0.6610,0.0769
+C7 Momentum (12-1),Boxes,F,3,0.7333,0.5989,0.4231
+C7 Momentum (12-1),Trans,T,1,0.0667,0.7575,0.0417
+C7 Momentum (12-1),Trans,T,2,0.0667,0.7575,0.0417
+C7 Momentum (12-1),Trans,T,3,0.4000,0.5128,0.2500
+C7 Momentum (12-1),Trans,I,1,0.3333,0.5287,0.2083
+C7 Momentum (12-1),Trans,I,2,0.5333,0.5128,0.3333
+C7 Momentum (12-1),Trans,I,3,0.6000,0.5287,0.3750
+C7 Momentum (12-1),Trans,F,1,0.0667,0.7575,0.0417
+C7 Momentum (12-1),Trans,F,2,0.3333,0.5287,0.2083
+C7 Momentum (12-1),Trans,F,3,0.6000,0.5287,0.3750
+C7 Momentum (12-1),Whlsl,T,1,0.0667,0.7575,0.0476
+C7 Momentum (12-1),Whlsl,T,2,0.0667,0.7575,0.0476
+C7 Momentum (12-1),Whlsl,T,3,0.1333,0.6610,0.0952
+C7 Momentum (12-1),Whlsl,I,1,0.5333,0.5128,0.3810
+C7 Momentum (12-1),Whlsl,I,2,0.8000,0.6610,0.5714
+C7 Momentum (12-1),Whlsl,I,3,0.8667,0.7575,0.6190
+C7 Momentum (12-1),Whlsl,F,1,0.0667,0.7575,0.0476
+C7 Momentum (12-1),Whlsl,F,2,0.0667,0.7575,0.0476
+C7 Momentum (12-1),Whlsl,F,3,0.4000,0.5128,0.2857
+C7 Momentum (12-1),Rtail,T,1,0.6000,0.5287,0.5000
+C7 Momentum (12-1),Rtail,T,2,0.7333,0.5989,0.6111
+C7 Momentum (12-1),Rtail,T,3,0.8000,0.6610,0.6667
+C7 Momentum (12-1),Rtail,I,1,0.1333,0.6610,0.1111
+C7 Momentum (12-1),Rtail,I,2,0.2000,0.5989,0.1667
+C7 Momentum (12-1),Rtail,I,3,0.3333,0.5287,0.2778
+C7 Momentum (12-1),Rtail,F,1,0.0667,0.7575,0.0556
+C7 Momentum (12-1),Rtail,F,2,0.0667,0.7575,0.0556
+C7 Momentum (12-1),Rtail,F,3,0.0667,0.7575,0.0556
+C7 Momentum (12-1),Meals,T,1,0.1333,0.6610,0.0769
+C7 Momentum (12-1),Meals,T,2,0.3333,0.5287,0.1923
+C7 Momentum (12-1),Meals,T,3,0.8000,0.6610,0.4615
+C7 Momentum (12-1),Meals,I,1,0.1333,0.6610,0.0769
+C7 Momentum (12-1),Meals,I,2,0.4667,0.5076,0.2692
+C7 Momentum (12-1),Meals,I,3,0.5333,0.5128,0.3077
+C7 Momentum (12-1),Meals,F,1,0.0667,0.7575,0.0385
+C7 Momentum (12-1),Meals,F,2,0.1333,0.6610,0.0769
+C7 Momentum (12-1),Meals,F,3,0.4000,0.5128,0.2308
+C7 Momentum (12-1),Banks,T,1,0.1333,0.6610,0.0800
+C7 Momentum (12-1),Banks,T,2,0.1333,0.6610,0.0800
+C7 Momentum (12-1),Banks,T,3,0.2667,0.5566,0.1600
+C7 Momentum (12-1),Banks,I,1,0.2667,0.5566,0.1600
+C7 Momentum (12-1),Banks,I,2,0.6667,0.5566,0.4000
+C7 Momentum (12-1),Banks,I,3,0.8000,0.6610,0.4800
+C7 Momentum (12-1),Banks,F,1,0.0667,0.7575,0.0400
+C7 Momentum (12-1),Banks,F,2,0.0667,0.7575,0.0400
+C7 Momentum (12-1),Banks,F,3,0.6000,0.5287,0.3600
+C7 Momentum (12-1),Insur,T,1,0.1333,0.6610,0.0909
+C7 Momentum (12-1),Insur,T,2,0.2000,0.5989,0.1364
+C7 Momentum (12-1),Insur,T,3,0.6000,0.5287,0.4091
+C7 Momentum (12-1),Insur,I,1,0.3333,0.5287,0.2273
+C7 Momentum (12-1),Insur,I,2,0.7333,0.5989,0.5000
+C7 Momentum (12-1),Insur,I,3,0.7333,0.5989,0.5000
+C7 Momentum (12-1),Insur,F,1,0.0667,0.7575,0.0455
+C7 Momentum (12-1),Insur,F,2,0.0667,0.7575,0.0455
+C7 Momentum (12-1),Insur,F,3,0.1333,0.6610,0.0909
+C7 Momentum (12-1),RlEst,T,1,0.1333,0.6610,0.1000
+C7 Momentum (12-1),RlEst,T,2,0.2000,0.5989,0.1500
+C7 Momentum (12-1),RlEst,T,3,0.4000,0.5128,0.3000
+C7 Momentum (12-1),RlEst,I,1,0.2000,0.5989,0.1500
+C7 Momentum (12-1),RlEst,I,2,0.2667,0.5566,0.2000
+C7 Momentum (12-1),RlEst,I,3,0.3333,0.5287,0.2500
+C7 Momentum (12-1),RlEst,F,1,0.2667,0.5566,0.2000
+C7 Momentum (12-1),RlEst,F,2,0.6000,0.5287,0.4500
+C7 Momentum (12-1),RlEst,F,3,0.6000,0.5287,0.4500
+C7 Momentum (12-1),Fin,T,1,0.1333,0.6610,0.0952
+C7 Momentum (12-1),Fin,T,2,0.3333,0.5287,0.2381
+C7 Momentum (12-1),Fin,T,3,0.4667,0.5076,0.3333
+C7 Momentum (12-1),Fin,I,1,0.4667,0.5076,0.3333
+C7 Momentum (12-1),Fin,I,2,0.5333,0.5128,0.3810
+C7 Momentum (12-1),Fin,I,3,0.6000,0.5287,0.4286
+C7 Momentum (12-1),Fin,F,1,0.0667,0.7575,0.0476
+C7 Momentum (12-1),Fin,F,2,0.0667,0.7575,0.0476
+C7 Momentum (12-1),Fin,F,3,0.3333,0.5287,0.2381
+C7 Momentum (12-1),Other,T,1,0.0667,0.7575,0.0385
+C7 Momentum (12-1),Other,T,2,0.0667,0.7575,0.0385
+C7 Momentum (12-1),Other,T,3,0.1333,0.6610,0.0769
+C7 Momentum (12-1),Other,I,1,0.1333,0.6610,0.0769
+C7 Momentum (12-1),Other,I,2,0.3333,0.5287,0.1923
+C7 Momentum (12-1),Other,I,3,0.8000,0.6610,0.4615
+C7 Momentum (12-1),Other,F,1,0.0667,0.7575,0.0385
+C7 Momentum (12-1),Other,F,2,0.6000,0.5287,0.3462
+C7 Momentum (12-1),Other,F,3,0.8000,0.6610,0.4615

@@ -1,0 +1,24 @@
+\begin{table}[!htbp]
+\centering
+\scriptsize
+\caption{Decision report produced by the system for 2018--2020 (five best and five worst industries). Rank (RA): rank under the rank-average baseline. Confidence: CRITIC-weighted mean secondary grade, labelled high or low relative to the cross-sectional median (Section~\ref{sec:reliability}). Mostly good / bad on: criteria with the largest mean truth / falsity grade, shown when that grade exceeds 0.4, i.e.\ when the industry was in the top / bottom third of the cross-section in clearly more than one third of the months.}\label{tab:report}
+\begin{adjustbox}{max width=\textwidth}
+\begin{tabular}{lrrrrll}
+\toprule
+Industry & Rank & $RC_i$ & Rank (RA) & Confidence & Mostly good on & Mostly bad on \\
+\midrule
+Consumer goods & 1 & 0.5380 & 1 & 0.640 (high) & beta, volatility & -- \\
+Beer and liquor & 2 & 0.5311 & 3 & 0.619 (high) & beta, VaR & return, reward-to-risk \\
+Candy and soda & 3 & 0.5303 & 4 & 0.610 (high) & beta, volatility & reward-to-risk \\
+Utilities & 4 & 0.5301 & 2 & 0.630 (high) & beta, volatility & reward-to-risk \\
+Food products & 5 & 0.5272 & 7 & 0.632 (high) & beta, volatility & return, reward-to-risk \\
+\midrule
+Non-metallic and industrial metal mining & 45 & 0.4741 & 45 & 0.583 (low) & -- & volatility, VaR \\
+Coal & 46 & 0.4716 & 48 & 0.640 (high) & -- & volatility, VaR \\
+Chemicals & 47 & 0.4716 & 39 & 0.583 (low) & -- & momentum \\
+Petroleum and natural gas & 48 & 0.4699 & 47 & 0.605 (high) & -- & VaR, volatility \\
+Steel works & 49 & 0.4630 & 49 & 0.628 (high) & -- & volatility, VaR \\
+\bottomrule
+\end{tabular}
+\end{adjustbox}
+\end{table}

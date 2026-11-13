@@ -1,0 +1,27 @@
+\begin{table}[!htbp]
+\centering
+\scriptsize
+\caption{Comparison with Markowitz mean--variance (MV) portfolios and tail-risk measures on the hold-out period (1991--2020). The MV portfolios are long-only, estimated on the three-year decision window and re-estimated every January. Mean: annualised excess return (\%); StD: annualised volatility (\%); VaR, ES and EVaR: daily value-at-risk, expected shortfall and expectile value-at-risk at $\alpha=5\%$ by historical simulation (\%); maximum drawdown (\%). MV weights: minimum-variance weights within the ten selected industries. Lower panel: relative difference of the proposed portfolio to each benchmark.}\label{tab:risk}
+\begin{adjustbox}{max width=\textwidth}
+\begin{tabular}{lrrrrrrr}
+\toprule
+Portfolio & Mean & StD & Sharpe & VaR & ES & EVaR & Max.\ drawdown \\
+\midrule
+Top 10: Proposed & 10.3 & 14.3 & 0.72 & 1.30 & 2.13 & 1.02 & 44 \\
+Top 10: Proposed, MV weights & 9.5 & 13.7 & 0.69 & 1.23 & 2.02 & 0.97 & 39 \\
+Top 10: SF-TOPSIS & 9.9 & 14.4 & 0.69 & 1.32 & 2.15 & 1.03 & 45 \\
+Top 10: TOPSIS & 11.0 & 20.6 & 0.53 & 1.93 & 3.13 & 1.51 & 59 \\
+Equal weight ($1/N$) & 10.3 & 18.0 & 0.57 & 1.67 & 2.73 & 1.31 & 57 \\
+Minimum variance (MV) & 9.1 & 13.4 & 0.68 & 1.20 & 1.98 & 0.94 & 39 \\
+Maximum Sharpe ratio (MV) & 7.5 & 19.6 & 0.38 & 1.86 & 2.95 & 1.44 & 60 \\
+Market & 9.8 & 18.3 & 0.53 & 1.74 & 2.76 & 1.34 & 55 \\
+\midrule
+\multicolumn{8}{l}{\emph{Relative difference of the proposed portfolio (\%)}}\\
+vs.\ equal weight ($1/N$) & 0 & -21 & +26 & -22 & -22 & -23 & -22 \\
+vs.\ minimum variance (MV) & +14 & +7 & +6 & +9 & +8 & +8 & +13 \\
+vs.\ maximum Sharpe ratio (MV) & +37 & -27 & +88 & -30 & -28 & -29 & -26 \\
+vs.\ market & +5 & -22 & +35 & -25 & -23 & -24 & -19 \\
+\bottomrule
+\end{tabular}
+\end{adjustbox}
+\end{table}

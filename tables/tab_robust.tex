@@ -1,0 +1,27 @@
+\begin{table}[!htbp]
+\centering
+\footnotesize
+\caption{Ranking stability on the hold-out windows: mean Kendall's $\tau$ between unperturbed and perturbed rankings over 10 three-year windows and 100 replications per window and scheme (month bootstrap; outliers of $\pm 5$ standard deviations in 10\% of the observations; Gaussian noise of 0.25 standard deviations on every observation, which moves observations across the class boundaries without creating outliers). Average ranks are computed over the 30 window--scheme blocks (Friedman $\chi^2=195.7$, $p<0.001$; Nemenyi CD $=3.62$); Holm $p$: Holm-adjusted Wilcoxon signed-rank test of each method against the proposed framework over the blocks.}\label{tab:robust}
+\begin{adjustbox}{max width=\textwidth}
+\begin{tabular}{lrrrrrr}
+\toprule
+ & Bootstrap & Outlier & Noise & Overall & Avg. rank & Holm $p$ \\
+\midrule
+Proposed & 0.851 & 0.904 & 0.886 & 0.880 & 7.27 & -- \\
+Abl-1 (no secondary grades) & 0.848 & 0.902 & 0.888 & 0.879 & 7.30 & 1.000 \\
+Abl-2 (no hesitancy) & 0.849 & 0.911 & 0.883 & 0.881 & 6.77 & 1.000 \\
+Abl-3 (no rescaling) & 0.726 & 0.779 & 0.682 & 0.729 & 11.60 & $<$0.001 \\
+SF-TOPSIS & 0.852 & 0.908 & 0.881 & 0.880 & 6.93 & 1.000 \\
+HF-TOPSIS & 0.839 & 0.902 & 0.866 & 0.869 & 8.97 & $<$0.001 \\
+TOPSIS & 0.735 & 0.539 & 0.899 & 0.724 & 11.20 & $<$0.001 \\
+WASPAS & 0.753 & 0.607 & 0.916 & 0.759 & 9.80 & $<$0.001 \\
+EDAS & 0.721 & 0.526 & 0.899 & 0.715 & 11.43 & $<$0.001 \\
+CoCoSo & 0.771 & 0.651 & 0.921 & 0.781 & 8.50 & 0.004 \\
+Rank average & 0.871 & 0.923 & 0.944 & 0.913 & 2.67 & $<$0.001 \\
+TOPSIS on ranks & 0.886 & 0.914 & 0.938 & 0.913 & 2.93 & $<$0.001 \\
+Low volatility & 0.924 & 0.667 & 0.941 & 0.844 & 5.10 & 1.000 \\
+Low beta & 0.900 & 0.742 & 0.954 & 0.865 & 4.53 & 1.000 \\
+\bottomrule
+\end{tabular}
+\end{adjustbox}
+\end{table}

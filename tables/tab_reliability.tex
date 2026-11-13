@@ -1,0 +1,16 @@
+\begin{table}[!htbp]
+\centering
+\footnotesize
+\caption{Reliability flag on the hold-out period (30 decisions): mean Spearman correlation between the scores of the proposed framework and next-year criteria attainment, computed separately for the industries with high and low confidence (split at the median within each decision). Confidence is the CRITIC-weighted mean secondary grade, or the negative weighted standard deviation of the monthly percentile ranks (conventional dispersion). ``Extreme half'': only the half of the industries whose scores lie farthest from the median, which removes the advantage that high-confidence industries have from being ranked near the top or bottom. $p$: moving-block bootstrap test (blocks of three years) of the mean difference High $-$ Low.}\label{tab:reliability}
+\begin{adjustbox}{max width=\textwidth}
+\begin{tabular}{lrrrr}
+\toprule
+ & High & Low & Decisions with High $>$ Low & Block-bootstrap $p$ \\
+\midrule
+Secondary grade, all industries & 0.633 & 0.337 & 28/30 & $<$0.001 \\
+Secondary grade, extreme half & 0.689 & 0.536 & 21/30 & $<$0.001 \\
+Rank dispersion, extreme half & 0.601 & 0.629 & 13/30 & 0.363 \\
+\bottomrule
+\end{tabular}
+\end{adjustbox}
+\end{table}

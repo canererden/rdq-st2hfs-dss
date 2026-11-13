@@ -1,0 +1,29 @@
+\begin{table}[!htbp]
+\centering
+\scriptsize
+\caption{Out-of-sample evaluation on the hold-out period (1991--2020, 30 annual decisions; year $t$ is decided with the data of years $t-3$ to $t-1$). Mean Spearman correlation between the decision scores and next-year criteria attainment ($\rho_U$), Sharpe ratio ($\rho_S$), return ($\rho_R$) and negative volatility ($\rho_V$); average ranks over the decisions (Friedman: $\chi^2=270.5$, $p<0.001$ for $\rho_U$; $\chi^2=22.7$, $p=0.045$ for $\rho_S$; Nemenyi CD $=3.62$); Holm $p$: Holm-adjusted moving-block bootstrap test (blocks of three years) of the mean paired difference to the proposed framework. All decisions: means over 1976--2020, including the design period.}\label{tab:oos}
+\begin{adjustbox}{max width=\textwidth}
+\begin{tabular}{lrrrrrrrrrr}
+\toprule
+ & \multicolumn{3}{c}{Criteria attainment} & \multicolumn{3}{c}{Sharpe ratio} & Return & Low vol. & \multicolumn{2}{c}{All decisions}\\
+\cmidrule(lr){2-4}\cmidrule(lr){5-7}\cmidrule(lr){10-11}
+ & $\rho_U$ & Avg. rank & Holm $p$ & $\rho_S$ & Avg. rank  & Holm $p$  & $\rho_R$ & $\rho_V$ & $\rho_U$, all & $\rho_S$, all \\
+\midrule
+Proposed & 0.547 & 4.07 & -- & 0.092 & 6.82 & -- & 0.010 & 0.637 & 0.539 & 0.117 \\
+Abl-1 (no secondary grades) & 0.525 & 5.47 & $<$0.001 & 0.085 & 7.50 & 1.000 & 0.004 & 0.606 & 0.518 & 0.111 \\
+Abl-2 (no hesitancy) & 0.516 & 6.20 & $<$0.001 & 0.084 & 7.73 & 1.000 & 0.003 & 0.593 & 0.510 & 0.110 \\
+Abl-3 (no rescaling) & 0.336 & 10.80 & $<$0.001 & 0.049 & 8.77 & 0.561 & 0.005 & 0.417 & 0.353 & 0.073 \\
+SF-TOPSIS & 0.513 & 6.47 & $<$0.001 & 0.085 & 7.47 & 1.000 & 0.003 & 0.585 & 0.509 & 0.110 \\
+HF-TOPSIS & 0.461 & 8.87 & $<$0.001 & 0.077 & 8.37 & 1.000 & 0.001 & 0.512 & 0.460 & 0.102 \\
+TOPSIS & 0.063 & 13.53 & $<$0.001 & 0.043 & 8.13 & 1.000 & 0.026 & 0.082 & 0.086 & 0.068 \\
+WASPAS & 0.265 & 10.93 & $<$0.001 & 0.069 & 8.03 & 1.000 & 0.018 & 0.342 & 0.268 & 0.100 \\
+EDAS & 0.131 & 12.70 & $<$0.001 & 0.056 & 7.33 & 1.000 & 0.032 & 0.170 & 0.162 & 0.086 \\
+CoCoSo & 0.386 & 9.13 & $<$0.001 & 0.080 & 7.50 & 1.000 & 0.023 & 0.497 & 0.385 & 0.107 \\
+Rank average & 0.546 & 4.17 & 0.867 & 0.096 & 6.20 & 1.000 & 0.012 & 0.677 & 0.541 & 0.120 \\
+TOPSIS on ranks & 0.557 & 3.63 & 0.270 & 0.089 & 7.18 & 1.000 & 0.004 & 0.649 & 0.544 & 0.111 \\
+Low volatility & 0.610 & 3.00 & 0.001 & 0.133 & 5.07 & 0.983 & 0.032 & 0.800 & 0.604 & 0.132 \\
+Low beta & 0.498 & 6.03 & 0.171 & 0.049 & 8.90 & 1.000 & -0.024 & 0.477 & 0.512 & 0.082 \\
+\bottomrule
+\end{tabular}
+\end{adjustbox}
+\end{table}
